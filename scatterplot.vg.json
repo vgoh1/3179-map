@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Food Supply Variability vs GDP per capita, 2019",
   "data": {
-    "url": "https://raw.githubusercontent.com/vgoh1/3179-HW10/main/data/continents.csv"
+    "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/obesity_clean.csv"
   },
   "transform": [
     {
