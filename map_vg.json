@@ -4,7 +4,7 @@
   "projection": { "type": "equalEarth" },
   "width": 800,
   "height": 500,
-  "title": "Prevalence of undernourishment (%) (3 year average)",
+  "title": "Undernourishment vs Food Insecurity",
   "layer": [
     {
       "data": {
@@ -22,11 +22,17 @@
           "lookup": "country",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/data2.csv"
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data.csv"
             },
             "key": "Country",
-            "fields": ["Value", "Country", "Year", "BinValue"]
+            "fields": ["Value", "Item", "Country", "Year", "BinValue"]
           }
+        },
+        {
+          "filter": { "field": "Value", "valid": true }
+        },
+        {
+          "filter": "datum.Item == 'undernourishment'"
         }
       ],
       "mark": { "type": "circle" },
@@ -42,14 +48,62 @@
         "fill": {
           "field": "BinValue",
           "type": "ordinal",
-          "legend": { "title": "Value" }
+          "legend": { "title": "Undernourishment (%)" },
+          "sort": [
+            "2.5 - 5",
+            "5 - 15",
+            "15 - 25",
+            "25 - 35",
+            "35 - 45",
+            "45 - 59.5"
+          ]
         },
-        "stroke": {
+        "tooltip": [
+          { "field": "Country", "type": "nominal" },
+          {
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Undernourishment"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
+      },
+      "transform": [
+        {
+          "lookup": "country",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data.csv"
+            },
+            "key": "Country",
+            "fields": ["Value", "Item", "Country", "Year", "BinValue"]
+          }
+        },
+        { "filter": "datum.Item == 'insecurity'" },
+        {
+          "filter": { "field": "Value", "valid": true }
+        }
+      ],
+      "mark": { "type": "circle" },
+      "encoding": {
+        "latitude": { "field": "latitude" },
+        "longitude": { "field": "longitude" },
+        "size": {
+          "field": "Value",
+          "type": "quantitative",
+          "scale": { "rangeMax": 1000 },
+          "legend": null
+        },
+        "fill": {
           "field": "Value",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [5, 15, 25, 35, 45, 59.5],
+            "domain": [0.5, 10, 20, 30, 40, 50, 65.4],
             "range": [
               "#ffffb2",
               "#fed976",
@@ -59,11 +113,16 @@
               "#e31a1c",
               "#b10026"
             ]
-          }
+          },
+          "legend": { "title": "Food Insecurity (%)" }
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
-          { "field": "Value", "type": "quantitative" }
+          {
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Food Insecurity"
+          }
         ]
       }
     }
