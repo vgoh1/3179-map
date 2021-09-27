@@ -1,0 +1,122 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Food Supply Variability vs GDP per capita",
+  "data": {
+    "url": "https://raw.githubusercontent.com/vgoh1/3179-HW10/main/data/continents.csv"
+  },
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2016,
+      "bind": {
+        "input": "range",
+        "min": 2016,
+        "max": 2019,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "pivot": "Item",
+      "value": "Value",
+      "groupby": ["Area", "Year", "Continent"]
+    },
+    { "filter": "datum.GDP != 0 && datum.FoodSupplyVar != 0" },
+    { "filter": "datum.Year == Year_selection" }
+  ],
+  "layer": [
+    {
+      "transform": [
+        { "filter": { "field": "Area", "equal": "Afghanistan" } },
+        { "filter": { "param": "Year_selection" } }
+      ],
+      "mark": { "type": "text", "fontSize": 100, "opacity": 0.06 },
+      "encoding": { "text": { "field": "Year" } }
+    },
+    {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": ["Continent"],
+          "bind": "legend"
+        }
+      },
+      "mark": { "type": "circle" },
+      "encoding": {
+        "y": {
+          "field": "FoodSupplyVar",
+          "type": "quantitative",
+          "title": "Per capita food supply variability (kcal/capita/day)"
+        },
+        "x": {
+          "field": "GDP",
+          "type": "quantitative",
+          "title": "GDP per capita (int.-$)"
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "North America",
+              "South America",
+              "Europe",
+              "Africa",
+              "Asia",
+              "Oceania"
+            ],
+            "range": [
+              "#1b9e77",
+              "#d95f02",
+              "#7570b3",
+              "#e7298a",
+              "#66a61e",
+              "#e6ab02"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": { "selection": "continent_highlight", "value": 0.8 },
+          "value": 0.2
+        },
+        "tooltip": [
+          { "field": "Area", "type": "nominal", "title": "Country" },
+          {
+            "field": "FoodSupplyVar",
+            "type": "quantitative",
+            "title": "Food Supply Variability"
+          },
+          { "field": "GDP", "type": "quantitative", "title": "GDP per capita" }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 5,
+        "dy": -5,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": { "field": "Area", "type": "nominal" },
+        "color": { "value": "black" },
+        "y": { "field": "FoodSupplyVar", "type": "quantitative" },
+        "x": { "field": "GDP", "type": "quantitative" },
+        "opacity": {
+          "condition": {
+            "test": "datum['Area'] == 'Lesotho' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Ecuador' || datum['Area'] == 'Lebanon' || datum['Area'] == 'Saint Kitts and Nevis' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Ireland'",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    }
+  ]
+}
