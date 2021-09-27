@@ -1,0 +1,71 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "projection": { "type": "equalEarth" },
+  "width": 800,
+  "height": 500,
+  "title": "Prevalence of undernourishment (%) (3 year average)",
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
+        "format": { "type": "topojson", "feature": "world.geo" }
+      },
+      "mark": { "type": "geoshape", "fill": "lightgray", "stroke": "white" }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
+      },
+      "transform": [
+        {
+          "lookup": "country",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/data2.csv"
+            },
+            "key": "Country",
+            "fields": ["Value", "Country", "Year", "BinValue"]
+          }
+        }
+      ],
+      "mark": { "type": "circle" },
+      "encoding": {
+        "latitude": { "field": "latitude" },
+        "longitude": { "field": "longitude" },
+        "size": {
+          "field": "Value",
+          "type": "quantitative",
+          "scale": { "rangeMax": 1000 },
+          "legend": null
+        },
+        "fill": {
+          "field": "BinValue",
+          "type": "ordinal",
+          "legend": { "title": "Value" }
+        },
+        "stroke": {
+          "field": "Value",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [5, 15, 25, 35, 45, 59.5],
+            "range": [
+              "#ffffb2",
+              "#fed976",
+              "#feb24c",
+              "#fd8d3c",
+              "#fc4e2a",
+              "#e31a1c",
+              "#b10026"
+            ]
+          }
+        },
+        "tooltip": [
+          { "field": "Country", "type": "nominal" },
+          { "field": "Value", "type": "quantitative" }
+        ]
+      }
+    }
+  ]
+}
