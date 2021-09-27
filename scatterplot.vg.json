@@ -12,8 +12,7 @@
       "value": "Value",
       "groupby": ["Area", "Year", "Continent"]
     },
-    { "filter": "datum.Year == '2019'" },
-    { "filter": "datum.GDP != 0 && datum.FoodSupplyVar != 0" }
+    { "filter": "datum.GDP != 0 && datum.Obesity != 0" }
   ],
   "layer": [
     {
@@ -29,12 +28,13 @@
         "y": {
           "field": "Obesity",
           "type": "quantitative",
-          "title": "Prevalence of obesity in the adult population (18 years and older) (%)"
+          "title": "Prevalence of obesity in the adult population (%)"
         },
         "x": {
           "field": "GDP",
           "type": "quantitative",
-          "title": "GDP per capita (int.-$)"
+          "title": "GDP per capita (int.-$)",
+          "scale": { "type": "log" }
         },
         "color": {
           "field": "Continent",
@@ -67,7 +67,7 @@
           {
             "field": "Obesity",
             "type": "quantitative",
-            "title": "Prevalence of obesity in adults"
+            "title": "Prevalence of obesity in adult population"
           },
           { "field": "GDP", "type": "quantitative", "title": "GDP per capita" }
         ]
