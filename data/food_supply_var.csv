@@ -1,0 +1,1623 @@
+Area,Continent,Item,Year,Value
+Afghanistan,Asia,GDP,2016,2057.1
+Afghanistan,Asia,GDP,2017,2058.4
+Afghanistan,Asia,GDP,2018,2033.8
+Afghanistan,Asia,GDP,2019,2065
+Afghanistan,Asia,GDP,2020,1979
+Afghanistan,Asia,FoodSupplyVar,2016,88
+Afghanistan,Asia,FoodSupplyVar,2017,88
+Afghanistan,Asia,FoodSupplyVar,2018,86
+Afghanistan,Asia,FoodSupplyVar,2019,43
+Albania,Europe,GDP,2016,12291.9
+Albania,Europe,GDP,2017,12771
+Albania,Europe,GDP,2018,13323.8
+Albania,Europe,GDP,2019,13671.5
+Albania,Europe,GDP,2020,13295.4
+Albania,Europe,FoodSupplyVar,2016,134
+Albania,Europe,FoodSupplyVar,2017,134
+Albania,Europe,FoodSupplyVar,2018,110
+Albania,Europe,FoodSupplyVar,2019,36
+Algeria,Africa,GDP,2016,11826.2
+Algeria,Africa,GDP,2017,11737.4
+Algeria,Africa,GDP,2018,11642.2
+Algeria,Africa,GDP,2019,11510.6
+Algeria,Africa,GDP,2020,10681.7
+Algeria,Africa,FoodSupplyVar,2016,25
+Algeria,Africa,FoodSupplyVar,2017,28
+Algeria,Africa,FoodSupplyVar,2018,59
+Algeria,Africa,FoodSupplyVar,2019,69
+Angola,Africa,GDP,2016,7569
+Angola,Africa,GDP,2017,7310.9
+Angola,Africa,GDP,2018,6933.5
+Angola,Africa,GDP,2019,6670.3
+Angola,Africa,GDP,2020,6198.1
+Angola,Africa,FoodSupplyVar,2016,59
+Angola,Africa,FoodSupplyVar,2017,78
+Angola,Africa,FoodSupplyVar,2018,91
+Angola,Africa,FoodSupplyVar,2019,93
+Antigua and Barbuda,North America,GDP,2016,19419.6
+Antigua and Barbuda,North America,GDP,2017,19840.3
+Antigua and Barbuda,North America,GDP,2018,21030.4
+Antigua and Barbuda,North America,GDP,2019,21548.7
+Antigua and Barbuda,North America,GDP,2020,17956.3
+Antigua and Barbuda,North America,FoodSupplyVar,2016,44
+Antigua and Barbuda,North America,FoodSupplyVar,2017,43
+Antigua and Barbuda,North America,FoodSupplyVar,2018,17
+Antigua and Barbuda,North America,FoodSupplyVar,2019,21
+Argentina,South America,GDP,2016,23189.5
+Argentina,South America,GDP,2017,23597.1
+Argentina,South America,GDP,2018,22759.4
+Argentina,South America,GDP,2019,22063.9
+Argentina,South America,GDP,2020,19686.5
+Argentina,South America,FoodSupplyVar,2016,52
+Argentina,South America,FoodSupplyVar,2017,45
+Argentina,South America,FoodSupplyVar,2018,41
+Argentina,South America,FoodSupplyVar,2019,37
+Armenia,Asia,GDP,2016,11303.1
+Armenia,Asia,GDP,2017,12115.1
+Armenia,Asia,GDP,2018,12715.1
+Armenia,Asia,GDP,2019,13653.8
+Armenia,Asia,GDP,2020,12592.6
+Armenia,Asia,FoodSupplyVar,2016,46
+Armenia,Asia,FoodSupplyVar,2017,25
+Armenia,Asia,FoodSupplyVar,2018,21
+Armenia,Asia,FoodSupplyVar,2019,25
+Australia,Oceania,GDP,2016,48197.4
+Australia,Oceania,GDP,2017,48482.6
+Australia,Oceania,GDP,2018,49151.7
+Australia,Oceania,GDP,2019,49455.5
+Australia,Oceania,GDP,2020,48697.8
+Australia,Oceania,FoodSupplyVar,2016,42
+Australia,Oceania,FoodSupplyVar,2017,42
+Australia,Oceania,FoodSupplyVar,2018,37
+Australia,Oceania,FoodSupplyVar,2019,37
+Austria,Europe,GDP,2016,53269.3
+Austria,Europe,GDP,2017,54170
+Austria,Europe,GDP,2018,55297.6
+Austria,Europe,GDP,2019,55833.3
+Austria,Europe,GDP,2020,51935.6
+Austria,Europe,FoodSupplyVar,2016,33
+Austria,Europe,FoodSupplyVar,2017,35
+Austria,Europe,FoodSupplyVar,2018,32
+Austria,Europe,FoodSupplyVar,2019,22
+Azerbaijan,Asia,GDP,2016,14238.8
+Azerbaijan,Asia,GDP,2017,14121.4
+Azerbaijan,Asia,GDP,2018,14209.6
+Azerbaijan,Asia,GDP,2019,14439.3
+Azerbaijan,Asia,GDP,2020,13699.7
+Azerbaijan,Asia,FoodSupplyVar,2016,24
+Azerbaijan,Asia,FoodSupplyVar,2017,20
+Azerbaijan,Asia,FoodSupplyVar,2018,43
+Azerbaijan,Asia,FoodSupplyVar,2019,76
+Bahamas,North America,GDP,2016,35558.1
+Bahamas,North America,GDP,2017,36298.4
+Bahamas,North America,GDP,2018,37020
+Bahamas,North America,GDP,2019,37100.4
+Bahamas,North America,GDP,2020,30764.1
+Bahamas,North America,FoodSupplyVar,2016,62
+Bahamas,North America,FoodSupplyVar,2017,53
+Bahamas,North America,FoodSupplyVar,2018,46
+Bahamas,North America,FoodSupplyVar,2019,39
+Bahrain,Asia,GDP,2016,47937.7
+Bahrain,Asia,GDP,2017,47709.8
+Bahrain,Asia,GDP,2018,46200.4
+Bahrain,Asia,GDP,2019,45060.4
+Bahrain,Asia,GDP,2020,40933.4
+Bangladesh,Asia,GDP,2016,3920.1
+Bangladesh,Asia,GDP,2017,4160.7
+Bangladesh,Asia,GDP,2018,4440.9
+Bangladesh,Asia,GDP,2019,4753.7
+Bangladesh,Asia,GDP,2020,4818.1
+Bangladesh,Asia,FoodSupplyVar,2016,29
+Bangladesh,Asia,FoodSupplyVar,2017,29
+Bangladesh,Asia,FoodSupplyVar,2018,34
+Bangladesh,Asia,FoodSupplyVar,2019,52
+Barbados,North America,GDP,2016,15738.1
+Barbados,North America,GDP,2017,15789
+Barbados,North America,GDP,2018,15674.9
+Barbados,North America,GDP,2019,15639
+Barbados,North America,GDP,2020,12870
+Barbados,North America,FoodSupplyVar,2016,17
+Barbados,North America,FoodSupplyVar,2017,21
+Barbados,North America,FoodSupplyVar,2018,37
+Barbados,North America,FoodSupplyVar,2019,29
+Belarus,Europe,GDP,2016,17822.6
+Belarus,Europe,GDP,2017,18280.2
+Belarus,Europe,GDP,2018,18885.2
+Belarus,Europe,GDP,2019,19283.1
+Belarus,Europe,GDP,2020,19148.2
+Belarus,Europe,FoodSupplyVar,2016,122
+Belarus,Europe,FoodSupplyVar,2017,103
+Belarus,Europe,FoodSupplyVar,2018,67
+Belarus,Europe,FoodSupplyVar,2019,68
+Belgium,Europe,GDP,2016,49829
+Belgium,Europe,GDP,2017,50442.3
+Belgium,Europe,GDP,2018,51111
+Belgium,Europe,GDP,2019,51742.7
+Belgium,Europe,GDP,2020,48210
+Belgium,Europe,FoodSupplyVar,2016,34
+Belgium,Europe,FoodSupplyVar,2017,34
+Belgium,Europe,FoodSupplyVar,2018,30
+Belgium,Europe,FoodSupplyVar,2019,28
+Belize,North America,GDP,2016,7207
+Belize,North America,GDP,2017,7193.6
+Belize,North America,GDP,2018,7261.9
+Belize,North America,GDP,2019,7251.9
+Belize,North America,GDP,2020,6119.9
+Belize,North America,FoodSupplyVar,2016,17
+Belize,North America,FoodSupplyVar,2017,15
+Belize,North America,FoodSupplyVar,2018,17
+Belize,North America,FoodSupplyVar,2019,33
+Benin,Africa,GDP,2016,2961.4
+Benin,Africa,GDP,2017,3044.5
+Benin,Africa,GDP,2018,3160.8
+Benin,Africa,GDP,2019,3287.3
+Benin,Africa,GDP,2020,3323.1
+Benin,Africa,FoodSupplyVar,2016,13
+Benin,Africa,FoodSupplyVar,2017,12
+Benin,Africa,FoodSupplyVar,2018,11
+Benin,Africa,FoodSupplyVar,2019,12
+Bermuda,North America,GDP,2016,78149.4
+Bermuda,North America,GDP,2017,81835
+Bermuda,North America,GDP,2018,81422.1
+Bermuda,North America,GDP,2019,81804.3
+Bhutan,Asia,GDP,2016,10775.2
+Bhutan,Asia,GDP,2017,11142.5
+Bhutan,Asia,GDP,2018,11348.4
+Bhutan,Asia,GDP,2019,11832.2
+Bhutan,Asia,GDP,2020,10909.1
+Bolivia (Plurinational State of),South America,GDP,2016,8202.5
+Bolivia (Plurinational State of),South America,GDP,2017,8423.7
+Bolivia (Plurinational State of),South America,GDP,2018,8655.5
+Bolivia (Plurinational State of),South America,GDP,2019,8724.5
+Bolivia (Plurinational State of),South America,GDP,2020,7931.8
+Bolivia (Plurinational State of),South America,FoodSupplyVar,2016,25
+Bolivia (Plurinational State of),South America,FoodSupplyVar,2017,24
+Bolivia (Plurinational State of),South America,FoodSupplyVar,2018,23
+Bolivia (Plurinational State of),South America,FoodSupplyVar,2019,23
+Bosnia and Herzegovina,Europe,GDP,2016,13194.3
+Bosnia and Herzegovina,Europe,GDP,2017,13753.8
+Bosnia and Herzegovina,Europe,GDP,2018,14386.7
+Bosnia and Herzegovina,Europe,GDP,2019,14896.8
+Bosnia and Herzegovina,Europe,GDP,2020,14339.8
+Bosnia and Herzegovina,Europe,FoodSupplyVar,2016,83
+Bosnia and Herzegovina,Europe,FoodSupplyVar,2017,82
+Bosnia and Herzegovina,Europe,FoodSupplyVar,2018,84
+Bosnia and Herzegovina,Europe,FoodSupplyVar,2019,30
+Botswana,Africa,GDP,2016,17117.3
+Botswana,Africa,GDP,2017,17253.7
+Botswana,Africa,GDP,2018,17634.7
+Botswana,Africa,GDP,2019,17776.8
+Botswana,Africa,GDP,2020,16040
+Botswana,Africa,FoodSupplyVar,2016,46
+Botswana,Africa,FoodSupplyVar,2017,36
+Botswana,Africa,FoodSupplyVar,2018,45
+Botswana,Africa,FoodSupplyVar,2019,54
+Brazil,South America,GDP,2016,14451.2
+Brazil,South America,GDP,2017,14524.6
+Brazil,South America,GDP,2018,14668.3
+Brazil,South America,GDP,2019,14763.9
+Brazil,South America,GDP,2020,14064
+Brazil,South America,FoodSupplyVar,2016,34
+Brazil,South America,FoodSupplyVar,2017,33
+Brazil,South America,FoodSupplyVar,2018,35
+Brazil,South America,FoodSupplyVar,2019,37
+Brunei Darussalam,Asia,GDP,2016,60867.3
+Brunei Darussalam,Asia,GDP,2017,60994.5
+Brunei Darussalam,Asia,GDP,2018,60389.2
+Brunei Darussalam,Asia,GDP,2019,62098
+Brunei Darussalam,Asia,GDP,2020,62243.6
+Brunei Darussalam,Asia,FoodSupplyVar,2016,9
+Brunei Darussalam,Asia,FoodSupplyVar,2017,6
+Brunei Darussalam,Asia,FoodSupplyVar,2018,11
+Brunei Darussalam,Asia,FoodSupplyVar,2019,11
+Bulgaria,Europe,GDP,2016,20513.1
+Bulgaria,Europe,GDP,2017,21387.3
+Bulgaria,Europe,GDP,2018,22208.5
+Bulgaria,Europe,GDP,2019,23191.6
+Bulgaria,Europe,GDP,2020,22383.8
+Bulgaria,Europe,FoodSupplyVar,2016,45
+Bulgaria,Europe,FoodSupplyVar,2017,45
+Bulgaria,Europe,FoodSupplyVar,2018,43
+Bulgaria,Europe,FoodSupplyVar,2019,45
+Burkina Faso,Africa,GDP,2016,1981.4
+Burkina Faso,Africa,GDP,2017,2044.4
+Burkina Faso,Africa,GDP,2018,2120.3
+Burkina Faso,Africa,GDP,2019,2178.3
+Burkina Faso,Africa,GDP,2020,2160.5
+Burkina Faso,Africa,FoodSupplyVar,2016,15
+Burkina Faso,Africa,FoodSupplyVar,2017,20
+Burkina Faso,Africa,FoodSupplyVar,2018,39
+Burkina Faso,Africa,FoodSupplyVar,2019,41
+Burundi,Africa,GDP,2016,794.6
+Burundi,Africa,GDP,2017,773.6
+Burundi,Africa,GDP,2018,761.5
+Burundi,Africa,GDP,2019,751.7
+Burundi,Africa,GDP,2020,731.1
+Cabo Verde,Africa,GDP,2016,6482.7
+Cabo Verde,Africa,GDP,2017,6643.2
+Cabo Verde,Africa,GDP,2018,6864.2
+Cabo Verde,Africa,GDP,2019,7171.8
+Cabo Verde,Africa,GDP,2020,6045.1
+Cabo Verde,Africa,FoodSupplyVar,2016,12
+Cabo Verde,Africa,FoodSupplyVar,2017,12
+Cabo Verde,Africa,FoodSupplyVar,2018,13
+Cabo Verde,Africa,FoodSupplyVar,2019,16
+Cambodia,Asia,GDP,2016,3733.5
+Cambodia,Asia,GDP,2017,3928.4
+Cambodia,Asia,GDP,2018,4159.3
+Cambodia,Asia,GDP,2019,4388.8
+Cambodia,Asia,GDP,2020,4191.9
+Cambodia,Asia,FoodSupplyVar,2016,27
+Cambodia,Asia,FoodSupplyVar,2017,27
+Cambodia,Asia,FoodSupplyVar,2018,27
+Cambodia,Asia,FoodSupplyVar,2019,26
+Cameroon,Africa,GDP,2016,3524.4
+Cameroon,Africa,GDP,2017,3554.5
+Cameroon,Africa,GDP,2018,3603.5
+Cameroon,Africa,GDP,2019,3642.3
+Cameroon,Africa,GDP,2020,3576.3
+Cameroon,Africa,FoodSupplyVar,2016,25
+Cameroon,Africa,FoodSupplyVar,2017,28
+Cameroon,Africa,FoodSupplyVar,2018,33
+Cameroon,Africa,FoodSupplyVar,2019,25
+Canada,North America,GDP,2016,47457.6
+Canada,North America,GDP,2017,48317.1
+Canada,North America,GDP,2018,48796.8
+Canada,North America,GDP,2019,49006.7
+Canada,North America,GDP,2020,45856.6
+Canada,North America,FoodSupplyVar,2016,34
+Canada,North America,FoodSupplyVar,2017,39
+Canada,North America,FoodSupplyVar,2018,44
+Canada,North America,FoodSupplyVar,2019,68
+Central African Republic,Africa,GDP,2016,884.5
+Central African Republic,Africa,GDP,2017,912.8
+Central African Republic,Africa,GDP,2018,933.1
+Central African Republic,Africa,GDP,2019,945.1
+Central African Republic,Africa,GDP,2020,928.6
+Central African Republic,Africa,FoodSupplyVar,2016,154
+Central African Republic,Africa,FoodSupplyVar,2017,119
+Central African Republic,Africa,FoodSupplyVar,2018,65
+Central African Republic,Africa,FoodSupplyVar,2019,88
+Chad,Africa,GDP,2016,1687.1
+Chad,Africa,GDP,2017,1587
+Chad,Africa,GDP,2018,1576.3
+Chad,Africa,GDP,2019,1579.6
+Chad,Africa,GDP,2020,1519.9
+Chad,Africa,FoodSupplyVar,2016,50
+Chad,Africa,FoodSupplyVar,2017,52
+Chad,Africa,FoodSupplyVar,2018,49
+Chad,Africa,FoodSupplyVar,2019,36
+Chile,South America,GDP,2016,24531.4
+Chile,South America,GDP,2017,24470.7
+Chile,South America,GDP,2018,25028.9
+Chile,South America,GDP,2019,24967.6
+Chile,South America,GDP,2020,23324.5
+Chile,South America,FoodSupplyVar,2016,12
+Chile,South America,FoodSupplyVar,2017,13
+Chile,South America,FoodSupplyVar,2018,13
+Chile,South America,FoodSupplyVar,2019,14
+China,Asia,GDP,2016,13755.1
+China,Asia,GDP,2017,14621.2
+China,Asia,GDP,2018,15525.1
+China,Asia,GDP,2019,16361.5
+China,Asia,GDP,2020,16630.3
+China,Asia,FoodSupplyVar,2016,20
+China,Asia,FoodSupplyVar,2017,19
+China,Asia,FoodSupplyVar,2018,19
+China,Asia,FoodSupplyVar,2019,21
+Taiwan,Asia,FoodSupplyVar,2016,17
+Taiwan,Asia,FoodSupplyVar,2017,19
+Taiwan,Asia,FoodSupplyVar,2018,25
+Taiwan,Asia,FoodSupplyVar,2019,16
+Colombia,South America,GDP,2016,14194.5
+Colombia,South America,GDP,2017,14171.3
+Colombia,South America,GDP,2018,14314.9
+Colombia,South America,GDP,2019,14585.3
+Colombia,South America,GDP,2020,13441.5
+Colombia,South America,FoodSupplyVar,2016,96
+Colombia,South America,FoodSupplyVar,2017,36
+Colombia,South America,FoodSupplyVar,2018,74
+Colombia,South America,FoodSupplyVar,2019,75
+Comoros,Africa,GDP,2016,2988
+Comoros,Africa,GDP,2017,3032.3
+Comoros,Africa,GDP,2018,3066.8
+Comoros,Africa,GDP,2019,3059.5
+Comoros,Africa,GDP,2020,3140.7
+Comoros,Africa,FoodSupplyVar,2016,21
+Comoros,Africa,FoodSupplyVar,2017,20
+Comoros,Africa,FoodSupplyVar,2018,23
+Comoros,Africa,FoodSupplyVar,2019,29
+Congo,Africa,GDP,2016,4551.4
+Congo,Africa,GDP,2017,4241.9
+Congo,Africa,GDP,2018,3933.4
+Congo,Africa,GDP,2019,3842.8
+Congo,Africa,GDP,2020,3449.1
+Congo,Africa,FoodSupplyVar,2016,66
+Congo,Africa,FoodSupplyVar,2017,45
+Congo,Africa,FoodSupplyVar,2018,42
+Congo,Africa,FoodSupplyVar,2019,24
+Costa Rica,North America,GDP,2016,19736.7
+Costa Rica,North America,GDP,2017,20347
+Costa Rica,North America,GDP,2018,20559.9
+Costa Rica,North America,GDP,2019,20805.3
+Costa Rica,North America,GDP,2020,19679.3
+Costa Rica,North America,FoodSupplyVar,2016,44
+Costa Rica,North America,FoodSupplyVar,2017,33
+Costa Rica,North America,FoodSupplyVar,2018,38
+Costa Rica,North America,FoodSupplyVar,2019,44
+Côte d'Ivoire,Africa,GDP,2016,4615.7
+Côte d'Ivoire,Africa,GDP,2017,4830.8
+Côte d'Ivoire,Africa,GDP,2018,5033.5
+Côte d'Ivoire,Africa,GDP,2019,5212.6
+Côte d'Ivoire,Africa,GDP,2020,5174.1
+Côte d'Ivoire,Africa,FoodSupplyVar,2016,73
+Côte d'Ivoire,Africa,FoodSupplyVar,2017,78
+Côte d'Ivoire,Africa,FoodSupplyVar,2018,75
+Côte d'Ivoire,Africa,FoodSupplyVar,2019,22
+Croatia,Europe,GDP,2016,25599.8
+Croatia,Europe,GDP,2017,26800.1
+Croatia,Europe,GDP,2018,27799.8
+Croatia,Europe,GDP,2019,28753.5
+Croatia,Europe,GDP,2020,26465.1
+Croatia,Europe,FoodSupplyVar,2016,36
+Croatia,Europe,FoodSupplyVar,2017,60
+Croatia,Europe,FoodSupplyVar,2018,57
+Croatia,Europe,FoodSupplyVar,2019,60
+Cuba,North America,FoodSupplyVar,2016,27
+Cuba,North America,FoodSupplyVar,2017,49
+Cuba,North America,FoodSupplyVar,2018,68
+Cuba,North America,FoodSupplyVar,2019,75
+Cyprus,Asia,GDP,2016,36523.7
+Cyprus,Asia,GDP,2017,38050.9
+Cyprus,Asia,GDP,2018,39559.5
+Cyprus,Asia,GDP,2019,40226.8
+Cyprus,Asia,GDP,2020,37655.2
+Cyprus,Asia,FoodSupplyVar,2016,153
+Cyprus,Asia,FoodSupplyVar,2017,154
+Cyprus,Asia,FoodSupplyVar,2018,129
+Cyprus,Asia,FoodSupplyVar,2019,101
+Czechia,Europe,GDP,2016,37015
+Czechia,Europe,GDP,2017,38824.9
+Czechia,Europe,GDP,2018,39933
+Czechia,Europe,GDP,2019,40696.3
+Czechia,Europe,GDP,2020,38319.3
+Czechia,Europe,FoodSupplyVar,2016,68
+Czechia,Europe,FoodSupplyVar,2017,66
+Czechia,Europe,FoodSupplyVar,2018,67
+Czechia,Europe,FoodSupplyVar,2019,60
+Democratic People's Republic of Korea,Asia,FoodSupplyVar,2016,31
+Democratic People's Republic of Korea,Asia,FoodSupplyVar,2017,26
+Democratic People's Republic of Korea,Asia,FoodSupplyVar,2018,25
+Democratic People's Republic of Korea,Asia,FoodSupplyVar,2019,44
+Democratic Republic of the Congo,Africa,GDP,2016,1055.6
+Democratic Republic of the Congo,Africa,GDP,2017,1059.8
+Democratic Republic of the Congo,Africa,GDP,2018,1085.9
+Democratic Republic of the Congo,Africa,GDP,2019,1097.9
+Democratic Republic of the Congo,Africa,GDP,2020,1072.2
+Democratic Republic of the Congo,Africa,FoodSupplyVar,2016,27
+Democratic Republic of the Congo,Africa,FoodSupplyVar,2017,25
+Democratic Republic of the Congo,Africa,FoodSupplyVar,2018,26
+Democratic Republic of the Congo,Africa,FoodSupplyVar,2019,13
+Denmark,Europe,GDP,2016,54185
+Denmark,Europe,GDP,2017,55356.7
+Denmark,Europe,GDP,2018,56281.3
+Denmark,Europe,GDP,2019,57678.1
+Denmark,Europe,GDP,2020,55938.2
+Denmark,Europe,FoodSupplyVar,2016,13
+Denmark,Europe,FoodSupplyVar,2017,15
+Denmark,Europe,FoodSupplyVar,2018,16
+Denmark,Europe,FoodSupplyVar,2019,19
+Djibouti,Africa,GDP,2016,4709.5
+Djibouti,Africa,GDP,2017,4885.2
+Djibouti,Africa,GDP,2018,5214.1
+Djibouti,Africa,GDP,2019,5534.8
+Djibouti,Africa,GDP,2020,5481.1
+Djibouti,Africa,FoodSupplyVar,2016,26
+Djibouti,Africa,FoodSupplyVar,2017,25
+Djibouti,Africa,FoodSupplyVar,2018,23
+Djibouti,Africa,FoodSupplyVar,2019,27
+Dominica,North America,GDP,2016,12154.8
+Dominica,North America,GDP,2017,11304
+Dominica,North America,GDP,2018,11537
+Dominica,North America,GDP,2019,11905.9
+Dominica,North America,GDP,2020,9891.3
+Dominica,North America,FoodSupplyVar,2016,22
+Dominica,North America,FoodSupplyVar,2017,20
+Dominica,North America,FoodSupplyVar,2018,21
+Dominica,North America,FoodSupplyVar,2019,26
+Dominican Republic,North America,GDP,2016,16166.6
+Dominican Republic,North America,GDP,2017,16735.4
+Dominican Republic,North America,GDP,2018,17711.8
+Dominican Republic,North America,GDP,2019,18412.9
+Dominican Republic,North America,GDP,2020,17003
+Dominican Republic,North America,FoodSupplyVar,2016,27
+Dominican Republic,North America,FoodSupplyVar,2017,23
+Dominican Republic,North America,FoodSupplyVar,2018,23
+Dominican Republic,North America,FoodSupplyVar,2019,24
+Ecuador,South America,GDP,2016,11551.6
+Ecuador,South America,GDP,2017,11617.9
+Ecuador,South America,GDP,2018,11561.7
+Ecuador,South America,GDP,2019,11370.6
+Ecuador,South America,GDP,2020,10329.2
+Ecuador,South America,FoodSupplyVar,2016,41
+Ecuador,South America,FoodSupplyVar,2017,60
+Ecuador,South America,FoodSupplyVar,2018,65
+Ecuador,South America,FoodSupplyVar,2019,80
+Egypt,Africa,GDP,2016,10795.8
+Egypt,Africa,GDP,2017,11014.5
+Egypt,Africa,GDP,2018,11366.3
+Egypt,Africa,GDP,2019,11763.3
+Egypt,Africa,GDP,2020,11951.4
+Egypt,Africa,FoodSupplyVar,2016,46
+Egypt,Africa,FoodSupplyVar,2017,47
+Egypt,Africa,FoodSupplyVar,2018,47
+Egypt,Africa,FoodSupplyVar,2019,47
+El Salvador,North America,GDP,2016,8309.4
+El Salvador,North America,GDP,2017,8454.1
+El Salvador,North America,GDP,2018,8614
+El Salvador,North America,GDP,2019,8796.1
+El Salvador,North America,GDP,2020,8056.5
+El Salvador,North America,FoodSupplyVar,2016,16
+El Salvador,North America,FoodSupplyVar,2017,15
+El Salvador,North America,FoodSupplyVar,2018,23
+El Salvador,North America,FoodSupplyVar,2019,33
+Equatorial Guinea,Africa,GDP,2016,24827
+Equatorial Guinea,Africa,GDP,2017,22551
+Equatorial Guinea,Africa,GDP,2018,20386
+Equatorial Guinea,Africa,GDP,2019,18502.6
+Equatorial Guinea,Africa,GDP,2020,17007.6
+Estonia,Europe,GDP,2016,32130.3
+Estonia,Europe,GDP,2017,33856.2
+Estonia,Europe,GDP,2018,35208
+Estonia,Europe,GDP,2019,36830.1
+Estonia,Europe,GDP,2020,35638.4
+Estonia,Europe,FoodSupplyVar,2016,27
+Estonia,Europe,FoodSupplyVar,2017,30
+Estonia,Europe,FoodSupplyVar,2018,40
+Estonia,Europe,FoodSupplyVar,2019,45
+Eswatini,Africa,GDP,2016,8321
+Eswatini,Africa,GDP,2017,8408
+Eswatini,Africa,GDP,2018,8520.6
+Eswatini,Africa,GDP,2019,8621.8
+Eswatini,Africa,GDP,2020,8392.7
+Eswatini,Africa,FoodSupplyVar,2016,95
+Eswatini,Africa,FoodSupplyVar,2017,60
+Eswatini,Africa,FoodSupplyVar,2018,33
+Eswatini,Africa,FoodSupplyVar,2019,28
+Ethiopia,Africa,GDP,2016,1894.9
+Ethiopia,Africa,GDP,2017,2021.6
+Ethiopia,Africa,GDP,2018,2103.5
+Ethiopia,Africa,GDP,2019,2221.4
+Ethiopia,Africa,GDP,2020,2296.8
+Ethiopia,Africa,FoodSupplyVar,2016,75
+Ethiopia,Africa,FoodSupplyVar,2017,74
+Ethiopia,Africa,FoodSupplyVar,2018,54
+Ethiopia,Africa,FoodSupplyVar,2019,51
+Fiji,Oceania,GDP,2016,12820.7
+Fiji,Oceania,GDP,2017,13429.3
+Fiji,Oceania,GDP,2018,13846.2
+Fiji,Oceania,GDP,2019,13684.4
+Fiji,Oceania,GDP,2020,10997.5
+Fiji,Oceania,FoodSupplyVar,2016,94
+Fiji,Oceania,FoodSupplyVar,2017,103
+Fiji,Oceania,FoodSupplyVar,2018,90
+Fiji,Oceania,FoodSupplyVar,2019,49
+Finland,Europe,GDP,2016,46206.8
+Finland,Europe,GDP,2017,47570.1
+Finland,Europe,GDP,2018,48130.3
+Finland,Europe,GDP,2019,48689.2
+Finland,Europe,GDP,2020,47260.8
+Finland,Europe,FoodSupplyVar,2016,21
+Finland,Europe,FoodSupplyVar,2017,24
+Finland,Europe,FoodSupplyVar,2018,27
+Finland,Europe,FoodSupplyVar,2019,12
+France,Europe,GDP,2016,43705.1
+France,Europe,GDP,2017,44577.1
+France,Europe,GDP,2018,45251.9
+France,Europe,GDP,2019,45834.2
+France,Europe,GDP,2020,42025.6
+France,Europe,FoodSupplyVar,2016,41
+France,Europe,FoodSupplyVar,2017,48
+France,Europe,FoodSupplyVar,2018,50
+France,Europe,FoodSupplyVar,2019,51
+French Polynesia,Oceania,FoodSupplyVar,2016,23
+French Polynesia,Oceania,FoodSupplyVar,2017,34
+French Polynesia,Oceania,FoodSupplyVar,2018,34
+French Polynesia,Oceania,FoodSupplyVar,2019,24
+Gabon,Africa,GDP,2016,15359.7
+Gabon,Africa,GDP,2017,15006.8
+Gabon,Africa,GDP,2018,14744.4
+Gabon,Africa,GDP,2019,14950.1
+Gabon,Africa,GDP,2020,14399.9
+Gabon,Africa,FoodSupplyVar,2016,79
+Gabon,Africa,FoodSupplyVar,2017,75
+Gabon,Africa,FoodSupplyVar,2018,66
+Gabon,Africa,FoodSupplyVar,2019,52
+Gambia,Africa,GDP,2016,2036.9
+Gambia,Africa,GDP,2017,2072.6
+Gambia,Africa,GDP,2018,2158.1
+Gambia,Africa,GDP,2019,2222.9
+Gambia,Africa,GDP,2020,2159.4
+Gambia,Africa,FoodSupplyVar,2016,42
+Gambia,Africa,FoodSupplyVar,2017,38
+Gambia,Africa,FoodSupplyVar,2018,42
+Gambia,Africa,FoodSupplyVar,2019,49
+Georgia,Asia,GDP,2016,12963.7
+Georgia,Asia,GDP,2017,13589.7
+Georgia,Asia,GDP,2018,14253.4
+Georgia,Asia,GDP,2019,14989.3
+Georgia,Asia,GDP,2020,14089.3
+Georgia,Asia,FoodSupplyVar,2016,111
+Georgia,Asia,FoodSupplyVar,2017,112
+Georgia,Asia,FoodSupplyVar,2018,107
+Georgia,Asia,FoodSupplyVar,2019,62
+Germany,Europe,GDP,2016,51803.2
+Germany,Europe,GDP,2017,52952.9
+Germany,Europe,GDP,2018,53463.4
+Germany,Europe,GDP,2019,53639.3
+Germany,Europe,GDP,2020,50922.4
+Germany,Europe,FoodSupplyVar,2016,32
+Germany,Europe,FoodSupplyVar,2017,16
+Germany,Europe,FoodSupplyVar,2018,18
+Germany,Europe,FoodSupplyVar,2019,29
+Ghana,Africa,GDP,2016,4712.5
+Ghana,Africa,GDP,2017,4983.7
+Ghana,Africa,GDP,2018,5177.9
+Ghana,Africa,GDP,2019,5396.9
+Ghana,Africa,GDP,2020,5305
+Ghana,Africa,FoodSupplyVar,2016,38
+Ghana,Africa,FoodSupplyVar,2017,50
+Ghana,Africa,FoodSupplyVar,2018,43
+Ghana,Africa,FoodSupplyVar,2019,54
+Greece,Europe,GDP,2016,28226.9
+Greece,Europe,GDP,2017,28645
+Greece,Europe,GDP,2018,29150.7
+Greece,Europe,GDP,2019,29723.2
+Greece,Europe,GDP,2020,27287.1
+Greece,Europe,FoodSupplyVar,2016,37
+Greece,Europe,FoodSupplyVar,2017,54
+Greece,Europe,FoodSupplyVar,2018,49
+Greece,Europe,FoodSupplyVar,2019,33
+Grenada,North America,GDP,2016,15613.7
+Grenada,North America,GDP,2017,16217.5
+Grenada,North America,GDP,2018,16802
+Grenada,North America,GDP,2019,17050.3
+Grenada,North America,GDP,2020,15065.9
+Grenada,North America,FoodSupplyVar,2016,22
+Grenada,North America,FoodSupplyVar,2017,21
+Grenada,North America,FoodSupplyVar,2018,39
+Grenada,North America,FoodSupplyVar,2019,37
+Guatemala,North America,GDP,2016,8206
+Guatemala,North America,GDP,2017,8322.2
+Guatemala,North America,GDP,2018,8462.2
+Guatemala,North America,GDP,2019,8653.3
+Guatemala,North America,GDP,2020,8393.3
+Guatemala,North America,FoodSupplyVar,2016,31
+Guatemala,North America,FoodSupplyVar,2017,19
+Guatemala,North America,FoodSupplyVar,2018,17
+Guatemala,North America,FoodSupplyVar,2019,20
+Guinea,Africa,GDP,2016,2253.5
+Guinea,Africa,GDP,2017,2417.8
+Guinea,Africa,GDP,2018,2499.7
+Guinea,Africa,GDP,2019,2567
+Guinea,Africa,GDP,2020,2670.8
+Guinea,Africa,FoodSupplyVar,2016,57
+Guinea,Africa,FoodSupplyVar,2017,52
+Guinea,Africa,FoodSupplyVar,2018,41
+Guinea,Africa,FoodSupplyVar,2019,25
+Guinea-Bissau,Africa,GDP,2016,1864.3
+Guinea-Bissau,Africa,GDP,2017,1925.2
+Guinea-Bissau,Africa,GDP,2018,1901.9
+Guinea-Bissau,Africa,GDP,2019,1939.3
+Guinea-Bissau,Africa,GDP,2020,1847.5
+Guinea-Bissau,Africa,FoodSupplyVar,2016,102
+Guinea-Bissau,Africa,FoodSupplyVar,2017,92
+Guinea-Bissau,Africa,FoodSupplyVar,2018,74
+Guinea-Bissau,Africa,FoodSupplyVar,2019,70
+Guyana,South America,GDP,2016,11631
+Guyana,South America,GDP,2017,12005.4
+Guyana,South America,GDP,2018,12477.6
+Guyana,South America,GDP,2019,13082.2
+Guyana,South America,GDP,2020,18680
+Guyana,South America,FoodSupplyVar,2016,55
+Guyana,South America,FoodSupplyVar,2017,53
+Guyana,South America,FoodSupplyVar,2018,49
+Guyana,South America,FoodSupplyVar,2019,50
+Haiti,North America,GDP,2016,2952.6
+Haiti,North America,GDP,2017,2981
+Haiti,North America,GDP,2018,2992.3
+Haiti,North America,GDP,2019,2905.4
+Haiti,North America,GDP,2020,2773.1
+Haiti,North America,FoodSupplyVar,2016,29
+Haiti,North America,FoodSupplyVar,2017,30
+Haiti,North America,FoodSupplyVar,2018,30
+Haiti,North America,FoodSupplyVar,2019,38
+Honduras,North America,GDP,2016,5395.6
+Honduras,North America,GDP,2017,5562
+Honduras,North America,GDP,2018,5680.4
+Honduras,North America,GDP,2019,5736.2
+Honduras,North America,GDP,2020,5138.4
+Honduras,North America,FoodSupplyVar,2016,61
+Honduras,North America,FoodSupplyVar,2017,52
+Honduras,North America,FoodSupplyVar,2018,43
+Honduras,North America,FoodSupplyVar,2019,24
+Hungary,Europe,GDP,2016,28170.8
+Hungary,Europe,GDP,2017,29465.1
+Hungary,Europe,GDP,2018,31095.6
+Hungary,Europe,GDP,2019,32553.5
+Hungary,Europe,GDP,2020,31007.8
+Hungary,Europe,FoodSupplyVar,2016,53
+Hungary,Europe,FoodSupplyVar,2017,69
+Hungary,Europe,FoodSupplyVar,2018,71
+Hungary,Europe,FoodSupplyVar,2019,60
+Iceland,Europe,GDP,2016,54665.8
+Iceland,Europe,GDP,2017,55638.5
+Iceland,Europe,GDP,2018,56722.1
+Iceland,Europe,GDP,2019,56914
+Iceland,Europe,GDP,2020,52279.7
+Iceland,Europe,FoodSupplyVar,2016,43
+Iceland,Europe,FoodSupplyVar,2017,41
+Iceland,Europe,FoodSupplyVar,2018,55
+Iceland,Europe,FoodSupplyVar,2019,43
+India,Asia,GDP,2016,5851.4
+India,Asia,GDP,2017,6182.9
+India,Asia,GDP,2018,6518.8
+India,Asia,GDP,2019,6713.9
+India,Asia,GDP,2020,6118.4
+India,Asia,FoodSupplyVar,2016,22
+India,Asia,FoodSupplyVar,2017,20
+India,Asia,FoodSupplyVar,2018,21
+India,Asia,FoodSupplyVar,2019,22
+Indonesia,Asia,GDP,2016,10531.1
+Indonesia,Asia,GDP,2017,10935.6
+Indonesia,Asia,GDP,2018,11371.7
+Indonesia,Asia,GDP,2019,11812
+Indonesia,Asia,GDP,2020,11445
+Indonesia,Asia,FoodSupplyVar,2016,21
+Indonesia,Asia,FoodSupplyVar,2017,20
+Indonesia,Asia,FoodSupplyVar,2018,25
+Indonesia,Asia,FoodSupplyVar,2019,34
+Iran (Islamic Republic of),Asia,GDP,2016,14205.2
+Iran (Islamic Republic of),Asia,GDP,2017,14535.9
+Iran (Islamic Republic of),Asia,GDP,2018,13471.9
+Iran (Islamic Republic of),Asia,GDP,2019,12389.2
+Iran (Islamic Republic of),Asia,GDP,2020,12433.3
+Iran (Islamic Republic of),Asia,FoodSupplyVar,2016,74
+Iran (Islamic Republic of),Asia,FoodSupplyVar,2017,42
+Iran (Islamic Republic of),Asia,FoodSupplyVar,2018,32
+Iran (Islamic Republic of),Asia,FoodSupplyVar,2019,53
+Iraq,Asia,GDP,2016,11191.1
+Iraq,Asia,GDP,2017,10719
+Iraq,Asia,GDP,2018,10346.2
+Iraq,Asia,GDP,2019,10565.2
+Iraq,Asia,GDP,2020,9255.3
+Iraq,Asia,FoodSupplyVar,2016,35
+Iraq,Asia,FoodSupplyVar,2017,39
+Iraq,Asia,FoodSupplyVar,2018,51
+Iraq,Asia,FoodSupplyVar,2019,85
+Ireland,Europe,GDP,2016,72864.5
+Ireland,Europe,GDP,2017,78655.6
+Ireland,Europe,GDP,2018,84303.3
+Ireland,Europe,GDP,2019,87786.2
+Ireland,Europe,GDP,2020,89689
+Ireland,Europe,FoodSupplyVar,2016,23
+Ireland,Europe,FoodSupplyVar,2017,20
+Ireland,Europe,FoodSupplyVar,2018,24
+Ireland,Europe,FoodSupplyVar,2019,20
+Israel,Asia,GDP,2016,38234.7
+Israel,Asia,GDP,2017,38834
+Israel,Asia,GDP,2018,39418.3
+Israel,Asia,GDP,2019,40007.3
+Israel,Asia,GDP,2020,38341.3
+Israel,Asia,FoodSupplyVar,2016,33
+Israel,Asia,FoodSupplyVar,2017,32
+Israel,Asia,FoodSupplyVar,2018,36
+Israel,Asia,FoodSupplyVar,2019,35
+Italy,Europe,GDP,2016,40837.7
+Italy,Europe,GDP,2017,41581.1
+Italy,Europe,GDP,2018,42052.6
+Italy,Europe,GDP,2019,42662.5
+Italy,Europe,GDP,2020,38992.1
+Italy,Europe,FoodSupplyVar,2016,59
+Italy,Europe,FoodSupplyVar,2017,58
+Italy,Europe,FoodSupplyVar,2018,49
+Italy,Europe,FoodSupplyVar,2019,45
+Jamaica,North America,GDP,2016,9553.1
+Jamaica,North America,GDP,2017,9600.1
+Jamaica,North America,GDP,2018,9734.9
+Jamaica,North America,GDP,2019,9777
+Jamaica,North America,GDP,2020,8741.6
+Jamaica,North America,FoodSupplyVar,2016,23
+Jamaica,North America,FoodSupplyVar,2017,26
+Jamaica,North America,FoodSupplyVar,2018,32
+Jamaica,North America,FoodSupplyVar,2019,36
+Japan,Asia,GDP,2016,40031.3
+Japan,Asia,GDP,2017,40966.6
+Japan,Asia,GDP,2018,41182.4
+Japan,Asia,GDP,2019,41380.1
+Japan,Asia,FoodSupplyVar,2016,17
+Japan,Asia,FoodSupplyVar,2017,11
+Japan,Asia,FoodSupplyVar,2018,11
+Japan,Asia,FoodSupplyVar,2019,14
+Jordan,Asia,GDP,2016,10036.5
+Jordan,Asia,GDP,2017,10003.6
+Jordan,Asia,GDP,2018,10013.4
+Jordan,Asia,GDP,2019,10071.4
+Jordan,Asia,GDP,2020,9816.6
+Jordan,Asia,FoodSupplyVar,2016,95
+Jordan,Asia,FoodSupplyVar,2017,96
+Jordan,Asia,FoodSupplyVar,2018,90
+Jordan,Asia,FoodSupplyVar,2019,36
+Kazakhstan,Asia,GDP,2016,24210.9
+Kazakhstan,Asia,GDP,2017,24863
+Kazakhstan,Asia,GDP,2018,25544.3
+Kazakhstan,Asia,GDP,2019,26351.8
+Kazakhstan,Asia,GDP,2020,25337.2
+Kazakhstan,Asia,FoodSupplyVar,2016,43
+Kazakhstan,Asia,FoodSupplyVar,2017,45
+Kazakhstan,Asia,FoodSupplyVar,2018,39
+Kazakhstan,Asia,FoodSupplyVar,2019,40
+Kenya,Africa,GDP,2016,3952.8
+Kenya,Africa,GDP,2017,4046.2
+Kenya,Africa,GDP,2018,4203.8
+Kenya,Africa,GDP,2019,4329.9
+Kenya,Africa,GDP,2020,4220.4
+Kenya,Africa,FoodSupplyVar,2016,47
+Kenya,Africa,FoodSupplyVar,2017,35
+Kenya,Africa,FoodSupplyVar,2018,36
+Kenya,Africa,FoodSupplyVar,2019,36
+Kiribati,Oceania,GDP,2016,2247.9
+Kiribati,Oceania,GDP,2017,2235.7
+Kiribati,Oceania,GDP,2018,2254.1
+Kiribati,Oceania,GDP,2019,2270.1
+Kiribati,Oceania,GDP,2020,2291.9
+Kiribati,Oceania,FoodSupplyVar,2016,89
+Kiribati,Oceania,FoodSupplyVar,2017,83
+Kiribati,Oceania,FoodSupplyVar,2018,79
+Kiribati,Oceania,FoodSupplyVar,2019,64
+Kuwait,Asia,GDP,2016,54709
+Kuwait,Asia,GDP,2017,50855.6
+Kuwait,Asia,GDP,2018,50478.6
+Kuwait,Asia,GDP,2019,49853.7
+Kuwait,Asia,FoodSupplyVar,2016,90
+Kuwait,Asia,FoodSupplyVar,2017,108
+Kuwait,Asia,FoodSupplyVar,2018,107
+Kuwait,Asia,FoodSupplyVar,2019,100
+Kyrgyzstan,Asia,GDP,2016,4912.4
+Kyrgyzstan,Asia,GDP,2017,5046.7
+Kyrgyzstan,Asia,GDP,2018,5133.2
+Kyrgyzstan,Asia,GDP,2019,5258.4
+Kyrgyzstan,Asia,GDP,2020,4706.6
+Kyrgyzstan,Asia,FoodSupplyVar,2016,10
+Kyrgyzstan,Asia,FoodSupplyVar,2017,22
+Kyrgyzstan,Asia,FoodSupplyVar,2018,23
+Kyrgyzstan,Asia,FoodSupplyVar,2019,34
+Lao People's Democratic Republic,Asia,GDP,2016,6896.1
+Lao People's Democratic Republic,Asia,GDP,2017,7257.8
+Lao People's Democratic Republic,Asia,GDP,2018,7592.8
+Lao People's Democratic Republic,Asia,GDP,2019,7886.7
+Lao People's Democratic Republic,Asia,GDP,2020,7805.8
+Lao People's Democratic Republic,Asia,FoodSupplyVar,2016,85
+Lao People's Democratic Republic,Asia,FoodSupplyVar,2017,86
+Lao People's Democratic Republic,Asia,FoodSupplyVar,2018,62
+Lao People's Democratic Republic,Asia,FoodSupplyVar,2019,37
+Latvia,Europe,GDP,2016,27503.2
+Latvia,Europe,GDP,2017,28650
+Latvia,Europe,GDP,2018,30036.1
+Latvia,Europe,GDP,2019,30858.8
+Latvia,Europe,GDP,2020,29932.5
+Latvia,Europe,FoodSupplyVar,2016,31
+Latvia,Europe,FoodSupplyVar,2017,38
+Latvia,Europe,FoodSupplyVar,2018,22
+Latvia,Europe,FoodSupplyVar,2019,31
+Lebanon,Asia,GDP,2016,16100.9
+Lebanon,Asia,GDP,2017,15987.7
+Lebanon,Asia,GDP,2018,15588.2
+Lebanon,Asia,GDP,2019,14551.6
+Lebanon,Asia,GDP,2020,11649.1
+Lebanon,Asia,FoodSupplyVar,2016,181
+Lebanon,Asia,FoodSupplyVar,2017,187
+Lebanon,Asia,FoodSupplyVar,2018,170
+Lebanon,Asia,FoodSupplyVar,2019,97
+Lesotho,Africa,GDP,2016,2776.7
+Lesotho,Africa,GDP,2017,2668.3
+Lesotho,Africa,GDP,2018,2614.7
+Lesotho,Africa,GDP,2019,2583.9
+Lesotho,Africa,GDP,2020,2279.9
+Lesotho,Africa,FoodSupplyVar,2016,150
+Lesotho,Africa,FoodSupplyVar,2017,198
+Lesotho,Africa,FoodSupplyVar,2018,210
+Lesotho,Africa,FoodSupplyVar,2019,198
+Liberia,Africa,GDP,2016,1516.4
+Liberia,Africa,GDP,2017,1515.6
+Liberia,Africa,GDP,2018,1497
+Liberia,Africa,GDP,2019,1427.8
+Liberia,Africa,GDP,2020,1353.8
+Liberia,Africa,FoodSupplyVar,2016,38
+Liberia,Africa,FoodSupplyVar,2017,39
+Liberia,Africa,FoodSupplyVar,2018,38
+Liberia,Africa,FoodSupplyVar,2019,23
+Libya,Africa,GDP,2016,10592.4
+Libya,Africa,GDP,2017,13238
+Libya,Africa,GDP,2018,15018
+Libya,Africa,GDP,2019,15174.2
+Libya,Africa,GDP,2020,10282.3
+Lithuania,Europe,GDP,2016,31925.8
+Lithuania,Europe,GDP,2017,33761.9
+Lithuania,Europe,GDP,2018,35427.5
+Lithuania,Europe,GDP,2019,37062.6
+Lithuania,Europe,GDP,2020,36732
+Lithuania,Europe,FoodSupplyVar,2016,22
+Lithuania,Europe,FoodSupplyVar,2017,21
+Lithuania,Europe,FoodSupplyVar,2018,23
+Lithuania,Europe,FoodSupplyVar,2019,22
+Luxembourg,Europe,GDP,2016,113036
+Luxembourg,Europe,GDP,2017,112308
+Luxembourg,Europe,GDP,2018,113590
+Luxembourg,Europe,GDP,2019,113940
+Luxembourg,Europe,GDP,2020,110261
+Luxembourg,Europe,FoodSupplyVar,2016,18
+Luxembourg,Europe,FoodSupplyVar,2017,16
+Luxembourg,Europe,FoodSupplyVar,2018,15
+Luxembourg,Europe,FoodSupplyVar,2019,9
+Madagascar,Africa,GDP,2016,1565.9
+Madagascar,Africa,GDP,2017,1584.4
+Madagascar,Africa,GDP,2018,1592.1
+Madagascar,Africa,GDP,2019,1618.5
+Madagascar,Africa,GDP,2020,1510.1
+Madagascar,Africa,FoodSupplyVar,2016,64
+Madagascar,Africa,FoodSupplyVar,2017,53
+Madagascar,Africa,FoodSupplyVar,2018,28
+Madagascar,Africa,FoodSupplyVar,2019,27
+Malawi,Africa,GDP,2016,1428.4
+Malawi,Africa,GDP,2017,1446.5
+Malawi,Africa,GDP,2018,1471
+Malawi,Africa,GDP,2019,1514.7
+Malawi,Africa,GDP,2020,1486.8
+Malawi,Africa,FoodSupplyVar,2016,25
+Malawi,Africa,FoodSupplyVar,2017,23
+Malawi,Africa,FoodSupplyVar,2018,23
+Malawi,Africa,FoodSupplyVar,2019,16
+Malaysia,Asia,GDP,2016,25541.8
+Malaysia,Asia,GDP,2017,26661.5
+Malaysia,Asia,GDP,2018,27558.1
+Malaysia,Asia,GDP,2019,28364.5
+Malaysia,Asia,GDP,2020,26435.2
+Malaysia,Asia,FoodSupplyVar,2016,44
+Malaysia,Asia,FoodSupplyVar,2017,51
+Malaysia,Asia,FoodSupplyVar,2018,46
+Malaysia,Asia,FoodSupplyVar,2019,19
+Maldives,Asia,GDP,2016,17584.1
+Maldives,Asia,GDP,2017,18058.6
+Maldives,Asia,GDP,2018,18795.5
+Maldives,Asia,GDP,2019,19531
+Maldives,Asia,GDP,2020,13049
+Maldives,Asia,FoodSupplyVar,2016,66
+Maldives,Asia,FoodSupplyVar,2017,71
+Maldives,Asia,FoodSupplyVar,2018,73
+Maldives,Asia,FoodSupplyVar,2019,74
+Mali,Africa,GDP,2016,2198.6
+Mali,Africa,GDP,2017,2246.8
+Mali,Africa,GDP,2018,2283.7
+Mali,Africa,GDP,2019,2321.9
+Mali,Africa,GDP,2020,2216.8
+Mali,Africa,FoodSupplyVar,2016,63
+Mali,Africa,FoodSupplyVar,2017,60
+Mali,Africa,FoodSupplyVar,2018,45
+Mali,Africa,FoodSupplyVar,2019,30
+Malta,Europe,GDP,2016,40536.7
+Malta,Europe,GDP,2017,42644.1
+Malta,Europe,GDP,2018,43313.5
+Malta,Europe,GDP,2019,43950.6
+Malta,Europe,GDP,2020,39222.1
+Malta,Europe,FoodSupplyVar,2016,13
+Malta,Europe,FoodSupplyVar,2017,16
+Malta,Europe,FoodSupplyVar,2018,25
+Malta,Europe,FoodSupplyVar,2019,23
+Marshall Islands,Oceania,GDP,2016,3605.5
+Marshall Islands,Oceania,GDP,2017,3706.3
+Marshall Islands,Oceania,GDP,2018,3806.7
+Marshall Islands,Oceania,GDP,2019,4029.1
+Mauritania,Africa,GDP,2016,5045.9
+Mauritania,Africa,GDP,2017,5077.2
+Mauritania,Africa,GDP,2018,5042.4
+Mauritania,Africa,GDP,2019,5197.1
+Mauritania,Africa,GDP,2020,4983.2
+Mauritania,Africa,FoodSupplyVar,2016,32
+Mauritania,Africa,FoodSupplyVar,2017,41
+Mauritania,Africa,FoodSupplyVar,2018,32
+Mauritania,Africa,FoodSupplyVar,2019,16
+Mauritius,Africa,GDP,2016,20646.9
+Mauritius,Africa,GDP,2017,21415.1
+Mauritius,Africa,GDP,2018,22208.1
+Mauritius,Africa,GDP,2019,22870.3
+Mauritius,Africa,GDP,2020,19469.5
+Mauritius,Africa,FoodSupplyVar,2016,22
+Mauritius,Africa,FoodSupplyVar,2017,24
+Mauritius,Africa,FoodSupplyVar,2018,15
+Mauritius,Africa,FoodSupplyVar,2019,18
+Mexico,North America,GDP,2016,19539.3
+Mexico,North America,GDP,2017,19721.3
+Mexico,North America,GDP,2018,19928.4
+Mexico,North America,GDP,2019,19701.3
+Mexico,North America,GDP,2020,17887.8
+Mexico,North America,FoodSupplyVar,2016,38
+Mexico,North America,FoodSupplyVar,2017,44
+Mexico,North America,FoodSupplyVar,2018,46
+Mexico,North America,FoodSupplyVar,2019,27
+Micronesia,Oceania,GDP,2016,3437.4
+Micronesia,Oceania,GDP,2017,3490.1
+Micronesia,Oceania,GDP,2018,3460.9
+Micronesia,Oceania,GDP,2019,3466.4
+Mongolia,Asia,GDP,2016,10940.4
+Mongolia,Asia,GDP,2017,11311.8
+Mongolia,Asia,GDP,2018,11915.6
+Mongolia,Asia,GDP,2019,12316.8
+Mongolia,Asia,GDP,2020,11470.7
+Mongolia,Asia,FoodSupplyVar,2016,63
+Mongolia,Asia,FoodSupplyVar,2017,72
+Mongolia,Asia,FoodSupplyVar,2018,70
+Mongolia,Asia,FoodSupplyVar,2019,51
+Montenegro,Europe,GDP,2016,18797.9
+Montenegro,Europe,GDP,2017,19682.3
+Montenegro,Europe,GDP,2018,20686.6
+Montenegro,Europe,GDP,2019,21533.9
+Montenegro,Europe,GDP,2020,18278.7
+Montenegro,Europe,FoodSupplyVar,2016,69
+Montenegro,Europe,FoodSupplyVar,2017,46
+Montenegro,Europe,FoodSupplyVar,2018,51
+Montenegro,Europe,FoodSupplyVar,2019,61
+Morocco,Africa,GDP,2016,7106.2
+Morocco,Africa,GDP,2017,7312.1
+Morocco,Africa,GDP,2018,7446.9
+Morocco,Africa,GDP,2019,7537.5
+Morocco,Africa,GDP,2020,6916.3
+Morocco,Africa,FoodSupplyVar,2016,28
+Morocco,Africa,FoodSupplyVar,2017,27
+Morocco,Africa,FoodSupplyVar,2018,32
+Morocco,Africa,FoodSupplyVar,2019,33
+Mozambique,Africa,GDP,2016,1273.8
+Mozambique,Africa,GDP,2017,1283.7
+Mozambique,Africa,GDP,2018,1289.7
+Mozambique,Africa,GDP,2019,1281.5
+Mozambique,Africa,GDP,2020,1229.1
+Mozambique,Africa,FoodSupplyVar,2016,82
+Mozambique,Africa,FoodSupplyVar,2017,93
+Mozambique,Africa,FoodSupplyVar,2018,73
+Mozambique,Africa,FoodSupplyVar,2019,52
+Myanmar,Asia,GDP,2016,4482.9
+Myanmar,Asia,GDP,2017,4739.9
+Myanmar,Asia,GDP,2018,5029.2
+Myanmar,Asia,GDP,2019,5082.5
+Myanmar,Asia,GDP,2020,4544
+Myanmar,Asia,FoodSupplyVar,2016,22
+Myanmar,Asia,FoodSupplyVar,2017,14
+Myanmar,Asia,FoodSupplyVar,2018,15
+Myanmar,Asia,FoodSupplyVar,2019,19
+Namibia,Africa,GDP,2016,10471.3
+Namibia,Africa,GDP,2017,10171.4
+Namibia,Africa,GDP,2018,10092.3
+Namibia,Africa,GDP,2019,9845.2
+Namibia,Africa,GDP,2020,8893.8
+Namibia,Africa,FoodSupplyVar,2016,92
+Namibia,Africa,FoodSupplyVar,2017,85
+Namibia,Africa,FoodSupplyVar,2018,67
+Namibia,Africa,FoodSupplyVar,2019,19
+Nauru,Oceania,GDP,2016,13902
+Nauru,Oceania,GDP,2017,12975.4
+Nauru,Oceania,GDP,2018,13636.4
+Nauru,Oceania,GDP,2019,13527.4
+Nepal,Asia,GDP,2016,3315.8
+Nepal,Asia,GDP,2017,3565.2
+Nepal,Asia,GDP,2018,3773.7
+Nepal,Asia,GDP,2019,3952.8
+Nepal,Asia,GDP,2020,3800.1
+Nepal,Asia,FoodSupplyVar,2016,22
+Nepal,Asia,FoodSupplyVar,2017,20
+Nepal,Asia,FoodSupplyVar,2018,19
+Nepal,Asia,FoodSupplyVar,2019,52
+Netherlands,Europe,GDP,2016,53847.8
+Netherlands,Europe,GDP,2017,55088.6
+Netherlands,Europe,GDP,2018,56060.9
+Netherlands,Europe,GDP,2019,56629.1
+Netherlands,Europe,GDP,2020,54209.6
+Netherlands,Europe,FoodSupplyVar,2016,6
+Netherlands,Europe,FoodSupplyVar,2017,10
+Netherlands,Europe,FoodSupplyVar,2018,9
+Netherlands,Europe,FoodSupplyVar,2019,8
+New Caledonia,Oceania,FoodSupplyVar,2016,45
+New Caledonia,Oceania,FoodSupplyVar,2017,43
+New Caledonia,Oceania,FoodSupplyVar,2018,43
+New Caledonia,Oceania,FoodSupplyVar,2019,52
+New Zealand,Oceania,GDP,2016,41672.1
+New Zealand,Oceania,GDP,2017,42285.3
+New Zealand,Oceania,GDP,2018,42866.1
+New Zealand,Oceania,GDP,2019,42877.9
+New Zealand,Oceania,GDP,2020,42404.4
+New Zealand,Oceania,FoodSupplyVar,2016,9
+New Zealand,Oceania,FoodSupplyVar,2017,9
+New Zealand,Oceania,FoodSupplyVar,2018,8
+New Zealand,Oceania,FoodSupplyVar,2019,8
+Nicaragua,North America,GDP,2016,5811.9
+Nicaragua,North America,GDP,2017,6004
+Nicaragua,North America,GDP,2018,5729.7
+Nicaragua,North America,GDP,2019,5451.7
+Nicaragua,North America,GDP,2020,5280.1
+Nicaragua,North America,FoodSupplyVar,2016,49
+Nicaragua,North America,FoodSupplyVar,2017,56
+Nicaragua,North America,FoodSupplyVar,2018,70
+Nicaragua,North America,FoodSupplyVar,2019,71
+Niger,Africa,GDP,2016,1151.7
+Niger,Africa,GDP,2017,1163.7
+Niger,Africa,GDP,2018,1201
+Niger,Africa,GDP,2019,1224.5
+Niger,Africa,GDP,2020,1196.9
+Niger,Africa,FoodSupplyVar,2016,21
+Niger,Africa,FoodSupplyVar,2017,25
+Niger,Africa,FoodSupplyVar,2018,24
+Niger,Africa,FoodSupplyVar,2019,41
+Nigeria,Africa,GDP,2016,5284.9
+Nigeria,Africa,GDP,2017,5190.4
+Nigeria,Africa,GDP,2018,5155.1
+Nigeria,Africa,GDP,2019,5135.5
+Nigeria,Africa,GDP,2020,4916.7
+Nigeria,Africa,FoodSupplyVar,2016,30
+Nigeria,Africa,FoodSupplyVar,2017,31
+Nigeria,Africa,FoodSupplyVar,2018,31
+Nigeria,Africa,FoodSupplyVar,2019,6
+North Macedonia,Europe,GDP,2016,15491.7
+North Macedonia,Europe,GDP,2017,15649.9
+North Macedonia,Europe,GDP,2018,16093.3
+North Macedonia,Europe,GDP,2019,16600.1
+North Macedonia,Europe,GDP,2020,15848.4
+North Macedonia,Europe,FoodSupplyVar,2016,19
+North Macedonia,Europe,FoodSupplyVar,2017,19
+North Macedonia,Europe,FoodSupplyVar,2018,20
+North Macedonia,Europe,FoodSupplyVar,2019,23
+Norway,Europe,GDP,2016,63104.1
+Norway,Europe,GDP,2017,64050.8
+Norway,Europe,GDP,2018,64341.3
+Norway,Europe,GDP,2019,64452.8
+Norway,Europe,GDP,2020,63585.9
+Norway,Europe,FoodSupplyVar,2016,10
+Norway,Europe,FoodSupplyVar,2017,11
+Norway,Europe,FoodSupplyVar,2018,10
+Norway,Europe,FoodSupplyVar,2019,14
+Oman,Asia,GDP,2016,30184.9
+Oman,Asia,GDP,2017,29077.4
+Oman,Asia,GDP,2018,28350.9
+Oman,Asia,GDP,2019,27294.6
+Oman,Asia,FoodSupplyVar,2016,49
+Oman,Asia,FoodSupplyVar,2017,61
+Oman,Asia,FoodSupplyVar,2018,61
+Oman,Asia,FoodSupplyVar,2019,39
+Pakistan,Asia,GDP,2016,4421.6
+Pakistan,Asia,GDP,2017,4571.2
+Pakistan,Asia,GDP,2018,4739.5
+Pakistan,Asia,GDP,2019,4690.5
+Pakistan,Asia,GDP,2020,4622.8
+Pakistan,Asia,FoodSupplyVar,2016,16
+Pakistan,Asia,FoodSupplyVar,2017,17
+Pakistan,Asia,FoodSupplyVar,2018,20
+Pakistan,Asia,FoodSupplyVar,2019,29
+Palau,Oceania,GDP,2016,18268
+Palau,Oceania,GDP,2017,17826.4
+Palau,Oceania,GDP,2018,18444.3
+Palau,Oceania,GDP,2019,17572.6
+Palestine,Asia,GDP,2016,6438.9
+Palestine,Asia,GDP,2017,6401.7
+Palestine,Asia,GDP,2018,6318.2
+Palestine,Asia,GDP,2019,6245.4
+Palestine,Asia,GDP,2020,5394.1
+Panama,North America,GDP,2016,29332.4
+Panama,North America,GDP,2017,30446.8
+Panama,North America,GDP,2018,31012.9
+Panama,North America,GDP,2019,31432.1
+Panama,North America,GDP,2020,25381.8
+Panama,North America,FoodSupplyVar,2016,27
+Panama,North America,FoodSupplyVar,2017,31
+Panama,North America,FoodSupplyVar,2018,24
+Panama,North America,FoodSupplyVar,2019,11
+Papua New Guinea,Oceania,GDP,2016,4222.5
+Papua New Guinea,Oceania,GDP,2017,4285.6
+Papua New Guinea,Oceania,GDP,2018,4190.1
+Papua New Guinea,Oceania,GDP,2019,4349.8
+Papua New Guinea,Oceania,GDP,2020,4101.2
+Papua New Guinea,Oceania,FoodSupplyVar,2016,42
+Papua New Guinea,Oceania,FoodSupplyVar,2017,33
+Papua New Guinea,Oceania,FoodSupplyVar,2018,25
+Papua New Guinea,Oceania,FoodSupplyVar,2019,19
+Paraguay,South America,GDP,2016,12170.8
+Paraguay,South America,GDP,2017,12590.5
+Paraguay,South America,GDP,2018,12827.7
+Paraguay,South America,GDP,2019,12615.5
+Paraguay,South America,GDP,2020,12335.5
+Paraguay,South America,FoodSupplyVar,2016,25
+Paraguay,South America,FoodSupplyVar,2017,26
+Paraguay,South America,FoodSupplyVar,2018,24
+Paraguay,South America,FoodSupplyVar,2019,22
+Peru,South America,GDP,2016,12403.7
+Peru,South America,GDP,2017,12506.5
+Peru,South America,GDP,2018,12781.4
+Peru,South America,GDP,2019,12853.7
+Peru,South America,GDP,2020,11260.8
+Peru,South America,FoodSupplyVar,2016,18
+Peru,South America,FoodSupplyVar,2017,21
+Peru,South America,FoodSupplyVar,2018,30
+Peru,South America,FoodSupplyVar,2019,32
+Philippines,Asia,GDP,2016,7705.1
+Philippines,Asia,GDP,2017,8120.9
+Philippines,Asia,GDP,2018,8516.1
+Philippines,Asia,GDP,2019,8914.7
+Philippines,Asia,GDP,2020,7953.6
+Philippines,Asia,FoodSupplyVar,2016,34
+Philippines,Asia,FoodSupplyVar,2017,34
+Philippines,Asia,FoodSupplyVar,2018,33
+Philippines,Asia,FoodSupplyVar,2019,44
+Poland,Europe,GDP,2016,28682.7
+Poland,Europe,GDP,2017,30064.5
+Poland,Europe,GDP,2018,31674.1
+Poland,Europe,GDP,2019,33120.5
+Poland,Europe,GDP,2020,32238.2
+Poland,Europe,FoodSupplyVar,2016,50
+Poland,Europe,FoodSupplyVar,2017,46
+Poland,Europe,FoodSupplyVar,2018,43
+Poland,Europe,FoodSupplyVar,2019,42
+Portugal,Europe,GDP,2016,31847.5
+Portugal,Europe,GDP,2017,33044.7
+Portugal,Europe,GDP,2018,34040.7
+Portugal,Europe,GDP,2019,34879.7
+Portugal,Europe,GDP,2020,32181.2
+Portugal,Europe,FoodSupplyVar,2016,53
+Portugal,Europe,FoodSupplyVar,2017,61
+Portugal,Europe,FoodSupplyVar,2018,56
+Portugal,Europe,FoodSupplyVar,2019,43
+Puerto Rico,North America,GDP,2016,34539.6
+Puerto Rico,North America,GDP,2017,34363.7
+Puerto Rico,North America,GDP,2018,34299.4
+Puerto Rico,North America,GDP,2019,34804.9
+Puerto Rico,North America,GDP,2020,33442.8
+Qatar,Asia,GDP,2016,95601.8
+Qatar,Asia,GDP,2017,91738.8
+Qatar,Asia,GDP,2018,90970.1
+Qatar,Asia,GDP,2019,90043.8
+Qatar,Asia,GDP,2020,85266.2
+Republic of Korea,Asia,GDP,2016,39814.7
+Republic of Korea,Asia,GDP,2017,40957.4
+Republic of Korea,Asia,GDP,2018,41948.3
+Republic of Korea,Asia,GDP,2019,42719
+Republic of Korea,Asia,GDP,2020,42251.4
+Republic of Korea,Asia,FoodSupplyVar,2016,34
+Republic of Korea,Asia,FoodSupplyVar,2017,25
+Republic of Korea,Asia,FoodSupplyVar,2018,28
+Republic of Korea,Asia,FoodSupplyVar,2019,33
+Republic of Moldova,Europe,GDP,2016,10942.6
+Republic of Moldova,Europe,GDP,2017,11651.3
+Republic of Moldova,Europe,GDP,2018,12363.1
+Republic of Moldova,Europe,GDP,2019,13022
+Republic of Moldova,Europe,GDP,2020,12324.7
+Republic of Moldova,Europe,FoodSupplyVar,2016,14
+Republic of Moldova,Europe,FoodSupplyVar,2017,25
+Republic of Moldova,Europe,FoodSupplyVar,2018,35
+Republic of Moldova,Europe,FoodSupplyVar,2019,31
+Romania,Europe,GDP,2016,25145
+Romania,Europe,GDP,2017,27141.9
+Romania,Europe,GDP,2018,28523.5
+Romania,Europe,GDP,2019,29857.6
+Romania,Europe,GDP,2020,28832.6
+Romania,Europe,FoodSupplyVar,2016,86
+Romania,Europe,FoodSupplyVar,2017,82
+Romania,Europe,FoodSupplyVar,2018,84
+Romania,Europe,FoodSupplyVar,2019,100
+Russian Federation,Europe,GDP,2016,25490.7
+Russian Federation,Europe,GDP,2017,25926.4
+Russian Federation,Europe,GDP,2018,26656.4
+Russian Federation,Europe,GDP,2019,27210.5
+Russian Federation,Europe,GDP,2020,26456.4
+Russian Federation,Europe,FoodSupplyVar,2016,15
+Russian Federation,Europe,FoodSupplyVar,2017,14
+Russian Federation,Europe,FoodSupplyVar,2018,22
+Russian Federation,Europe,FoodSupplyVar,2019,24
+Rwanda,Africa,GDP,2016,1950.5
+Rwanda,Africa,GDP,2017,1975.2
+Rwanda,Africa,GDP,2018,2088.7
+Rwanda,Africa,GDP,2019,2227.5
+Rwanda,Africa,GDP,2020,2098.7
+Rwanda,Africa,FoodSupplyVar,2016,10
+Rwanda,Africa,FoodSupplyVar,2017,22
+Rwanda,Africa,FoodSupplyVar,2018,47
+Rwanda,Africa,FoodSupplyVar,2019,65
+Saint Kitts and Nevis,North America,GDP,2016,26075.7
+Saint Kitts and Nevis,North America,GDP,2017,25360.1
+Saint Kitts and Nevis,North America,GDP,2018,25901.6
+Saint Kitts and Nevis,North America,GDP,2019,26235.6
+Saint Kitts and Nevis,North America,GDP,2020,23259.4
+Saint Kitts and Nevis,North America,FoodSupplyVar,2016,86
+Saint Kitts and Nevis,North America,FoodSupplyVar,2017,103
+Saint Kitts and Nevis,North America,FoodSupplyVar,2018,118
+Saint Kitts and Nevis,North America,FoodSupplyVar,2019,117
+Saint Lucia,North America,GDP,2016,14516.2
+Saint Lucia,North America,GDP,2017,14945.7
+Saint Lucia,North America,GDP,2018,15261.4
+Saint Lucia,North America,GDP,2019,15448.3
+Saint Lucia,North America,GDP,2020,12270
+Saint Lucia,North America,FoodSupplyVar,2016,19
+Saint Lucia,North America,FoodSupplyVar,2017,19
+Saint Lucia,North America,FoodSupplyVar,2018,19
+Saint Lucia,North America,FoodSupplyVar,2019,11
+Saint Vincent and the Grenadines,North America,GDP,2016,12163.6
+Saint Vincent and the Grenadines,North America,GDP,2017,12245.1
+Saint Vincent and the Grenadines,North America,GDP,2018,12466.4
+Saint Vincent and the Grenadines,North America,GDP,2019,12484.7
+Saint Vincent and the Grenadines,North America,GDP,2020,12105.4
+Saint Vincent and the Grenadines,North America,FoodSupplyVar,2016,29
+Saint Vincent and the Grenadines,North America,FoodSupplyVar,2017,21
+Saint Vincent and the Grenadines,North America,FoodSupplyVar,2018,23
+Saint Vincent and the Grenadines,North America,FoodSupplyVar,2019,27
+Samoa,Oceania,GDP,2016,6440.8
+Samoa,Oceania,GDP,2017,6480.8
+Samoa,Oceania,GDP,2018,6322.2
+Samoa,Oceania,GDP,2019,6516.5
+Samoa,Oceania,GDP,2020,6295.7
+Samoa,Oceania,FoodSupplyVar,2016,27
+Samoa,Oceania,FoodSupplyVar,2017,15
+Samoa,Oceania,FoodSupplyVar,2018,34
+Samoa,Oceania,FoodSupplyVar,2019,38
+Sao Tome and Principe,Africa,GDP,2016,3878.8
+Sao Tome and Principe,Africa,GDP,2017,3952.9
+Sao Tome and Principe,Africa,GDP,2018,3993.3
+Sao Tome and Principe,Africa,GDP,2019,4005.3
+Sao Tome and Principe,Africa,GDP,2020,4051.6
+Sao Tome and Principe,Africa,FoodSupplyVar,2016,40
+Sao Tome and Principe,Africa,FoodSupplyVar,2017,37
+Sao Tome and Principe,Africa,FoodSupplyVar,2018,25
+Sao Tome and Principe,Africa,FoodSupplyVar,2019,42
+Saudi Arabia,Asia,GDP,2016,48625.8
+Saudi Arabia,Asia,GDP,2017,47306.2
+Saudi Arabia,Asia,GDP,2018,47592.8
+Saudi Arabia,Asia,GDP,2019,46962.1
+Saudi Arabia,Asia,GDP,2020,44328.2
+Saudi Arabia,Asia,FoodSupplyVar,2016,76
+Saudi Arabia,Asia,FoodSupplyVar,2017,58
+Saudi Arabia,Asia,FoodSupplyVar,2018,56
+Saudi Arabia,Asia,FoodSupplyVar,2019,23
+Senegal,Africa,GDP,2016,3067.7
+Senegal,Africa,GDP,2017,3203.9
+Senegal,Africa,GDP,2018,3309.5
+Senegal,Africa,GDP,2019,3361.5
+Senegal,Africa,GDP,2020,3300.1
+Senegal,Africa,FoodSupplyVar,2016,33
+Senegal,Africa,FoodSupplyVar,2017,40
+Senegal,Africa,FoodSupplyVar,2018,50
+Senegal,Africa,FoodSupplyVar,2019,42
+Serbia,Europe,GDP,2016,16182.8
+Serbia,Europe,GDP,2017,16611
+Serbia,Europe,GDP,2018,17452.8
+Serbia,Europe,GDP,2019,18292.2
+Serbia,Europe,GDP,2020,18210
+Serbia,Europe,FoodSupplyVar,2016,43
+Serbia,Europe,FoodSupplyVar,2017,40
+Serbia,Europe,FoodSupplyVar,2018,36
+Serbia,Europe,FoodSupplyVar,2019,23
+Seychelles,Africa,GDP,2016,26309.7
+Seychelles,Africa,GDP,2017,27242.7
+Seychelles,Africa,GDP,2018,27342.2
+Seychelles,Africa,GDP,2019,27521.2
+Seychelles,Africa,GDP,2020,24361.9
+Seychelles,Africa,FoodSupplyVar,2016,24
+Seychelles,Africa,FoodSupplyVar,2017,26
+Seychelles,Africa,FoodSupplyVar,2018,17
+Seychelles,Africa,FoodSupplyVar,2019,16
+Sierra Leone,Africa,GDP,2016,1610.6
+Sierra Leone,Africa,GDP,2017,1642.6
+Sierra Leone,Africa,GDP,2018,1663.3
+Sierra Leone,Africa,GDP,2019,1719.8
+Sierra Leone,Africa,GDP,2020,1648.1
+Sierra Leone,Africa,FoodSupplyVar,2016,57
+Sierra Leone,Africa,FoodSupplyVar,2017,70
+Sierra Leone,Africa,FoodSupplyVar,2018,64
+Sierra Leone,Africa,FoodSupplyVar,2019,58
+Singapore,Asia,GDP,2016,91307.5
+Singapore,Asia,GDP,2017,95350.4
+Singapore,Asia,GDP,2018,98222.8
+Singapore,Asia,GDP,2019,98411.6
+Singapore,Asia,GDP,2020,93397
+Slovakia,Europe,GDP,2016,29250.1
+Slovakia,Europe,GDP,2017,30077.8
+Slovakia,Europe,GDP,2018,31132.6
+Slovakia,Europe,GDP,2019,31871.3
+Slovakia,Europe,GDP,2020,30330
+Slovakia,Europe,FoodSupplyVar,2016,104
+Slovakia,Europe,FoodSupplyVar,2017,93
+Slovakia,Europe,FoodSupplyVar,2018,86
+Slovakia,Europe,FoodSupplyVar,2019,67
+Slovenia,Europe,GDP,2016,34858.5
+Slovenia,Europe,GDP,2017,36505.7
+Slovenia,Europe,GDP,2018,37968.4
+Slovenia,Europe,GDP,2019,38905.5
+Slovenia,Europe,GDP,2020,36547.7
+Slovenia,Europe,FoodSupplyVar,2016,15
+Slovenia,Europe,FoodSupplyVar,2017,19
+Slovenia,Europe,FoodSupplyVar,2018,19
+Slovenia,Europe,FoodSupplyVar,2019,18
+Solomon Islands,Oceania,GDP,2016,2596.5
+Solomon Islands,Oceania,GDP,2017,2663.9
+Solomon Islands,Oceania,GDP,2018,2697.6
+Solomon Islands,Oceania,GDP,2019,2661
+Solomon Islands,Oceania,GDP,2020,2482.9
+Solomon Islands,Oceania,FoodSupplyVar,2016,46
+Solomon Islands,Oceania,FoodSupplyVar,2017,27
+Solomon Islands,Oceania,FoodSupplyVar,2018,37
+Solomon Islands,Oceania,FoodSupplyVar,2019,36
+Somalia,Africa,GDP,2016,879.9
+Somalia,Africa,GDP,2017,867.5
+Somalia,Africa,GDP,2018,866.8
+Somalia,Africa,GDP,2019,866.8
+Somalia,Africa,GDP,2020,829.6
+Somalia,Africa,FoodSupplyVar,2016,149
+Somalia,Africa,FoodSupplyVar,2017,115
+Somalia,Africa,FoodSupplyVar,2018,100
+Somalia,Africa,FoodSupplyVar,2019,90
+South Africa,Africa,GDP,2016,12702.9
+South Africa,Africa,GDP,2017,12701.3
+South Africa,Africa,GDP,2018,12627.9
+South Africa,Africa,GDP,2019,12481.8
+South Africa,Africa,GDP,2020,11466.2
+South Africa,Africa,FoodSupplyVar,2016,19
+South Africa,Africa,FoodSupplyVar,2017,16
+South Africa,Africa,FoodSupplyVar,2018,13
+South Africa,Africa,FoodSupplyVar,2019,21
+Spain,Europe,GDP,2016,38477.6
+Spain,Europe,GDP,2017,39528.9
+Spain,Europe,GDP,2018,40312.5
+Spain,Europe,GDP,2019,40805.9
+Spain,Europe,GDP,2020,36215.4
+Spain,Europe,FoodSupplyVar,2016,10
+Spain,Europe,FoodSupplyVar,2017,24
+Spain,Europe,FoodSupplyVar,2018,27
+Spain,Europe,FoodSupplyVar,2019,27
+Sri Lanka,Asia,GDP,2016,12287.5
+Sri Lanka,Asia,GDP,2017,12584.1
+Sri Lanka,Asia,GDP,2018,12860.3
+Sri Lanka,Asia,GDP,2019,13070.1
+Sri Lanka,Asia,GDP,2020,12536.9
+Sri Lanka,Asia,FoodSupplyVar,2016,41
+Sri Lanka,Asia,FoodSupplyVar,2017,43
+Sri Lanka,Asia,FoodSupplyVar,2018,42
+Sri Lanka,Asia,FoodSupplyVar,2019,19
+Sudan,Africa,GDP,2016,4234.8
+Sudan,Africa,GDP,2017,4327.8
+Sudan,Africa,GDP,2018,4344.5
+Sudan,Africa,GDP,2019,4185.6
+Sudan,Africa,GDP,2020,4022.9
+Sudan,Africa,FoodSupplyVar,2016,50
+Sudan,Africa,FoodSupplyVar,2017,24
+Sudan,Africa,FoodSupplyVar,2018,38
+Sudan,Africa,FoodSupplyVar,2019,31
+Suriname,South America,GDP,2016,18180.6
+Suriname,South America,GDP,2017,18283.7
+Suriname,South America,GDP,2018,19005.7
+Suriname,South America,GDP,2019,19036.7
+Suriname,South America,GDP,2020,16130.2
+Suriname,South America,FoodSupplyVar,2016,24
+Suriname,South America,FoodSupplyVar,2017,24
+Suriname,South America,FoodSupplyVar,2018,24
+Suriname,South America,FoodSupplyVar,2019,24
+Sweden,Europe,GDP,2016,51334.4
+Sweden,Europe,GDP,2017,51948
+Sweden,Europe,GDP,2018,52349.3
+Sweden,Europe,GDP,2019,52531.2
+Sweden,Europe,GDP,2020,50683.3
+Sweden,Europe,FoodSupplyVar,2016,12
+Sweden,Europe,FoodSupplyVar,2017,12
+Sweden,Europe,FoodSupplyVar,2018,11
+Sweden,Europe,FoodSupplyVar,2019,16
+Switzerland,Europe,GDP,2016,68663.2
+Switzerland,Europe,GDP,2017,69103.6
+Switzerland,Europe,GDP,2018,70663.5
+Switzerland,Europe,GDP,2019,70920.3
+Switzerland,Europe,GDP,2020,68393.3
+Switzerland,Europe,FoodSupplyVar,2016,46
+Switzerland,Europe,FoodSupplyVar,2017,27
+Switzerland,Europe,FoodSupplyVar,2018,27
+Switzerland,Europe,FoodSupplyVar,2019,17
+Syrian Arab Republic,Asia,FoodSupplyVar,2016,36
+Syrian Arab Republic,Asia,FoodSupplyVar,2017,33
+Syrian Arab Republic,Asia,FoodSupplyVar,2018,26
+Syrian Arab Republic,Asia,FoodSupplyVar,2019,20
+Tajikistan,Asia,GDP,2016,3113.3
+Tajikistan,Asia,GDP,2017,3252.9
+Tajikistan,Asia,GDP,2018,3415.3
+Tajikistan,Asia,GDP,2019,3581.4
+Tajikistan,Asia,GDP,2020,3657.6
+Tajikistan,Asia,FoodSupplyVar,2016,19
+Tajikistan,Asia,FoodSupplyVar,2017,18
+Tajikistan,Asia,FoodSupplyVar,2018,18
+Tajikistan,Asia,FoodSupplyVar,2019,16
+Thailand,Asia,GDP,2016,16782.1
+Thailand,Asia,GDP,2017,17423
+Thailand,Asia,GDP,2018,18095.7
+Thailand,Asia,GDP,2019,18453.5
+Thailand,Asia,GDP,2020,17286.9
+Thailand,Asia,FoodSupplyVar,2016,14
+Thailand,Asia,FoodSupplyVar,2017,13
+Thailand,Asia,FoodSupplyVar,2018,13
+Thailand,Asia,FoodSupplyVar,2019,13
+Timor-Leste,Asia,GDP,2016,3344.6
+Timor-Leste,Asia,GDP,2017,3145.5
+Timor-Leste,Asia,GDP,2018,3051.7
+Timor-Leste,Asia,GDP,2019,3552.6
+Timor-Leste,Asia,GDP,2020,3181.1
+Timor-Leste,Asia,FoodSupplyVar,2016,50
+Timor-Leste,Asia,FoodSupplyVar,2017,47
+Timor-Leste,Asia,FoodSupplyVar,2018,46
+Timor-Leste,Asia,FoodSupplyVar,2019,32
+Togo,Africa,GDP,2016,1976.8
+Togo,Africa,GDP,2017,2012.2
+Togo,Africa,GDP,2018,2061.3
+Togo,Africa,GDP,2019,2121.9
+Togo,Africa,GDP,2020,2107.9
+Togo,Africa,FoodSupplyVar,2016,48
+Togo,Africa,FoodSupplyVar,2017,42
+Togo,Africa,FoodSupplyVar,2018,45
+Togo,Africa,FoodSupplyVar,2019,39
+Tonga,Oceania,GDP,2016,6312.3
+Tonga,Oceania,GDP,2017,6467.1
+Tonga,Oceania,GDP,2018,6411.3
+Tonga,Oceania,GDP,2019,6378.1
+Trinidad and Tobago,North America,GDP,2016,27281.9
+Trinidad and Tobago,North America,GDP,2017,26342.6
+Trinidad and Tobago,North America,GDP,2018,26250.4
+Trinidad and Tobago,North America,GDP,2019,25827.9
+Trinidad and Tobago,North America,GDP,2020,23728.2
+Trinidad and Tobago,North America,FoodSupplyVar,2016,33
+Trinidad and Tobago,North America,FoodSupplyVar,2017,27
+Trinidad and Tobago,North America,FoodSupplyVar,2018,28
+Trinidad and Tobago,North America,FoodSupplyVar,2019,14
+Tunisia,Africa,GDP,2016,10524.9
+Tunisia,Africa,GDP,2017,10605.3
+Tunisia,Africa,GDP,2018,10763.7
+Tunisia,Africa,GDP,2019,10755.6
+Tunisia,Africa,GDP,2020,9727.5
+Tunisia,Africa,FoodSupplyVar,2016,24
+Tunisia,Africa,FoodSupplyVar,2017,24
+Tunisia,Africa,FoodSupplyVar,2018,24
+Tunisia,Africa,FoodSupplyVar,2019,24
+Turkey,Asia,GDP,2016,26385
+Turkey,Asia,GDP,2017,27913.8
+Turkey,Asia,GDP,2018,28312.7
+Turkey,Asia,GDP,2019,28199.1
+Turkey,Asia,GDP,2020,28385
+Turkey,Asia,FoodSupplyVar,2016,17
+Turkey,Asia,FoodSupplyVar,2017,22
+Turkey,Asia,FoodSupplyVar,2018,21
+Turkey,Asia,FoodSupplyVar,2019,32
+Turkmenistan,Asia,GDP,2016,13562.5
+Turkmenistan,Asia,GDP,2017,14205
+Turkmenistan,Asia,GDP,2018,14845.3
+Turkmenistan,Asia,GDP,2019,15538.4
+Turkmenistan,Asia,FoodSupplyVar,2016,62
+Turkmenistan,Asia,FoodSupplyVar,2017,65
+Turkmenistan,Asia,FoodSupplyVar,2018,59
+Turkmenistan,Asia,FoodSupplyVar,2019,12
+Tuvalu,Oceania,GDP,2016,3787.8
+Tuvalu,Oceania,GDP,2017,3896.7
+Tuvalu,Oceania,GDP,2018,3945.6
+Tuvalu,Oceania,GDP,2019,4274.8
+Tuvalu,Oceania,GDP,2020,4411
+Uganda,Africa,GDP,2016,2075
+Uganda,Africa,GDP,2017,2074.7
+Uganda,Africa,GDP,2018,2122
+Uganda,Africa,GDP,2019,2187.5
+Uganda,Africa,GDP,2020,2177.6
+Uganda,Africa,FoodSupplyVar,2016,35
+Uganda,Africa,FoodSupplyVar,2017,65
+Uganda,Africa,FoodSupplyVar,2018,57
+Uganda,Africa,FoodSupplyVar,2019,43
+Ukraine,Europe,GDP,2016,11534.6
+Ukraine,Europe,GDP,2017,11871.1
+Ukraine,Europe,GDP,2018,12338
+Ukraine,Europe,GDP,2019,12808.8
+Ukraine,Europe,GDP,2020,12377
+Ukraine,Europe,FoodSupplyVar,2016,22
+Ukraine,Europe,FoodSupplyVar,2017,18
+Ukraine,Europe,FoodSupplyVar,2018,31
+Ukraine,Europe,FoodSupplyVar,2019,74
+United Arab Emirates,Asia,GDP,2016,66510.9
+United Arab Emirates,Asia,GDP,2017,67183.6
+United Arab Emirates,Asia,GDP,2018,66968.2
+United Arab Emirates,Asia,GDP,2019,67119.2
+United Arab Emirates,Asia,FoodSupplyVar,2016,50
+United Arab Emirates,Asia,FoodSupplyVar,2017,42
+United Arab Emirates,Asia,FoodSupplyVar,2018,63
+United Arab Emirates,Asia,FoodSupplyVar,2019,93
+United Kingdom of Great Britain and Northern Ireland,Europe,GDP,2016,45268.7
+United Kingdom of Great Britain and Northern Ireland,Europe,GDP,2017,45744.7
+United Kingdom of Great Britain and Northern Ireland,Europe,GDP,2018,46037.9
+United Kingdom of Great Britain and Northern Ireland,Europe,GDP,2019,46406.5
+United Kingdom of Great Britain and Northern Ireland,Europe,GDP,2020,41627.1
+United Kingdom of Great Britain and Northern Ireland,Europe,FoodSupplyVar,2016,39
+United Kingdom of Great Britain and Northern Ireland,Europe,FoodSupplyVar,2017,41
+United Kingdom of Great Britain and Northern Ireland,Europe,FoodSupplyVar,2018,37
+United Kingdom of Great Britain and Northern Ireland,Europe,FoodSupplyVar,2019,19
+United Republic of Tanzania,Africa,GDP,2016,2441.6
+United Republic of Tanzania,Africa,GDP,2017,2530.6
+United Republic of Tanzania,Africa,GDP,2018,2590.2
+United Republic of Tanzania,Africa,GDP,2019,2660.4
+United Republic of Tanzania,Africa,GDP,2020,2635.3
+United Republic of Tanzania,Africa,FoodSupplyVar,2016,12
+United Republic of Tanzania,Africa,FoodSupplyVar,2017,12
+United Republic of Tanzania,Africa,FoodSupplyVar,2018,14
+United Republic of Tanzania,Africa,FoodSupplyVar,2019,27
+United States of America,North America,GDP,2016,59112.2
+United States of America,North America,GDP,2017,60109.7
+United States of America,North America,GDP,2018,61585.8
+United States of America,North America,GDP,2019,62630.9
+United States of America,North America,GDP,2020,60235.7
+United States of America,North America,FoodSupplyVar,2016,20
+United States of America,North America,FoodSupplyVar,2017,18
+United States of America,North America,FoodSupplyVar,2018,27
+United States of America,North America,FoodSupplyVar,2019,29
+Uruguay,South America,GDP,2016,22724
+Uruguay,South America,GDP,2017,23009.9
+Uruguay,South America,GDP,2018,23035.1
+Uruguay,South America,GDP,2019,23032.7
+Uruguay,South America,GDP,2020,21608.4
+Uruguay,South America,FoodSupplyVar,2016,31
+Uruguay,South America,FoodSupplyVar,2017,32
+Uruguay,South America,FoodSupplyVar,2018,33
+Uruguay,South America,FoodSupplyVar,2019,34
+Uzbekistan,Asia,GDP,2016,6346.3
+Uzbekistan,Asia,GDP,2017,6518.8
+Uzbekistan,Asia,GDP,2018,6755.5
+Uzbekistan,Asia,GDP,2019,7014.3
+Uzbekistan,Asia,GDP,2020,6994.2
+Uzbekistan,Asia,FoodSupplyVar,2016,44
+Uzbekistan,Asia,FoodSupplyVar,2017,56
+Uzbekistan,Asia,FoodSupplyVar,2018,73
+Uzbekistan,Asia,FoodSupplyVar,2019,79
+Vanuatu,Oceania,GDP,2016,2973.5
+Vanuatu,Oceania,GDP,2017,3081.8
+Vanuatu,Oceania,GDP,2018,3093.5
+Vanuatu,Oceania,GDP,2019,3117.7
+Vanuatu,Oceania,GDP,2020,2762.8
+Vanuatu,Oceania,FoodSupplyVar,2016,22
+Vanuatu,Oceania,FoodSupplyVar,2017,28
+Vanuatu,Oceania,FoodSupplyVar,2018,28
+Vanuatu,Oceania,FoodSupplyVar,2019,34
+Venezuela (Bolivarian Republic of),South America,FoodSupplyVar,2016,83
+Venezuela (Bolivarian Republic of),South America,FoodSupplyVar,2017,164
+Venezuela (Bolivarian Republic of),South America,FoodSupplyVar,2018,165
+Venezuela (Bolivarian Republic of),South America,FoodSupplyVar,2019,168
+Viet Nam,Asia,GDP,2016,6767.8
+Viet Nam,Asia,GDP,2017,7155.4
+Viet Nam,Asia,GDP,2018,7585.9
+Viet Nam,Asia,GDP,2019,8041.2
+Viet Nam,Asia,GDP,2020,8200.3
+Viet Nam,Asia,FoodSupplyVar,2016,18
+Viet Nam,Asia,FoodSupplyVar,2017,18
+Viet Nam,Asia,FoodSupplyVar,2018,14
+Viet Nam,Asia,FoodSupplyVar,2019,22
+Yemen,Asia,FoodSupplyVar,2016,85
+Yemen,Asia,FoodSupplyVar,2017,123
+Yemen,Asia,FoodSupplyVar,2018,93
+Yemen,Asia,FoodSupplyVar,2019,67
+Zambia,Africa,GDP,2016,3467.9
+Zambia,Africa,GDP,2017,3485
+Zambia,Africa,GDP,2018,3521.5
+Zambia,Africa,GDP,2019,3470.4
+Zambia,Africa,GDP,2020,3270
+Zambia,Africa,FoodSupplyVar,2016,21
+Zambia,Africa,FoodSupplyVar,2017,29
+Zambia,Africa,FoodSupplyVar,2018,40
+Zambia,Africa,FoodSupplyVar,2019,58
+Zimbabwe,Africa,GDP,2016,3173.6
+Zimbabwe,Africa,GDP,2017,3274.6
+Zimbabwe,Africa,GDP,2018,3341.7
+Zimbabwe,Africa,GDP,2019,3027.7
+Zimbabwe,Africa,GDP,2020,2744.7
+Zimbabwe,Africa,FoodSupplyVar,2016,47
+Zimbabwe,Africa,FoodSupplyVar,2017,40
+Zimbabwe,Africa,FoodSupplyVar,2018,31
+Zimbabwe,Africa,FoodSupplyVar,2019,47
