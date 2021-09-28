@@ -22,23 +22,19 @@
           "lookup": "country",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data.csv"
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/undernourishment_new.csv"
             },
             "key": "Country",
-            "fields": ["Value", "Item", "Country", "Year", "BinValue"]
+            "fields": ["Value", "Country", "Year", "BinValue"]
           }
         },
-        {
-          "filter": { "field": "Value", "valid": true }
-        },
-        {
-          "filter": "datum.Item == 'undernourishment'"
-        }
+        { "filter": "datum.Country != null" }
       ],
       "mark": { "type": "circle" },
       "encoding": {
         "latitude": { "field": "latitude" },
         "longitude": { "field": "longitude" },
+        "size": { "value": 500 },
         "fill": {
           "field": "BinValue",
           "type": "ordinal",
@@ -51,7 +47,8 @@
             "25 - 35",
             "35 - 45",
             "45 - 59.5"
-          ]
+          ],
+          "scale": { "scheme": "reds" }
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
@@ -72,32 +69,30 @@
           "lookup": "country",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data.csv"
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/insecurity_new.csv"
             },
             "key": "Country",
-            "fields": ["Value", "Item", "Country", "Year", "BinValue"]
+            "fields": ["Value", "Country", "Year", "BinValue"]
           }
         },
-        { "filter": "datum.Item == 'insecurity'" },
-        {
-          "filter": { "field": "Value", "valid": true }
-        }
+        { "filter": "datum.Country != null" }
       ],
       "mark": { "type": "square" },
       "encoding": {
         "latitude": { "field": "latitude" },
         "longitude": { "field": "longitude" },
-        "fill": {
+        "size": { "value": 150 },
+        "color": {
           "field": "BinValue",
-          "type": "ordinal",
+          "scale": { "scheme": "tealblues" },
           "sort": [
-            "<2.5",
-            "2.5 - 5",
-            "5 - 15",
-            "15 - 25",
-            "25 - 35",
-            "35 - 45",
-            "45 - 59.5"
+            "<0.5",
+            "0.5 - 10",
+            "10 - 20",
+            "20 - 30",
+            "30 - 40",
+            "40 - 50",
+            "50 - 65.4"
           ],
           "legend": { "title": "Food Insecurity (%)" }
         },
