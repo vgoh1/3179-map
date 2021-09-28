@@ -5,24 +5,38 @@
   "width": 800,
   "height": 500,
   "title": "Undernourishment vs Food Insecurity",
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2016,
+      "bind": {
+        "input": "range",
+        "min": 2016,
+        "max": 2019,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
-        "format": { "type": "topojson", "feature": "world.geo" }
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/undernourishment_new.csv"
       },
       "transform": [
         {
-          "lookup": "properties.name",
+          "lookup": "Country",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/undernourishment_new.csv"
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
+              "format": { "type": "topojson", "feature": "world.geo" }
             },
-            "key": "Country",
-            "fields": ["Value", "Country", "Year", "BinValue"]
+            "key": "properties.name",
+            "fields": ["type", "properties", "geometry"]
           }
         },
-        { "filter": "datum.Country != null" }
+        { "filter": "datum.Country != null" },
+        { "filter": "datum.Year == Year_selection" }
       ],
       "mark": { "type": "geoshape" },
       "encoding": {
@@ -43,30 +57,28 @@
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
-          {
-            "field": "BinValue",
-            "type": "ordinal",
-            "title": "Undernourishment"
-          }
+          { "field": "Value", "type": "ordinal", "title": "Undernourishment" },
+          { "field": "Year", "type": "ordinal" }
         ]
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/insecurity_new.csv"
       },
       "transform": [
         {
-          "lookup": "country",
+          "lookup": "Country",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/insecurity_new.csv"
+              "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
             },
-            "key": "Country",
-            "fields": ["Value", "Country", "Year", "BinValue"]
+            "key": "country",
+            "fields": ["country", "latitude", "longitude"]
           }
         },
-        { "filter": "datum.Country != null" }
+        { "filter": "datum.Country != null" },
+        { "filter": "datum.Year == Year_selection" }
       ],
       "mark": { "type": "square" },
       "encoding": {
@@ -89,34 +101,21 @@
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
-          { "field": "BinValue", "type": "ordinal", "title": "Food Insecurity" }
+          { "field": "Value", "type": "ordinal", "title": "Food Insecurity" },
+          { "field": "Year", "type": "ordinal" }
         ]
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
-        "format": { "type": "topojson", "feature": "world.geo" }
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/insecurity_new.csv"
       },
       "transform": [
-        {
-          "lookup": "properties.name",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data.csv"
-            },
-            "key": "Country",
-            "fields": ["Value", "Item", "Country", "Year", "BinValue"]
-          }
-        },
-        {
-          "pivot": "Item",
-          "value": "Value",
-          "groupby": ["Country", "BinValue", "Year"]
-        },
-        { "filter": "datum.Country != null" }
+        { "filter": { "field": "Country", "equal": "Afghanistan" } },
+        { "filter": "datum.Year == Year_selection" }
       ],
-      "mark": { "type": "geoshape" }
+      "mark": { "type": "text", "fontSize": 30, "opacity": 0.6, "dy": -234 },
+      "encoding": { "text": { "field": "Year" } }
     }
   ]
 }
