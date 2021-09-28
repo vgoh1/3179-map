@@ -39,17 +39,12 @@
       "encoding": {
         "latitude": { "field": "latitude" },
         "longitude": { "field": "longitude" },
-        "size": {
-          "field": "Value",
-          "type": "quantitative",
-          "scale": { "rangeMax": 1000 },
-          "legend": null
-        },
         "fill": {
           "field": "BinValue",
           "type": "ordinal",
           "legend": { "title": "Undernourishment (%)" },
           "sort": [
+            "<2.5",
             "2.5 - 5",
             "5 - 15",
             "15 - 25",
@@ -61,8 +56,8 @@
         "tooltip": [
           { "field": "Country", "type": "nominal" },
           {
-            "field": "Value",
-            "type": "quantitative",
+            "field": "BinValue",
+            "type": "ordinal",
             "title": "Undernourishment"
           }
         ]
@@ -88,41 +83,27 @@
           "filter": { "field": "Value", "valid": true }
         }
       ],
-      "mark": { "type": "circle" },
+      "mark": { "type": "square" },
       "encoding": {
         "latitude": { "field": "latitude" },
         "longitude": { "field": "longitude" },
-        "size": {
-          "field": "Value",
-          "type": "quantitative",
-          "scale": { "rangeMax": 1000 },
-          "legend": null
-        },
         "fill": {
-          "field": "Value",
-          "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [0.5, 10, 20, 30, 40, 50, 65.4],
-            "range": [
-              "#ffffb2",
-              "#fed976",
-              "#feb24c",
-              "#fd8d3c",
-              "#fc4e2a",
-              "#e31a1c",
-              "#b10026"
-            ]
-          },
+          "field": "BinValue",
+          "type": "ordinal",
+          "sort": [
+            "<2.5",
+            "2.5 - 5",
+            "5 - 15",
+            "15 - 25",
+            "25 - 35",
+            "35 - 45",
+            "45 - 59.5"
+          ],
           "legend": { "title": "Food Insecurity (%)" }
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
-          {
-            "field": "Value",
-            "type": "quantitative",
-            "title": "Food Insecurity"
-          }
+          { "field": "BinValue", "type": "ordinal", "title": "Food Insecurity" }
         ]
       }
     }
