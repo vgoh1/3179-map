@@ -1,7 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Percentage of children under 5 years affected by wasting, stunting and who were overweight in 2019",
-  "description": "A vertical box plot showing median, min, and max body mass of penguins.",
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
   },
@@ -33,7 +31,11 @@
   ],
   "vconcat": [
     {
-      "width": 500,
+      "title": {
+        "text": "Wasting",
+        "subtitle": ["Being dangerously thin for one's height"]
+      },
+      "width": 400,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
@@ -48,7 +50,11 @@
       }
     },
     {
-      "width": 500,
+      "title": {
+        "text": "Overweight",
+        "subtitle": ["Weighing more than what's recommended for one's age"]
+      },
+      "width": 400,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
@@ -63,7 +69,11 @@
       }
     },
     {
-      "width": 500,
+      "title": {
+        "text": "Stunting",
+        "subtitle": ["Being too short for one's age"]
+      },
+      "width": 400,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {

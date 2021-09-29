@@ -6,7 +6,19 @@
 }
 
 h1 {
-	font-family: 'Roboto', sans-serif
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
 }
 .symbol_map {
   /* top: 100px;

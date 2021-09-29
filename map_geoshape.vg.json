@@ -4,7 +4,6 @@
   "projection": { "type": "equalEarth" },
   "width": 500,
   "height": 300,
-  "title": "Prevalence of undernourishment vs food insecurity",
   "params": [
     {
       "name": "Year_selection",
