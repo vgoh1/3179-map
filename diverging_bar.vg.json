@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A population pyramid for the US in 2000, created using stack. See https://vega.github.io/vega-lite/examples/concat_population_pyramid.html for a variant of this created using concat.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_wasting_new.csv"
+  },
+  "transform": [
+    { "filter": "datum.Year == 2019" },
+    {
+      "calculate": "datum.Item == 'overweight' ? -datum.Value : datum.Value",
+      "as": "signed_value"
+    },
+    { "filter": "datum.Continent == 'Africa'" }
+  ],
+  "width": 500,
+  "height": 400,
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "Area"
+    },
+    "x": {
+      "field": "signed_value",
+      "title": "Percentage",
+      "scale": {
+        "type": "linear"
+      }
+    },
+    "color": {
+      "field": "Item",
+      "scale": { "range": ["#675193", "#ca8861"] },
+      "legend": { "orient": "top", "title": null }
+    }
+  },
+  "config": {
+    "view": { "stroke": null },
+    "axis": { "grid": false }
+  }
+}
