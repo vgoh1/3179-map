@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
-  "height": 400,
+  "height": 300,
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/obesity_clean.csv"
   },
