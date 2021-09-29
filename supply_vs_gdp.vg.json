@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
-  "height": 400,
+  "height": 300,
   "title": "Food Supply Variability vs GDP per capita",
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-HW10/main/data/continents.csv"

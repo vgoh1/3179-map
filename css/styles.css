@@ -1,0 +1,18 @@
+.page {
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+  padding-top: 25px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif
+}
+.symbol_map {
+  /* top: 100px;
+  bottom: 100px;
+  left: 100px;
+  right: 100px; */
+  /*height: 1000px;
+	width: 800px;*/
+}
