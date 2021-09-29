@@ -35,7 +35,7 @@
         "text": "Wasting",
         "subtitle": ["Being dangerously thin for one's height"]
       },
-      "width": 310,
+      "width": 320,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
@@ -54,7 +54,7 @@
         "text": "Overweight",
         "subtitle": ["Weighing more than what's recommended for one's age"]
       },
-      "width": 310,
+      "width": 320,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
@@ -73,12 +73,12 @@
               "South America"
             ],
             "range": [
-              "#acd8db",
-              "#1b9646",
-              "#7fa52b",
-              "#d045a7",
-              "#e5440e",
-              "#c2ad92"
+              "#f1a2a7",
+              "#e68b39",
+              "#d4605b",
+              "#82b5b2",
+              "#68a055",
+              "#aa7ba0"
             ]
           }
         },
@@ -95,7 +95,7 @@
         "text": "Stunting",
         "subtitle": ["Being too short for one's age"]
       },
-      "width": 310,
+      "width": 320,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {

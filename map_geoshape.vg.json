@@ -15,9 +15,28 @@
         "step": 1,
         "name": "Year: "
       }
+    },
+    {
+      "name": "Variable_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Undernourishment",
+          "Food_Security"
+        ],
+        "labels": ["Undernourishment", "Food Security"],
+        "name": "Attribute Selection: "
+      }
     }
   ],
   "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
+        "format": { "type": "topojson", "feature": "world.geo" }
+      },
+      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "white" }
+    },
     {
       "data": {
         "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/undernourishment_new.csv"
@@ -31,7 +50,7 @@
               "format": { "type": "topojson", "feature": "world.geo" }
             },
             "key": "properties.name",
-            "fields": ["type", "properties", "geometry"]
+            "fields": ["type", "properties", "geometry", "Item"]
           }
         },
         { "filter": "datum.Country != null" },
@@ -67,59 +86,6 @@
         "tooltip": [
           { "field": "Country", "type": "nominal" },
           { "field": "Value", "type": "ordinal", "title": "Undernourishment" }
-        ]
-      }
-    },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/insecurity_new.csv"
-      },
-      "transform": [
-        {
-          "lookup": "Country",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
-            },
-            "key": "country",
-            "fields": ["country", "latitude", "longitude"]
-          }
-        },
-        { "filter": "datum.Country != null" },
-        { "filter": "datum.Year == Year_selection" }
-      ],
-      "mark": { "type": "circle" },
-      "encoding": {
-        "latitude": { "field": "latitude" },
-        "longitude": { "field": "longitude" },
-        "size": { "field": "Value", "legend": null},
-        "color": {
-          "field": "BinValue",
-          "scale": {
-            "range": [
-              "#ddf0fc",
-              "#a0bad5",
-              "#6ca7d2",
-              "#4e93bd",
-              "#436fa1",
-              "#3d466e",
-              "#152d72"
-            ]
-          },
-          "sort": [
-            "<0.5",
-            "0.5 - 10",
-            "10 - 20",
-            "20 - 30",
-            "30 - 40",
-            "40 - 50",
-            "50 - 65.4"
-          ],
-          "legend": { "title": "Food Insecurity (%)" }
-        },
-        "tooltip": [
-          { "field": "Country", "type": "nominal" },
-          { "field": "Value", "type": "ordinal", "title": "Food Insecurity" }
         ]
       }
     }
