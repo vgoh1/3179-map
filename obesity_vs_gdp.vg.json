@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
-  "height": 300,
+  "height": 250,
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/obesity_clean.csv"
   },
@@ -40,12 +40,12 @@
           "type": "nominal",
           "scale": {
             "domain": [
-              "North America",
-              "South America",
-              "Europe",
               "Africa",
               "Asia",
-              "Oceania"
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
             ],
             "range": [
               "#1b9e77",

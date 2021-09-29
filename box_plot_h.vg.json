@@ -35,7 +35,7 @@
         "text": "Wasting",
         "subtitle": ["Being dangerously thin for one's height"]
       },
-      "width": 300,
+      "width": 310,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
@@ -54,11 +54,11 @@
         "text": "Overweight",
         "subtitle": ["Weighing more than what's recommended for one's age"]
       },
-      "width": 300,
+      "width": 310,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
-        "y": { "field": "Continent", "type": "nominal" },
+        "y": { "field": "Continent", "type": "nominal"},
         "color": { "field": "Continent", "type": "nominal", "legend": null },
         "x": {
           "field": "OverweightValue",
@@ -73,11 +73,11 @@
         "text": "Stunting",
         "subtitle": ["Being too short for one's age"]
       },
-      "width": 300,
+      "width": 310,
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
-        "y": { "field": "Continent", "type": "nominal" },
+        "y": { "field": "Continent", "type": "nominal"},
         "color": { "field": "Continent", "type": "nominal", "legend": null },
         "x": {
           "field": "StuntingValue",
