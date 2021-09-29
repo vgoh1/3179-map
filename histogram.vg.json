@@ -1,17 +1,23 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Percentage of children under 5 years old affected by wasting",
-    "dx": 50,
-    "fontSize": 20,
-    "subtitle": "This is a subtitle",
-    "subtitleColor": "red"
-  },
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
   },
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2016,
+      "bind": {
+        "input": "range",
+        "min": 2016,
+        "max": 2019,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
   "transform": [
-    { "filter": "datum.Year == '2019'" },
+    { "filter": "datum.Year == Year_selection" },
     {
       "lookup": "Area",
       "from": {
@@ -21,19 +27,35 @@
         "key": "Area",
         "fields": ["Continent", "OverweightValue"]
       }
+    },
+    {
+      "filter": {
+        "field": "WastingValue",
+        "valid": true
+      }
+    },
+    {
+      "filter": {
+        "field": "OverweightValue",
+        "valid": true
+      }
     }
   ],
   "facet": {
     "column": {
       "field": "Continent",
       "type": "nominal",
-      "header": { "titleFontSize": 15, "labelFontSize": 12.5 }
+      "header": {
+        "titleFontSize": 15,
+        "labelFontSize": 12.5,
+        "labelAlign": "center"
+      }
     }
   },
   "spec": {
     "layer": [
       {
-        "mark": { "type": "bar", "color": "red", "opacity": 1 },
+        "mark": { "type": "bar", "color": "red", "opacity": 0.7 },
         "encoding": {
           "x": { "bin": true, "field": "WastingValue", "title": "Percentage" },
           "y": { "aggregate": "count", "title": "Count" }
