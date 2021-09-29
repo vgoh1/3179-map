@@ -1,0 +1,899 @@
+Area,Continent,Item,Year,Value
+Afghanistan,Asia,wasting,2018,5.1
+Afghanistan,Asia,overweight,2016,4.6
+Afghanistan,Asia,overweight,2017,4.4
+Afghanistan,Asia,overweight,2018,4.3
+Afghanistan,Asia,overweight,2019,4.1
+Afghanistan,Asia,overweight,2020,3.9
+Albania,Europe,wasting,2017,1.6
+Albania,Europe,overweight,2016,17.3
+Albania,Europe,overweight,2017,16.4
+Albania,Europe,overweight,2018,15.7
+Albania,Europe,overweight,2019,15.1
+Albania,Europe,overweight,2020,14.6
+Algeria,Africa,wasting,2019,2.7
+Algeria,Africa,overweight,2016,13.1
+Algeria,Africa,overweight,2017,13.1
+Algeria,Africa,overweight,2018,13
+Algeria,Africa,overweight,2019,12.9
+Algeria,Africa,overweight,2020,12.9
+Angola,Africa,overweight,2016,3.1
+Angola,Africa,overweight,2017,3.1
+Angola,Africa,overweight,2018,3.2
+Angola,Africa,overweight,2019,3.4
+Angola,Africa,overweight,2020,3.5
+Argentina,South America,wasting,2019,1.6
+Argentina,South America,overweight,2016,12.6
+Argentina,South America,overweight,2017,12.7
+Argentina,South America,overweight,2018,12.8
+Argentina,South America,overweight,2019,12.9
+Argentina,South America,overweight,2020,12.9
+Armenia,Asia,wasting,2016,4.4
+Armenia,Asia,overweight,2016,12.1
+Armenia,Asia,overweight,2017,11.6
+Armenia,Asia,overweight,2018,11.3
+Armenia,Asia,overweight,2019,11
+Armenia,Asia,overweight,2020,10.8
+Australia,Oceania,overweight,2016,16.7
+Australia,Oceania,overweight,2017,17.3
+Australia,Oceania,overweight,2018,17.7
+Australia,Oceania,overweight,2019,18.2
+Australia,Oceania,overweight,2020,18.5
+Azerbaijan,Asia,overweight,2016,9.9
+Azerbaijan,Asia,overweight,2017,9.7
+Azerbaijan,Asia,overweight,2018,9.6
+Azerbaijan,Asia,overweight,2019,9.5
+Azerbaijan,Asia,overweight,2020,9.4
+Bahrain,Asia,overweight,2016,6
+Bahrain,Asia,overweight,2017,6.1
+Bahrain,Asia,overweight,2018,6.2
+Bahrain,Asia,overweight,2019,6.3
+Bahrain,Asia,overweight,2020,6.4
+Bangladesh,Asia,wasting,2018,8.4
+Bangladesh,Asia,wasting,2019,9.8
+Bangladesh,Asia,overweight,2016,2
+Bangladesh,Asia,overweight,2017,2
+Bangladesh,Asia,overweight,2018,2.1
+Bangladesh,Asia,overweight,2019,2.1
+Bangladesh,Asia,overweight,2020,2.1
+Barbados,North America,overweight,2016,11.3
+Barbados,North America,overweight,2017,11.4
+Barbados,North America,overweight,2018,11.4
+Barbados,North America,overweight,2019,11.4
+Barbados,North America,overweight,2020,11.4
+Belarus,Europe,overweight,2016,7.5
+Belarus,Europe,overweight,2017,7.2
+Belarus,Europe,overweight,2018,7
+Belarus,Europe,overweight,2019,6.9
+Belarus,Europe,overweight,2020,6.8
+Belgium,Europe,overweight,2016,4.8
+Belgium,Europe,overweight,2017,4.9
+Belgium,Europe,overweight,2018,4.9
+Belgium,Europe,overweight,2019,5
+Belgium,Europe,overweight,2020,5.1
+Belize,North America,overweight,2016,8.5
+Belize,North America,overweight,2017,8.4
+Belize,North America,overweight,2018,8.2
+Belize,North America,overweight,2019,8.1
+Belize,North America,overweight,2020,8
+Benin,Africa,wasting,2018,5
+Benin,Africa,overweight,2016,1.8
+Benin,Africa,overweight,2017,1.8
+Benin,Africa,overweight,2018,2
+Benin,Africa,overweight,2019,2.1
+Benin,Africa,overweight,2020,2.2
+Bhutan,Asia,overweight,2016,5.8
+Bhutan,Asia,overweight,2017,5.7
+Bhutan,Asia,overweight,2018,5.5
+Bhutan,Asia,overweight,2019,5.4
+Bhutan,Asia,overweight,2020,5.2
+Bolivia (Plurinational State of),South America,wasting,2016,2
+Bolivia (Plurinational State of),South America,overweight,2016,8.9
+Bolivia (Plurinational State of),South America,overweight,2017,8.9
+Bolivia (Plurinational State of),South America,overweight,2018,8.9
+Bolivia (Plurinational State of),South America,overweight,2019,8.9
+Bolivia (Plurinational State of),South America,overweight,2020,8.8
+Bosnia and Herzegovina,Europe,overweight,2016,14.9
+Bosnia and Herzegovina,Europe,overweight,2017,14.2
+Bosnia and Herzegovina,Europe,overweight,2018,13.6
+Bosnia and Herzegovina,Europe,overweight,2019,13.2
+Bosnia and Herzegovina,Europe,overweight,2020,12.8
+Botswana,Africa,overweight,2016,10.8
+Botswana,Africa,overweight,2017,10.9
+Botswana,Africa,overweight,2018,10.9
+Botswana,Africa,overweight,2019,10.9
+Botswana,Africa,overweight,2020,11
+Brazil,South America,overweight,2016,7.1
+Brazil,South America,overweight,2017,7.1
+Brazil,South America,overweight,2018,7.2
+Brazil,South America,overweight,2019,7.2
+Brazil,South America,overweight,2020,7.3
+Brunei Darussalam,Asia,overweight,2016,9
+Brunei Darussalam,Asia,overweight,2017,9.1
+Brunei Darussalam,Asia,overweight,2018,9.1
+Brunei Darussalam,Asia,overweight,2019,9.2
+Brunei Darussalam,Asia,overweight,2020,9.3
+Bulgaria,Europe,overweight,2016,6.3
+Bulgaria,Europe,overweight,2017,6
+Bulgaria,Europe,overweight,2018,5.9
+Bulgaria,Europe,overweight,2019,5.7
+Bulgaria,Europe,overweight,2020,5.7
+Burkina Faso,Africa,wasting,2016,7.5
+Burkina Faso,Africa,wasting,2017,8.6
+Burkina Faso,Africa,wasting,2018,8.4
+Burkina Faso,Africa,wasting,2019,8.1
+Burkina Faso,Africa,overweight,2016,2
+Burkina Faso,Africa,overweight,2017,2.1
+Burkina Faso,Africa,overweight,2018,2.3
+Burkina Faso,Africa,overweight,2019,2.4
+Burkina Faso,Africa,overweight,2020,2.6
+Burundi,Africa,wasting,2016,5.1
+Burundi,Africa,wasting,2018,4.8
+Burundi,Africa,wasting,2019,4.8
+Burundi,Africa,overweight,2016,2.6
+Burundi,Africa,overweight,2017,2.7
+Burundi,Africa,overweight,2018,2.8
+Burundi,Africa,overweight,2019,3
+Burundi,Africa,overweight,2020,3.1
+Cambodia,Asia,overweight,2016,2
+Cambodia,Asia,overweight,2017,2
+Cambodia,Asia,overweight,2018,2
+Cambodia,Asia,overweight,2019,2
+Cambodia,Asia,overweight,2020,2.1
+Cameroon,Africa,wasting,2018,4.3
+Cameroon,Africa,overweight,2016,7.8
+Cameroon,Africa,overweight,2017,8.2
+Cameroon,Africa,overweight,2018,8.6
+Cameroon,Africa,overweight,2019,9.1
+Cameroon,Africa,overweight,2020,9.6
+Canada,North America,overweight,2016,11.7
+Canada,North America,overweight,2017,11.7
+Canada,North America,overweight,2018,11.8
+Canada,North America,overweight,2019,11.8
+Canada,North America,overweight,2020,11.8
+Central African Republic,Africa,wasting,2018,6.5
+Central African Republic,Africa,wasting,2019,5.2
+Central African Republic,Africa,overweight,2016,2.8
+Central African Republic,Africa,overweight,2017,2.7
+Central African Republic,Africa,overweight,2018,2.7
+Central African Republic,Africa,overweight,2019,2.6
+Central African Republic,Africa,overweight,2020,2.6
+Chad,Africa,wasting,2017,13.5
+Chad,Africa,wasting,2018,13.5
+Chad,Africa,wasting,2019,13.9
+Chad,Africa,overweight,2016,2.7
+Chad,Africa,overweight,2017,2.8
+Chad,Africa,overweight,2018,3
+Chad,Africa,overweight,2019,3.2
+Chad,Africa,overweight,2020,3.4
+Chile,South America,overweight,2016,10
+Chile,South America,overweight,2017,10
+Chile,South America,overweight,2018,9.9
+Chile,South America,overweight,2019,9.9
+Chile,South America,overweight,2020,9.8
+China,Asia,wasting,2017,1.9
+China,Asia,overweight,2016,7.5
+China,Asia,overweight,2017,7.7
+China,Asia,overweight,2018,7.9
+China,Asia,overweight,2019,8.1
+China,Asia,overweight,2020,8.3
+Colombia,South America,wasting,2016,1.6
+Colombia,South America,overweight,2016,5.5
+Colombia,South America,overweight,2017,5.6
+Colombia,South America,overweight,2018,5.6
+Colombia,South America,overweight,2019,5.7
+Colombia,South America,overweight,2020,5.8
+Comoros,Africa,overweight,2016,10
+Comoros,Africa,overweight,2017,9.9
+Comoros,Africa,overweight,2018,9.8
+Comoros,Africa,overweight,2019,9.7
+Comoros,Africa,overweight,2020,9.6
+Congo,Africa,overweight,2016,4.8
+Congo,Africa,overweight,2017,4.9
+Congo,Africa,overweight,2018,4.9
+Congo,Africa,overweight,2019,5
+Congo,Africa,overweight,2020,5.1
+Costa Rica,North America,wasting,2018,1.8
+Costa Rica,North America,overweight,2016,8.1
+Costa Rica,North America,overweight,2017,8.1
+Costa Rica,North America,overweight,2018,8.1
+Costa Rica,North America,overweight,2019,8.1
+Costa Rica,North America,overweight,2020,8.1
+Côte d'Ivoire,Africa,wasting,2016,6.1
+Côte d'Ivoire,Africa,overweight,2016,2.4
+Côte d'Ivoire,Africa,overweight,2017,2.5
+Côte d'Ivoire,Africa,overweight,2018,2.6
+Côte d'Ivoire,Africa,overweight,2019,2.7
+Côte d'Ivoire,Africa,overweight,2020,2.8
+Cuba,North America,wasting,2019,2
+Cuba,North America,overweight,2016,9.6
+Cuba,North America,overweight,2017,9.7
+Cuba,North America,overweight,2018,9.8
+Cuba,North America,overweight,2019,9.9
+Cuba,North America,overweight,2020,10
+Czechia,Europe,overweight,2016,6.2
+Czechia,Europe,overweight,2017,6.3
+Czechia,Europe,overweight,2018,6.4
+Czechia,Europe,overweight,2019,6.5
+Czechia,Europe,overweight,2020,6.6
+Democratic People's Republic of Korea,Asia,wasting,2017,2.5
+Democratic People's Republic of Korea,Asia,overweight,2016,1.5
+Democratic People's Republic of Korea,Asia,overweight,2017,1.6
+Democratic People's Republic of Korea,Asia,overweight,2018,1.7
+Democratic People's Republic of Korea,Asia,overweight,2019,1.8
+Democratic People's Republic of Korea,Asia,overweight,2020,1.9
+Democratic Republic of the Congo,Africa,wasting,2017,6.4
+Democratic Republic of the Congo,Africa,overweight,2016,4.2
+Democratic Republic of the Congo,Africa,overweight,2017,4.2
+Democratic Republic of the Congo,Africa,overweight,2018,4.2
+Democratic Republic of the Congo,Africa,overweight,2019,4.2
+Democratic Republic of the Congo,Africa,overweight,2020,4.2
+Djibouti,Africa,overweight,2016,7
+Djibouti,Africa,overweight,2017,7
+Djibouti,Africa,overweight,2018,7.1
+Djibouti,Africa,overweight,2019,7.2
+Djibouti,Africa,overweight,2020,7.2
+Dominican Republic,North America,overweight,2016,7.7
+Dominican Republic,North America,overweight,2017,7.7
+Dominican Republic,North America,overweight,2018,7.7
+Dominican Republic,North America,overweight,2019,7.7
+Dominican Republic,North America,overweight,2020,7.6
+Ecuador,South America,wasting,2019,3.7
+Ecuador,South America,overweight,2016,8.6
+Ecuador,South America,overweight,2017,8.9
+Ecuador,South America,overweight,2018,9.3
+Ecuador,South America,overweight,2019,9.6
+Ecuador,South America,overweight,2020,9.8
+Egypt,Africa,overweight,2016,16.8
+Egypt,Africa,overweight,2017,17
+Egypt,Africa,overweight,2018,17.3
+Egypt,Africa,overweight,2019,17.6
+Egypt,Africa,overweight,2020,17.8
+El Salvador,North America,overweight,2016,6.3
+El Salvador,North America,overweight,2017,6.4
+El Salvador,North America,overweight,2018,6.5
+El Salvador,North America,overweight,2019,6.5
+El Salvador,North America,overweight,2020,6.6
+Equatorial Guinea,Africa,overweight,2016,8.8
+Equatorial Guinea,Africa,overweight,2017,8.9
+Equatorial Guinea,Africa,overweight,2018,9
+Equatorial Guinea,Africa,overweight,2019,9.2
+Equatorial Guinea,Africa,overweight,2020,9.3
+Eritrea,Africa,overweight,2016,1.8
+Eritrea,Africa,overweight,2017,1.8
+Eritrea,Africa,overweight,2018,1.9
+Eritrea,Africa,overweight,2019,2
+Eritrea,Africa,overweight,2020,2.1
+Estonia,Europe,overweight,2016,5.3
+Estonia,Europe,overweight,2017,5.5
+Estonia,Europe,overweight,2018,5.6
+Estonia,Europe,overweight,2019,5.6
+Estonia,Europe,overweight,2020,5.7
+Eswatini,Africa,overweight,2016,10.1
+Eswatini,Africa,overweight,2017,10
+Eswatini,Africa,overweight,2018,9.9
+Eswatini,Africa,overweight,2019,9.8
+Eswatini,Africa,overweight,2020,9.7
+Ethiopia,Africa,wasting,2016,10
+Ethiopia,Africa,wasting,2019,7.2
+Ethiopia,Africa,overweight,2016,2.4
+Ethiopia,Africa,overweight,2017,2.4
+Ethiopia,Africa,overweight,2018,2.5
+Ethiopia,Africa,overweight,2019,2.6
+Ethiopia,Africa,overweight,2020,2.6
+Fiji,Oceania,overweight,2016,5
+Fiji,Oceania,overweight,2017,5.1
+Fiji,Oceania,overweight,2018,5.1
+Fiji,Oceania,overweight,2019,5.2
+Fiji,Oceania,overweight,2020,5.2
+Gabon,Africa,overweight,2016,6.7
+Gabon,Africa,overweight,2017,6.8
+Gabon,Africa,overweight,2018,7
+Gabon,Africa,overweight,2019,7.2
+Gabon,Africa,overweight,2020,7.4
+Gambia,Africa,wasting,2018,6.2
+Gambia,Africa,wasting,2020,5.1
+Gambia,Africa,overweight,2016,1.9
+Gambia,Africa,overweight,2017,2
+Gambia,Africa,overweight,2018,2.1
+Gambia,Africa,overweight,2019,2.2
+Gambia,Africa,overweight,2020,2.3
+Georgia,Asia,wasting,2018,0.6
+Georgia,Asia,overweight,2016,9.7
+Georgia,Asia,overweight,2017,9
+Georgia,Asia,overweight,2018,8.4
+Georgia,Asia,overweight,2019,8
+Georgia,Asia,overweight,2020,7.6
+Germany,Europe,wasting,2016,0.3
+Germany,Europe,overweight,2016,3.9
+Germany,Europe,overweight,2017,3.9
+Germany,Europe,overweight,2018,4
+Germany,Europe,overweight,2019,4.1
+Germany,Europe,overweight,2020,4.1
+Ghana,Africa,wasting,2017,6.8
+Ghana,Africa,overweight,2016,2.4
+Ghana,Africa,overweight,2017,2.5
+Ghana,Africa,overweight,2018,2.6
+Ghana,Africa,overweight,2019,2.7
+Ghana,Africa,overweight,2020,2.9
+Greece,Europe,overweight,2016,14.3
+Greece,Europe,overweight,2017,14.2
+Greece,Europe,overweight,2018,14.1
+Greece,Europe,overweight,2019,14.1
+Greece,Europe,overweight,2020,13.9
+Guatemala,North America,overweight,2016,5.2
+Guatemala,North America,overweight,2017,5.2
+Guatemala,North America,overweight,2018,5.1
+Guatemala,North America,overweight,2019,5.1
+Guatemala,North America,overweight,2020,5.1
+Guinea,Africa,wasting,2016,8.1
+Guinea,Africa,wasting,2018,9.2
+Guinea,Africa,overweight,2016,4.6
+Guinea,Africa,overweight,2017,4.8
+Guinea,Africa,overweight,2018,5.1
+Guinea,Africa,overweight,2019,5.4
+Guinea,Africa,overweight,2020,5.7
+Guinea-Bissau,Africa,wasting,2019,7.8
+Guinea-Bissau,Africa,overweight,2016,2.8
+Guinea-Bissau,Africa,overweight,2017,2.9
+Guinea-Bissau,Africa,overweight,2018,3.1
+Guinea-Bissau,Africa,overweight,2019,3.2
+Guinea-Bissau,Africa,overweight,2020,3.4
+Guyana,South America,overweight,2016,6.4
+Guyana,South America,overweight,2017,6.4
+Guyana,South America,overweight,2018,6.5
+Guyana,South America,overweight,2019,6.5
+Guyana,South America,overweight,2020,6.6
+Haiti,North America,wasting,2017,3.7
+Haiti,North America,overweight,2016,3.6
+Haiti,North America,overweight,2017,3.6
+Haiti,North America,overweight,2018,3.7
+Haiti,North America,overweight,2019,3.7
+Haiti,North America,overweight,2020,3.7
+Honduras,North America,overweight,2016,5.4
+Honduras,North America,overweight,2017,5.5
+Honduras,North America,overweight,2018,5.5
+Honduras,North America,overweight,2019,5.6
+Honduras,North America,overweight,2020,5.7
+India,Asia,wasting,2017,17.3
+India,Asia,overweight,2016,2.1
+India,Asia,overweight,2017,2
+India,Asia,overweight,2018,2
+India,Asia,overweight,2019,1.9
+India,Asia,overweight,2020,1.9
+Indonesia,Asia,wasting,2018,10.2
+Indonesia,Asia,overweight,2016,10
+Indonesia,Asia,overweight,2017,10.3
+Indonesia,Asia,overweight,2018,10.7
+Indonesia,Asia,overweight,2019,10.9
+Indonesia,Asia,overweight,2020,11.1
+Iran (Islamic Republic of),Asia,overweight,2016,8.8
+Iran (Islamic Republic of),Asia,overweight,2017,9
+Iran (Islamic Republic of),Asia,overweight,2018,9.1
+Iran (Islamic Republic of),Asia,overweight,2019,9.2
+Iran (Islamic Republic of),Asia,overweight,2020,9.4
+Iraq,Asia,wasting,2018,3
+Iraq,Asia,overweight,2016,9.2
+Iraq,Asia,overweight,2017,9.2
+Iraq,Asia,overweight,2018,9.1
+Iraq,Asia,overweight,2019,9.1
+Iraq,Asia,overweight,2020,9
+Jamaica,North America,wasting,2016,3.3
+Jamaica,North America,overweight,2016,7.1
+Jamaica,North America,overweight,2017,7
+Jamaica,North America,overweight,2018,7
+Jamaica,North America,overweight,2019,6.9
+Jamaica,North America,overweight,2020,6.8
+Japan,Asia,overweight,2016,2.1
+Japan,Asia,overweight,2017,2.2
+Japan,Asia,overweight,2018,2.2
+Japan,Asia,overweight,2019,2.3
+Japan,Asia,overweight,2020,2.4
+Jordan,Asia,overweight,2016,6.3
+Jordan,Asia,overweight,2017,6.4
+Jordan,Asia,overweight,2018,6.6
+Jordan,Asia,overweight,2019,6.8
+Jordan,Asia,overweight,2020,7.1
+Kazakhstan,Asia,overweight,2016,9.7
+Kazakhstan,Asia,overweight,2017,9.4
+Kazakhstan,Asia,overweight,2018,9.2
+Kazakhstan,Asia,overweight,2019,9
+Kazakhstan,Asia,overweight,2020,8.8
+Kenya,Africa,overweight,2016,4.3
+Kenya,Africa,overweight,2017,4.3
+Kenya,Africa,overweight,2018,4.3
+Kenya,Africa,overweight,2019,4.4
+Kenya,Africa,overweight,2020,4.5
+Kiribati,Oceania,wasting,2018,3.5
+Kiribati,Oceania,overweight,2016,2.4
+Kiribati,Oceania,overweight,2017,2.4
+Kiribati,Oceania,overweight,2018,2.4
+Kiribati,Oceania,overweight,2019,2.4
+Kiribati,Oceania,overweight,2020,2.4
+Kuwait,Asia,wasting,2016,2.4
+Kuwait,Asia,wasting,2017,2.5
+Kuwait,Asia,overweight,2016,7.5
+Kuwait,Asia,overweight,2017,7.4
+Kuwait,Asia,overweight,2018,7.3
+Kuwait,Asia,overweight,2019,7.2
+Kuwait,Asia,overweight,2020,7.1
+Kyrgyzstan,Asia,wasting,2018,2
+Kyrgyzstan,Asia,overweight,2016,6.2
+Kyrgyzstan,Asia,overweight,2017,6
+Kyrgyzstan,Asia,overweight,2018,5.9
+Kyrgyzstan,Asia,overweight,2019,5.8
+Kyrgyzstan,Asia,overweight,2020,5.8
+Lao People's Democratic Republic,Asia,wasting,2017,9
+Lao People's Democratic Republic,Asia,overweight,2016,2.6
+Lao People's Democratic Republic,Asia,overweight,2017,2.7
+Lao People's Democratic Republic,Asia,overweight,2018,2.8
+Lao People's Democratic Republic,Asia,overweight,2019,2.9
+Lao People's Democratic Republic,Asia,overweight,2020,3
+Lebanon,Asia,overweight,2016,19.8
+Lebanon,Asia,overweight,2017,19.8
+Lebanon,Asia,overweight,2018,19.8
+Lebanon,Asia,overweight,2019,19.7
+Lebanon,Asia,overweight,2020,19.7
+Lesotho,Africa,wasting,2018,2.1
+Lesotho,Africa,overweight,2016,7.1
+Lesotho,Africa,overweight,2017,7.2
+Lesotho,Africa,overweight,2018,7.2
+Lesotho,Africa,overweight,2019,7.2
+Lesotho,Africa,overweight,2020,7.2
+Liberia,Africa,wasting,2016,4.3
+Liberia,Africa,wasting,2019,3.4
+Liberia,Africa,overweight,2016,3.7
+Liberia,Africa,overweight,2017,3.9
+Liberia,Africa,overweight,2018,4.1
+Liberia,Africa,overweight,2019,4.4
+Liberia,Africa,overweight,2020,4.7
+Libya,Africa,overweight,2016,25.9
+Libya,Africa,overweight,2017,25.9
+Libya,Africa,overweight,2018,25.9
+Libya,Africa,overweight,2019,25.8
+Libya,Africa,overweight,2020,25.4
+Madagascar,Africa,wasting,2018,6.4
+Madagascar,Africa,overweight,2016,1.5
+Madagascar,Africa,overweight,2017,1.5
+Madagascar,Africa,overweight,2018,1.5
+Madagascar,Africa,overweight,2019,1.5
+Madagascar,Africa,overweight,2020,1.5
+Malawi,Africa,wasting,2016,4.7
+Malawi,Africa,wasting,2017,2.4
+Malawi,Africa,wasting,2018,1.3
+Malawi,Africa,wasting,2019,0.6
+Malawi,Africa,overweight,2016,4.8
+Malawi,Africa,overweight,2017,4.7
+Malawi,Africa,overweight,2018,4.7
+Malawi,Africa,overweight,2019,4.7
+Malawi,Africa,overweight,2020,4.7
+Malaysia,Asia,wasting,2016,11.5
+Malaysia,Asia,wasting,2019,9.7
+Malaysia,Asia,overweight,2016,6.1
+Malaysia,Asia,overweight,2017,6.1
+Malaysia,Asia,overweight,2018,6.1
+Malaysia,Asia,overweight,2019,6.1
+Malaysia,Asia,overweight,2020,6.1
+Maldives,Asia,wasting,2017,9.1
+Maldives,Asia,overweight,2016,5.3
+Maldives,Asia,overweight,2017,5.1
+Maldives,Asia,overweight,2018,5
+Maldives,Asia,overweight,2019,4.8
+Maldives,Asia,overweight,2020,4.6
+Mali,Africa,wasting,2016,10.6
+Mali,Africa,wasting,2017,10.5
+Mali,Africa,wasting,2018,9
+Mali,Africa,wasting,2019,9.3
+Mali,Africa,overweight,2016,1.7
+Mali,Africa,overweight,2017,1.7
+Mali,Africa,overweight,2018,1.8
+Mali,Africa,overweight,2019,1.9
+Mali,Africa,overweight,2020,2.1
+Marshall Islands,Oceania,wasting,2017,3.5
+Marshall Islands,Oceania,overweight,2016,4.1
+Marshall Islands,Oceania,overweight,2017,4.2
+Marshall Islands,Oceania,overweight,2018,4.2
+Marshall Islands,Oceania,overweight,2019,4.2
+Marshall Islands,Oceania,overweight,2020,4.2
+Mauritania,Africa,wasting,2018,11.5
+Mauritania,Africa,overweight,2016,2.1
+Mauritania,Africa,overweight,2017,2.2
+Mauritania,Africa,overweight,2018,2.4
+Mauritania,Africa,overweight,2019,2.5
+Mauritania,Africa,overweight,2020,2.7
+Mauritius,Africa,overweight,2016,7.2
+Mauritius,Africa,overweight,2017,7.3
+Mauritius,Africa,overweight,2018,7.4
+Mauritius,Africa,overweight,2019,7.5
+Mauritius,Africa,overweight,2020,7.6
+Mexico,North America,wasting,2016,2
+Mexico,North America,wasting,2019,1.4
+Mexico,North America,overweight,2016,6.4
+Mexico,North America,overweight,2017,6.4
+Mexico,North America,overweight,2018,6.4
+Mexico,North America,overweight,2019,6.3
+Mexico,North America,overweight,2020,6.3
+Mongolia,Asia,wasting,2016,1.2
+Mongolia,Asia,wasting,2018,0.9
+Mongolia,Asia,overweight,2016,10.2
+Mongolia,Asia,overweight,2017,10.3
+Mongolia,Asia,overweight,2018,10.3
+Mongolia,Asia,overweight,2019,10.2
+Mongolia,Asia,overweight,2020,10.1
+Montenegro,Europe,wasting,2018,2.2
+Montenegro,Europe,overweight,2016,11.9
+Montenegro,Europe,overweight,2017,11.3
+Montenegro,Europe,overweight,2018,10.9
+Montenegro,Europe,overweight,2019,10.6
+Montenegro,Europe,overweight,2020,10.2
+Morocco,Africa,wasting,2017,2.6
+Morocco,Africa,overweight,2016,11.4
+Morocco,Africa,overweight,2017,11.4
+Morocco,Africa,overweight,2018,11.4
+Morocco,Africa,overweight,2019,11.3
+Morocco,Africa,overweight,2020,11.3
+Mozambique,Africa,overweight,2016,5.6
+Mozambique,Africa,overweight,2017,5.7
+Mozambique,Africa,overweight,2018,5.8
+Mozambique,Africa,overweight,2019,5.9
+Mozambique,Africa,overweight,2020,6
+Myanmar,Asia,wasting,2016,6.6
+Myanmar,Asia,wasting,2018,6.7
+Myanmar,Asia,overweight,2016,1.8
+Myanmar,Asia,overweight,2017,1.7
+Myanmar,Asia,overweight,2018,1.6
+Myanmar,Asia,overweight,2019,1.6
+Myanmar,Asia,overweight,2020,1.5
+Namibia,Africa,overweight,2016,4.6
+Namibia,Africa,overweight,2017,4.7
+Namibia,Africa,overweight,2018,4.8
+Namibia,Africa,overweight,2019,4.9
+Namibia,Africa,overweight,2020,5
+Nauru,Oceania,overweight,2016,3.4
+Nauru,Oceania,overweight,2017,3.4
+Nauru,Oceania,overweight,2018,3.5
+Nauru,Oceania,overweight,2019,3.6
+Nauru,Oceania,overweight,2020,3.7
+Nepal,Asia,wasting,2016,9.6
+Nepal,Asia,wasting,2019,12
+Nepal,Asia,overweight,2016,1.6
+Nepal,Asia,overweight,2017,1.6
+Nepal,Asia,overweight,2018,1.7
+Nepal,Asia,overweight,2019,1.7
+Nepal,Asia,overweight,2020,1.8
+Netherlands,Europe,overweight,2016,4.5
+Netherlands,Europe,overweight,2017,4.7
+Netherlands,Europe,overweight,2018,4.8
+Netherlands,Europe,overweight,2019,4.9
+Netherlands,Europe,overweight,2020,5
+Nicaragua,North America,overweight,2016,7.4
+Nicaragua,North America,overweight,2017,7.4
+Nicaragua,North America,overweight,2018,7.4
+Nicaragua,North America,overweight,2019,7.5
+Nicaragua,North America,overweight,2020,7.5
+Niger,Africa,wasting,2016,10.4
+Niger,Africa,wasting,2018,14.1
+Niger,Africa,wasting,2019,9.8
+Niger,Africa,overweight,2016,1.2
+Niger,Africa,overweight,2017,1.3
+Niger,Africa,overweight,2018,1.5
+Niger,Africa,overweight,2019,1.6
+Niger,Africa,overweight,2020,1.9
+Nigeria,Africa,wasting,2016,10.8
+Nigeria,Africa,wasting,2018,6.8
+Nigeria,Africa,wasting,2020,6.5
+Nigeria,Africa,overweight,2016,2.4
+Nigeria,Africa,overweight,2017,2.4
+Nigeria,Africa,overweight,2018,2.5
+Nigeria,Africa,overweight,2019,2.6
+Nigeria,Africa,overweight,2020,2.7
+North Macedonia,Europe,wasting,2019,3.4
+North Macedonia,Europe,overweight,2016,11
+North Macedonia,Europe,overweight,2017,10.7
+North Macedonia,Europe,overweight,2018,10.4
+North Macedonia,Europe,overweight,2019,10.2
+North Macedonia,Europe,overweight,2020,10
+Oman,Asia,wasting,2017,9.3
+Oman,Asia,overweight,2016,3.8
+Oman,Asia,overweight,2017,4
+Oman,Asia,overweight,2018,4.3
+Oman,Asia,overweight,2019,4.5
+Oman,Asia,overweight,2020,4.8
+Pakistan,Asia,wasting,2018,7.1
+Pakistan,Asia,overweight,2016,4
+Pakistan,Asia,overweight,2017,3.9
+Pakistan,Asia,overweight,2018,3.7
+Pakistan,Asia,overweight,2019,3.6
+Pakistan,Asia,overweight,2020,3.4
+Palestine,Asia,wasting,2020,1.3
+Palestine,Asia,overweight,2016,8.3
+Palestine,Asia,overweight,2017,8.4
+Palestine,Asia,overweight,2018,8.4
+Palestine,Asia,overweight,2019,8.5
+Palestine,Asia,overweight,2020,8.5
+Panama,North America,overweight,2016,10.6
+Panama,North America,overweight,2017,10.7
+Panama,North America,overweight,2018,10.7
+Panama,North America,overweight,2019,10.8
+Panama,North America,overweight,2020,10.8
+Papua New Guinea,Oceania,overweight,2016,8.7
+Papua New Guinea,Oceania,overweight,2017,8.8
+Papua New Guinea,Oceania,overweight,2018,8.9
+Papua New Guinea,Oceania,overweight,2019,8.9
+Papua New Guinea,Oceania,overweight,2020,8.9
+Paraguay,South America,wasting,2016,1
+Paraguay,South America,overweight,2016,11.2
+Paraguay,South America,overweight,2017,11.4
+Paraguay,South America,overweight,2018,11.6
+Paraguay,South America,overweight,2019,11.8
+Paraguay,South America,overweight,2020,12
+Peru,South America,wasting,2016,0.6
+Peru,South America,wasting,2017,0.5
+Peru,South America,wasting,2018,0.5
+Peru,South America,wasting,2019,0.4
+Peru,South America,overweight,2016,8.3
+Peru,South America,overweight,2017,8.2
+Peru,South America,overweight,2018,8.1
+Peru,South America,overweight,2019,8.1
+Peru,South America,overweight,2020,8
+Philippines,Asia,wasting,2018,5.6
+Philippines,Asia,overweight,2016,3.8
+Philippines,Asia,overweight,2017,3.9
+Philippines,Asia,overweight,2018,4
+Philippines,Asia,overweight,2019,4.1
+Philippines,Asia,overweight,2020,4.2
+Poland,Europe,overweight,2016,6.3
+Poland,Europe,overweight,2017,6.4
+Poland,Europe,overweight,2018,6.5
+Poland,Europe,overweight,2019,6.6
+Poland,Europe,overweight,2020,6.7
+Portugal,Europe,wasting,2016,0.6
+Portugal,Europe,overweight,2016,8.2
+Portugal,Europe,overweight,2017,8.3
+Portugal,Europe,overweight,2018,8.4
+Portugal,Europe,overweight,2019,8.5
+Portugal,Europe,overweight,2020,8.5
+Qatar,Asia,overweight,2016,13.6
+Qatar,Asia,overweight,2017,13.7
+Qatar,Asia,overweight,2018,13.8
+Qatar,Asia,overweight,2019,13.9
+Qatar,Asia,overweight,2020,13.9
+Republic of Korea,Asia,overweight,2016,8.3
+Republic of Korea,Asia,overweight,2017,8.5
+Republic of Korea,Asia,overweight,2018,8.6
+Republic of Korea,Asia,overweight,2019,8.7
+Republic of Korea,Asia,overweight,2020,8.8
+Republic of Moldova,Europe,overweight,2016,4.8
+Republic of Moldova,Europe,overweight,2017,4.6
+Republic of Moldova,Europe,overweight,2018,4.5
+Republic of Moldova,Europe,overweight,2019,4.4
+Republic of Moldova,Europe,overweight,2020,4.3
+Romania,Europe,overweight,2016,7.5
+Romania,Europe,overweight,2017,7.2
+Romania,Europe,overweight,2018,7
+Romania,Europe,overweight,2019,6.8
+Romania,Europe,overweight,2020,6.7
+Rwanda,Africa,wasting,2018,2
+Rwanda,Africa,wasting,2020,1.1
+Rwanda,Africa,overweight,2016,5.2
+Rwanda,Africa,overweight,2017,5.2
+Rwanda,Africa,overweight,2018,5.2
+Rwanda,Africa,overweight,2019,5.2
+Rwanda,Africa,overweight,2020,5.2
+Saint Lucia,North America,overweight,2016,6.7
+Saint Lucia,North America,overweight,2017,6.7
+Saint Lucia,North America,overweight,2018,6.8
+Saint Lucia,North America,overweight,2019,6.8
+Saint Lucia,North America,overweight,2020,6.9
+Samoa,Oceania,wasting,2019,3.1
+Samoa,Oceania,overweight,2016,6.8
+Samoa,Oceania,overweight,2017,6.9
+Samoa,Oceania,overweight,2018,7
+Samoa,Oceania,overweight,2019,7
+Samoa,Oceania,overweight,2020,7.1
+Sao Tome and Principe,Africa,wasting,2019,4.1
+Sao Tome and Principe,Africa,overweight,2016,3.1
+Sao Tome and Principe,Africa,overweight,2017,3.3
+Sao Tome and Principe,Africa,overweight,2018,3.5
+Sao Tome and Principe,Africa,overweight,2019,3.8
+Sao Tome and Principe,Africa,overweight,2020,4
+Saudi Arabia,Asia,overweight,2016,7.1
+Saudi Arabia,Asia,overweight,2017,7.3
+Saudi Arabia,Asia,overweight,2018,7.4
+Saudi Arabia,Asia,overweight,2019,7.5
+Saudi Arabia,Asia,overweight,2020,7.6
+Senegal,Africa,wasting,2016,7.1
+Senegal,Africa,wasting,2017,9
+Senegal,Africa,wasting,2018,7.8
+Senegal,Africa,wasting,2019,8.1
+Senegal,Africa,overweight,2016,1.6
+Senegal,Africa,overweight,2017,1.7
+Senegal,Africa,overweight,2018,1.8
+Senegal,Africa,overweight,2019,1.9
+Senegal,Africa,overweight,2020,2.1
+Serbia,Europe,wasting,2019,2.6
+Serbia,Europe,overweight,2016,12.3
+Serbia,Europe,overweight,2017,11.7
+Serbia,Europe,overweight,2018,11.3
+Serbia,Europe,overweight,2019,11
+Serbia,Europe,overweight,2020,10.8
+Seychelles,Africa,overweight,2016,9.3
+Seychelles,Africa,overweight,2017,9.4
+Seychelles,Africa,overweight,2018,9.5
+Seychelles,Africa,overweight,2019,9.7
+Seychelles,Africa,overweight,2020,9.8
+Sierra Leone,Africa,wasting,2017,5.1
+Sierra Leone,Africa,wasting,2019,5.4
+Sierra Leone,Africa,overweight,2016,3.7
+Sierra Leone,Africa,overweight,2017,3.9
+Sierra Leone,Africa,overweight,2018,4.2
+Sierra Leone,Africa,overweight,2019,4.4
+Sierra Leone,Africa,overweight,2020,4.7
+Singapore,Asia,overweight,2016,4.4
+Singapore,Asia,overweight,2017,4.5
+Singapore,Asia,overweight,2018,4.6
+Singapore,Asia,overweight,2019,4.7
+Singapore,Asia,overweight,2020,4.8
+Solomon Islands,Oceania,overweight,2016,3.7
+Solomon Islands,Oceania,overweight,2017,3.8
+Solomon Islands,Oceania,overweight,2018,3.8
+Solomon Islands,Oceania,overweight,2019,3.9
+Solomon Islands,Oceania,overweight,2020,4
+Somalia,Africa,overweight,2016,2.9
+Somalia,Africa,overweight,2017,2.8
+Somalia,Africa,overweight,2018,2.9
+Somalia,Africa,overweight,2019,2.9
+Somalia,Africa,overweight,2020,2.9
+South Africa,Africa,wasting,2016,2.5
+South Africa,Africa,wasting,2017,3.4
+South Africa,Africa,overweight,2016,12.9
+South Africa,Africa,overweight,2017,12.9
+South Africa,Africa,overweight,2018,12.9
+South Africa,Africa,overweight,2019,12.9
+South Africa,Africa,overweight,2020,12.9
+South Sudan,Africa,overweight,2016,5.8
+South Sudan,Africa,overweight,2017,5.7
+South Sudan,Africa,overweight,2018,5.7
+South Sudan,Africa,overweight,2019,5.7
+South Sudan,Africa,overweight,2020,5.7
+Sri Lanka,Asia,wasting,2016,15.1
+Sri Lanka,Asia,overweight,2016,1.2
+Sri Lanka,Asia,overweight,2017,1.3
+Sri Lanka,Asia,overweight,2018,1.3
+Sri Lanka,Asia,overweight,2019,1.3
+Sri Lanka,Asia,overweight,2020,1.3
+Sudan,Africa,overweight,2016,2.4
+Sudan,Africa,overweight,2017,2.5
+Sudan,Africa,overweight,2018,2.6
+Sudan,Africa,overweight,2019,2.6
+Sudan,Africa,overweight,2020,2.7
+Suriname,South America,wasting,2018,5.5
+Suriname,South America,overweight,2016,3.9
+Suriname,South America,overweight,2017,3.9
+Suriname,South America,overweight,2018,4
+Suriname,South America,overweight,2019,4
+Suriname,South America,overweight,2020,4
+Syrian Arab Republic,Asia,overweight,2016,18.6
+Syrian Arab Republic,Asia,overweight,2017,18.5
+Syrian Arab Republic,Asia,overweight,2018,18.4
+Syrian Arab Republic,Asia,overweight,2019,18.3
+Syrian Arab Republic,Asia,overweight,2020,18.2
+Tajikistan,Asia,wasting,2016,3.5
+Tajikistan,Asia,wasting,2017,5.6
+Tajikistan,Asia,overweight,2016,4.1
+Tajikistan,Asia,overweight,2017,3.9
+Tajikistan,Asia,overweight,2018,3.7
+Tajikistan,Asia,overweight,2019,3.6
+Tajikistan,Asia,overweight,2020,3.5
+Thailand,Asia,wasting,2016,5.4
+Thailand,Asia,wasting,2019,7.7
+Thailand,Asia,overweight,2016,9.1
+Thailand,Asia,overweight,2017,9.1
+Thailand,Asia,overweight,2018,9.2
+Thailand,Asia,overweight,2019,9.2
+Thailand,Asia,overweight,2020,9.2
+Togo,Africa,wasting,2017,5.7
+Togo,Africa,overweight,2016,1.9
+Togo,Africa,overweight,2017,2
+Togo,Africa,overweight,2018,2.1
+Togo,Africa,overweight,2019,2.3
+Togo,Africa,overweight,2020,2.4
+Tonga,Oceania,wasting,2019,1.1
+Tonga,Oceania,overweight,2016,13.1
+Tonga,Oceania,overweight,2017,13
+Tonga,Oceania,overweight,2018,12.9
+Tonga,Oceania,overweight,2019,12.8
+Tonga,Oceania,overweight,2020,12.6
+Trinidad and Tobago,North America,overweight,2016,10.6
+Trinidad and Tobago,North America,overweight,2017,10.7
+Trinidad and Tobago,North America,overweight,2018,10.9
+Trinidad and Tobago,North America,overweight,2019,10.9
+Trinidad and Tobago,North America,overweight,2020,11
+Tunisia,Africa,wasting,2018,2.1
+Tunisia,Africa,overweight,2016,14
+Tunisia,Africa,overweight,2017,14.7
+Tunisia,Africa,overweight,2018,15.4
+Tunisia,Africa,overweight,2019,16
+Tunisia,Africa,overweight,2020,16.5
+Turkey,Asia,wasting,2018,1.7
+Turkmenistan,Asia,wasting,2019,4.1
+Turkmenistan,Asia,overweight,2016,4.1
+Turkmenistan,Asia,overweight,2017,4
+Turkmenistan,Asia,overweight,2018,3.9
+Turkmenistan,Asia,overweight,2019,3.8
+Turkmenistan,Asia,overweight,2020,3.8
+Tuvalu,Oceania,overweight,2016,6.3
+Tuvalu,Oceania,overweight,2017,6.3
+Tuvalu,Oceania,overweight,2018,6.3
+Tuvalu,Oceania,overweight,2019,6.4
+Tuvalu,Oceania,overweight,2020,6.4
+Uganda,Africa,wasting,2016,3.5
+Uganda,Africa,overweight,2016,3.8
+Uganda,Africa,overweight,2017,3.8
+Uganda,Africa,overweight,2018,3.8
+Uganda,Africa,overweight,2019,3.9
+Uganda,Africa,overweight,2020,4
+Ukraine,Europe,overweight,2016,20.2
+Ukraine,Europe,overweight,2017,19.2
+Ukraine,Europe,overweight,2018,18.3
+Ukraine,Europe,overweight,2019,17.6
+Ukraine,Europe,overweight,2020,17
+United Republic of Tanzania,Africa,wasting,2018,3.5
+United Republic of Tanzania,Africa,overweight,2016,4.8
+United Republic of Tanzania,Africa,overweight,2017,4.9
+United Republic of Tanzania,Africa,overweight,2018,5.1
+United Republic of Tanzania,Africa,overweight,2019,5.3
+United Republic of Tanzania,Africa,overweight,2020,5.5
+United States of America,North America,wasting,2016,0.4
+United States of America,North America,wasting,2018,0.1
+United States of America,North America,overweight,2016,8.8
+United States of America,North America,overweight,2017,8.8
+United States of America,North America,overweight,2018,8.8
+United States of America,North America,overweight,2019,8.8
+United States of America,North America,overweight,2020,8.8
+Uruguay,South America,wasting,2016,0.7
+Uruguay,South America,wasting,2018,1.4
+Uruguay,South America,overweight,2016,10.1
+Uruguay,South America,overweight,2017,10.1
+Uruguay,South America,overweight,2018,10.2
+Uruguay,South America,overweight,2019,10.3
+Uruguay,South America,overweight,2020,10.3
+Uzbekistan,Asia,wasting,2017,1.8
+Uzbekistan,Asia,overweight,2016,6.1
+Uzbekistan,Asia,overweight,2017,5.7
+Uzbekistan,Asia,overweight,2018,5.4
+Uzbekistan,Asia,overweight,2019,5.2
+Uzbekistan,Asia,overweight,2020,5
+Vanuatu,Oceania,overweight,2016,4.9
+Vanuatu,Oceania,overweight,2017,4.9
+Vanuatu,Oceania,overweight,2018,4.9
+Vanuatu,Oceania,overweight,2019,4.9
+Vanuatu,Oceania,overweight,2020,4.9
+Venezuela (Bolivarian Republic of),South America,overweight,2016,6.7
+Venezuela (Bolivarian Republic of),South America,overweight,2017,6.7
+Venezuela (Bolivarian Republic of),South America,overweight,2018,6.7
+Venezuela (Bolivarian Republic of),South America,overweight,2019,6.7
+Venezuela (Bolivarian Republic of),South America,overweight,2020,6.7
+Viet Nam,Asia,wasting,2017,5.8
+Viet Nam,Asia,overweight,2016,5.1
+Viet Nam,Asia,overweight,2017,5.3
+Viet Nam,Asia,overweight,2018,5.6
+Viet Nam,Asia,overweight,2019,5.8
+Viet Nam,Asia,overweight,2020,6
+Yemen,Asia,overweight,2016,2.7
+Yemen,Asia,overweight,2017,2.6
+Yemen,Asia,overweight,2018,2.6
+Yemen,Asia,overweight,2019,2.6
+Yemen,Asia,overweight,2020,2.7
+Zambia,Africa,wasting,2018,4.2
+Zambia,Africa,overweight,2016,5.7
+Zambia,Africa,overweight,2017,5.6
+Zambia,Africa,overweight,2018,5.6
+Zambia,Africa,overweight,2019,5.7
+Zambia,Africa,overweight,2020,5.7
+Zimbabwe,Africa,wasting,2019,2.9
+Zimbabwe,Africa,overweight,2016,4
+Zimbabwe,Africa,overweight,2017,3.9
+Zimbabwe,Africa,overweight,2018,3.8
+Zimbabwe,Africa,overweight,2019,3.7
+Zimbabwe,Africa,overweight,2020,3.6

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Percentage of children under 5 years old affected by wasting",
+  "hconcat": [
+    {
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
+          },
+          "transform": [
+            { "filter": "datum.Continent == 'North America'" },
+            { "filter": "datum.Year == '2016'" }
+          ],
+          "mark": { "type": "bar", "color": "red", "opacity": 1 },
+          "encoding": {
+            "x": { "bin": true, "field": "Value" },
+            "y": { "aggregate": "count", "title": "Count" }
+          }
+        },
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
+          },
+          "transform": [
+            { "filter": "datum.Continent == 'North America'" },
+            { "filter": "datum.Year == '2016'" }
+          ],
+          "mark": { "type": "bar", "color": "black", "opacity": 1 },
+          "encoding": {
+            "x": { "bin": true, "field": "Value", "title": "Percentage" },
+            "y": { "aggregate": "count", "title": "Count" }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
+          },
+          "transform": [
+            { "filter": "datum.Continent == 'Asia'" },
+            { "filter": "datum.Year == '2016'" }
+          ],
+          "mark": { "type": "bar", "color": "red", "opacity": 1 },
+          "encoding": {
+            "x": { "bin": true, "field": "Value" },
+            "y": { "aggregate": "count", "title": "Count" }
+          }
+        },
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
+          },
+          "transform": [
+            { "filter": "datum.Continent == 'Asia'" },
+            { "filter": "datum.Year == '2016'" }
+          ],
+          "mark": { "type": "bar", "color": "black", "opacity": 1 },
+          "encoding": {
+            "x": { "bin": true, "field": "Value", "title": "Percentage" },
+            "y": { "aggregate": "count", "title": "Count" }
+          }
+        }
+      ]
+    }
+  ]
+}
