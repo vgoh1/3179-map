@@ -33,7 +33,9 @@
   ],
   "vconcat": [
     {
-      "mark": { "type": "boxplot" },
+      "width": 500,
+      "height": 200,
+      "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
         "y": { "field": "Continent", "type": "nominal" },
         "color": { "field": "Continent", "type": "nominal", "legend": null },
@@ -46,7 +48,9 @@
       }
     },
     {
-      "mark": { "type": "boxplot" },
+      "width": 500,
+      "height": 200,
+      "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
         "y": { "field": "Continent", "type": "nominal" },
         "color": { "field": "Continent", "type": "nominal", "legend": null },
@@ -59,7 +63,9 @@
       }
     },
     {
-      "mark": { "type": "boxplot" },
+      "width": 500,
+      "height": 200,
+      "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
         "y": { "field": "Continent", "type": "nominal" },
         "color": { "field": "Continent", "type": "nominal", "legend": null },
