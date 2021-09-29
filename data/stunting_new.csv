@@ -1,0 +1,771 @@
+Area,Continent,Item,Year,Value
+Afghanistan,Asia,2016,39.9
+Afghanistan,Asia,2017,38.6
+Afghanistan,Asia,2018,37.4
+Afghanistan,Asia,2019,36.3
+Afghanistan,Asia,2020,35.1
+Albania,Europe,2016,13.3
+Albania,Europe,2017,12.4
+Albania,Europe,2018,11.4
+Albania,Europe,2019,10.4
+Albania,Europe,2020,9.6
+Algeria,Africa,2016,10.7
+Algeria,Africa,2017,10.2
+Algeria,Africa,2018,9.9
+Algeria,Africa,2019,9.5
+Algeria,Africa,2020,9.3
+Angola,Africa,2016,35.2
+Angola,Africa,2017,36.1
+Angola,Africa,2018,36.8
+Angola,Africa,2019,37.4
+Angola,Africa,2020,37.7
+Argentina,South America,2016,7.8
+Argentina,South America,2017,7.7
+Argentina,South America,2018,7.7
+Argentina,South America,2019,7.7
+Argentina,South America,2020,7.8
+Armenia,Asia,2016,11.2
+Armenia,Asia,2017,10.6
+Armenia,Asia,2018,10
+Armenia,Asia,2019,9.5
+Armenia,Asia,2020,9.1
+Australia,Oceania,2016,2.1
+Australia,Oceania,2017,2.1
+Australia,Oceania,2018,2.1
+Australia,Oceania,2019,2.1
+Australia,Oceania,2020,2.1
+Azerbaijan,Asia,2016,16.4
+Azerbaijan,Asia,2017,16.4
+Azerbaijan,Asia,2018,16.3
+Azerbaijan,Asia,2019,16.3
+Azerbaijan,Asia,2020,16.3
+Bahrain,Asia,2016,5.6
+Bahrain,Asia,2017,5.5
+Bahrain,Asia,2018,5.3
+Bahrain,Asia,2019,5.2
+Bahrain,Asia,2020,5.1
+Bangladesh,Asia,2016,34
+Bangladesh,Asia,2017,33
+Bangladesh,Asia,2018,32
+Bangladesh,Asia,2019,31
+Bangladesh,Asia,2020,30.2
+Barbados,North America,2016,7.1
+Barbados,North America,2017,6.9
+Barbados,North America,2018,6.8
+Barbados,North America,2019,6.6
+Barbados,North America,2020,6.6
+Belarus,Europe,2016,3.9
+Belarus,Europe,2017,3.9
+Belarus,Europe,2018,3.9
+Belarus,Europe,2019,3.9
+Belarus,Europe,2020,3.9
+Belgium,Europe,2016,2.5
+Belgium,Europe,2017,2.4
+Belgium,Europe,2018,2.4
+Belgium,Europe,2019,2.4
+Belgium,Europe,2020,2.3
+Belize,North America,2016,15.1
+Belize,North America,2017,14.6
+Belize,North America,2018,14.1
+Belize,North America,2019,13.7
+Belize,North America,2020,13.3
+Benin,Africa,2016,32.9
+Benin,Africa,2017,32.7
+Benin,Africa,2018,32.4
+Benin,Africa,2019,31.9
+Benin,Africa,2020,31.3
+Bhutan,Asia,2016,25.4
+Bhutan,Asia,2017,24.5
+Bhutan,Asia,2018,23.7
+Bhutan,Asia,2019,23
+Bhutan,Asia,2020,22.4
+Bolivia (Plurinational State of),South America,2016,16.1
+Bolivia (Plurinational State of),South America,2017,15.1
+Bolivia (Plurinational State of),South America,2018,14.2
+Bolivia (Plurinational State of),South America,2019,13.4
+Bolivia (Plurinational State of),South America,2020,12.7
+Bosnia and Herzegovina,Europe,2016,9
+Bosnia and Herzegovina,Europe,2017,9.1
+Bosnia and Herzegovina,Europe,2018,9.1
+Bosnia and Herzegovina,Europe,2019,9.1
+Bosnia and Herzegovina,Europe,2020,9.1
+Botswana,Africa,2016,23.5
+Botswana,Africa,2017,23.6
+Botswana,Africa,2018,23.5
+Botswana,Africa,2019,23.2
+Botswana,Africa,2020,22.8
+Brazil,South America,2016,6.1
+Brazil,South America,2017,6.1
+Brazil,South America,2018,6.1
+Brazil,South America,2019,6.1
+Brazil,South America,2020,6.1
+Brunei Darussalam,Asia,2016,15
+Brunei Darussalam,Asia,2017,14.3
+Brunei Darussalam,Asia,2018,13.7
+Brunei Darussalam,Asia,2019,13.2
+Brunei Darussalam,Asia,2020,12.7
+Bulgaria,Europe,2016,7
+Bulgaria,Europe,2017,6.9
+Bulgaria,Europe,2018,6.8
+Bulgaria,Europe,2019,6.6
+Bulgaria,Europe,2020,6.4
+Burkina Faso,Africa,2016,28.3
+Burkina Faso,Africa,2017,27.4
+Burkina Faso,Africa,2018,26.7
+Burkina Faso,Africa,2019,26.1
+Burkina Faso,Africa,2020,25.5
+Burundi,Africa,2016,56.3
+Burundi,Africa,2017,56.5
+Burundi,Africa,2018,56.8
+Burundi,Africa,2019,57.2
+Burundi,Africa,2020,57.6
+Cabo Verde,Africa,2016,10.7
+Cabo Verde,Africa,2017,10.5
+Cabo Verde,Africa,2018,10.2
+Cabo Verde,Africa,2019,9.9
+Cabo Verde,Africa,2020,9.7
+Cambodia,Asia,2016,30.7
+Cambodia,Asia,2017,30.4
+Cambodia,Asia,2018,30.2
+Cambodia,Asia,2019,30
+Cambodia,Asia,2020,29.9
+Cameroon,Africa,2016,30.2
+Cameroon,Africa,2017,29.5
+Cameroon,Africa,2018,28.9
+Cameroon,Africa,2019,28.1
+Cameroon,Africa,2020,27.2
+Central African Republic,Africa,2016,41.6
+Central African Republic,Africa,2017,41.4
+Central African Republic,Africa,2018,41
+Central African Republic,Africa,2019,40.5
+Central African Republic,Africa,2020,40.1
+Chad,Africa,2016,36.9
+Chad,Africa,2017,36.4
+Chad,Africa,2018,36
+Chad,Africa,2019,35.5
+Chad,Africa,2020,35
+Chile,South America,2016,1.7
+Chile,South America,2017,1.7
+Chile,South America,2018,1.6
+Chile,South America,2019,1.6
+Chile,South America,2020,1.6
+China,Asia,2016,5.9
+China,Asia,2017,5.5
+China,Asia,2018,5.2
+China,Asia,2019,4.9
+China,Asia,2020,4.7
+Colombia,South America,2016,12.2
+Colombia,South America,2017,12
+Colombia,South America,2018,11.8
+Colombia,South America,2019,11.6
+Colombia,South America,2020,11.5
+Comoros,Africa,2016,27.4
+Comoros,Africa,2017,26.2
+Comoros,Africa,2018,24.9
+Comoros,Africa,2019,23.7
+Comoros,Africa,2020,22.6
+Congo,Africa,2016,21
+Congo,Africa,2017,20.3
+Congo,Africa,2018,19.6
+Congo,Africa,2019,18.8
+Congo,Africa,2020,18
+Costa Rica,North America,2016,7.7
+Costa Rica,North America,2017,7.9
+Costa Rica,North America,2018,8.2
+Costa Rica,North America,2019,8.4
+Costa Rica,North America,2020,8.6
+Côte d'Ivoire,Africa,2016,23.5
+Côte d'Ivoire,Africa,2017,22
+Côte d'Ivoire,Africa,2018,20.6
+Côte d'Ivoire,Africa,2019,19.1
+Côte d'Ivoire,Africa,2020,17.8
+Cuba,North America,2016,7.1
+Cuba,North America,2017,7.1
+Cuba,North America,2018,7.1
+Cuba,North America,2019,7
+Cuba,North America,2020,7
+Czechia,Europe,2016,2.5
+Czechia,Europe,2017,2.5
+Czechia,Europe,2018,2.5
+Czechia,Europe,2019,2.5
+Czechia,Europe,2020,2.5
+Democratic People's Republic of Korea,Asia,2016,21.7
+Democratic People's Republic of Korea,Asia,2017,20.7
+Democratic People's Republic of Korea,Asia,2018,19.8
+Democratic People's Republic of Korea,Asia,2019,18.9
+Democratic People's Republic of Korea,Asia,2020,18.2
+Democratic Republic of the Congo,Africa,2016,41.7
+Democratic Republic of the Congo,Africa,2017,41.6
+Democratic Republic of the Congo,Africa,2018,41.5
+Democratic Republic of the Congo,Africa,2019,41.2
+Democratic Republic of the Congo,Africa,2020,40.8
+Djibouti,Africa,2016,33.5
+Djibouti,Africa,2017,33.7
+Djibouti,Africa,2018,33.9
+Djibouti,Africa,2019,34
+Djibouti,Africa,2020,34
+Dominican Republic,North America,2016,7.1
+Dominican Republic,North America,2017,6.9
+Dominican Republic,North America,2018,6.6
+Dominican Republic,North America,2019,6.2
+Dominican Republic,North America,2020,5.9
+Ecuador,South America,2016,23.3
+Ecuador,South America,2017,23.4
+Ecuador,South America,2018,23.5
+Ecuador,South America,2019,23.4
+Ecuador,South America,2020,23.1
+Egypt,Africa,2016,22
+Egypt,Africa,2017,22.1
+Egypt,Africa,2018,22.2
+Egypt,Africa,2019,22.3
+Egypt,Africa,2020,22.3
+El Salvador,North America,2016,12.8
+El Salvador,North America,2017,12.4
+El Salvador,North America,2018,12
+El Salvador,North America,2019,11.6
+El Salvador,North America,2020,11.2
+Equatorial Guinea,Africa,2016,22.8
+Equatorial Guinea,Africa,2017,22
+Equatorial Guinea,Africa,2018,21.2
+Equatorial Guinea,Africa,2019,20.5
+Equatorial Guinea,Africa,2020,19.7
+Eritrea,Africa,2016,50.3
+Eritrea,Africa,2017,50.2
+Eritrea,Africa,2018,49.9
+Eritrea,Africa,2019,49.5
+Eritrea,Africa,2020,49.1
+Estonia,Europe,2016,1.3
+Estonia,Europe,2017,1.2
+Estonia,Europe,2018,1.2
+Estonia,Europe,2019,1.2
+Estonia,Europe,2020,1.2
+Eswatini,Africa,2016,25.6
+Eswatini,Africa,2017,24.7
+Eswatini,Africa,2018,24.1
+Eswatini,Africa,2019,23.3
+Eswatini,Africa,2020,22.6
+Ethiopia,Africa,2016,39.2
+Ethiopia,Africa,2017,38.2
+Ethiopia,Africa,2018,37.3
+Ethiopia,Africa,2019,36.3
+Ethiopia,Africa,2020,35.3
+Fiji,Oceania,2016,7.7
+Fiji,Oceania,2017,7.6
+Fiji,Oceania,2018,7.5
+Fiji,Oceania,2019,7.5
+Fiji,Oceania,2020,7.5
+Gabon,Africa,2016,15.6
+Gabon,Africa,2017,15.4
+Gabon,Africa,2018,15.1
+Gabon,Africa,2019,14.8
+Gabon,Africa,2020,14.4
+Gambia,Africa,2016,19.6
+Gambia,Africa,2017,18.8
+Gambia,Africa,2018,17.9
+Gambia,Africa,2019,16.9
+Gambia,Africa,2020,16.1
+Georgia,Asia,2016,7
+Georgia,Asia,2017,6.6
+Georgia,Asia,2018,6.3
+Georgia,Asia,2019,5.9
+Georgia,Asia,2020,5.7
+Germany,Europe,2016,1.5
+Germany,Europe,2017,1.5
+Germany,Europe,2018,1.6
+Germany,Europe,2019,1.6
+Germany,Europe,2020,1.6
+Ghana,Africa,2016,17.9
+Ghana,Africa,2017,17
+Ghana,Africa,2018,16.1
+Ghana,Africa,2019,15.1
+Ghana,Africa,2020,14.2
+Greece,Europe,2016,2.1
+Greece,Europe,2017,2.2
+Greece,Europe,2018,2.2
+Greece,Europe,2019,2.2
+Greece,Europe,2020,2.2
+Guatemala,North America,2016,45.7
+Guatemala,North America,2017,45.2
+Guatemala,North America,2018,44.7
+Guatemala,North America,2019,43.6
+Guatemala,North America,2020,42.8
+Guinea,Africa,2016,32.2
+Guinea,Africa,2017,31.5
+Guinea,Africa,2018,30.9
+Guinea,Africa,2019,30.2
+Guinea,Africa,2020,29.4
+Guinea-Bissau,Africa,2016,28.9
+Guinea-Bissau,Africa,2017,28.8
+Guinea-Bissau,Africa,2018,28.7
+Guinea-Bissau,Africa,2019,28.4
+Guinea-Bissau,Africa,2020,28
+Guyana,South America,2016,11.2
+Guyana,South America,2017,10.6
+Guyana,South America,2018,10
+Guyana,South America,2019,9.5
+Guyana,South America,2020,9
+Haiti,North America,2016,21.8
+Haiti,North America,2017,21.5
+Haiti,North America,2018,21.2
+Haiti,North America,2019,20.7
+Haiti,North America,2020,20.4
+Honduras,North America,2016,21.6
+Honduras,North America,2017,21.3
+Honduras,North America,2018,20.9
+Honduras,North America,2019,20.4
+Honduras,North America,2020,19.9
+India,Asia,2016,36.2
+India,Asia,2017,34.8
+India,Asia,2018,33.5
+India,Asia,2019,32.1
+India,Asia,2020,30.9
+Indonesia,Asia,2016,32.5
+Indonesia,Asia,2017,32.3
+Indonesia,Asia,2018,32.2
+Indonesia,Asia,2019,32
+Indonesia,Asia,2020,31.8
+Iran (Islamic Republic of),Asia,2016,6.2
+Iran (Islamic Republic of),Asia,2017,6.2
+Iran (Islamic Republic of),Asia,2018,6.2
+Iran (Islamic Republic of),Asia,2019,6.3
+Iran (Islamic Republic of),Asia,2020,6.3
+Iraq,Asia,2016,15.3
+Iraq,Asia,2017,14.4
+Iraq,Asia,2018,13.4
+Iraq,Asia,2019,12.5
+Iraq,Asia,2020,11.6
+Jamaica,North America,2016,7.7
+Jamaica,North America,2017,7.9
+Jamaica,North America,2018,8.1
+Jamaica,North America,2019,8.3
+Jamaica,North America,2020,8.5
+Japan,Asia,2016,6
+Japan,Asia,2017,5.8
+Japan,Asia,2018,5.7
+Japan,Asia,2019,5.6
+Japan,Asia,2020,5.5
+Jordan,Asia,2016,7.7
+Jordan,Asia,2017,7.7
+Jordan,Asia,2018,7.6
+Jordan,Asia,2019,7.5
+Jordan,Asia,2020,7.3
+Kazakhstan,Asia,2016,8.6
+Kazakhstan,Asia,2017,8.1
+Kazakhstan,Asia,2018,7.6
+Kazakhstan,Asia,2019,7.1
+Kazakhstan,Asia,2020,6.7
+Kenya,Africa,2016,23.4
+Kenya,Africa,2017,22.5
+Kenya,Africa,2018,21.5
+Kenya,Africa,2019,20.4
+Kenya,Africa,2020,19.4
+Kiribati,Oceania,2016,15.6
+Kiribati,Oceania,2017,15.6
+Kiribati,Oceania,2018,15.5
+Kiribati,Oceania,2019,15.3
+Kiribati,Oceania,2020,14.9
+Kuwait,Asia,2016,5.4
+Kuwait,Asia,2017,5.6
+Kuwait,Asia,2018,5.7
+Kuwait,Asia,2019,5.8
+Kuwait,Asia,2020,6
+Kyrgyzstan,Asia,2016,13
+Kyrgyzstan,Asia,2017,12.4
+Kyrgyzstan,Asia,2018,12.1
+Kyrgyzstan,Asia,2019,11.7
+Kyrgyzstan,Asia,2020,11.4
+Lao People's Democratic Republic,Asia,2016,35.1
+Lao People's Democratic Republic,Asia,2017,33.7
+Lao People's Democratic Republic,Asia,2018,32.4
+Lao People's Democratic Republic,Asia,2019,31.2
+Lao People's Democratic Republic,Asia,2020,30.2
+Lebanon,Asia,2016,11.2
+Lebanon,Asia,2017,11
+Lebanon,Asia,2018,10.9
+Lebanon,Asia,2019,10.6
+Lebanon,Asia,2020,10.4
+Lesotho,Africa,2016,33.8
+Lesotho,Africa,2017,33.2
+Lesotho,Africa,2018,32.9
+Lesotho,Africa,2019,32.4
+Lesotho,Africa,2020,32.1
+Liberia,Africa,2016,32.3
+Liberia,Africa,2017,31.3
+Liberia,Africa,2018,30.3
+Liberia,Africa,2019,28.8
+Liberia,Africa,2020,28
+Libya,Africa,2016,36.4
+Libya,Africa,2017,38.3
+Libya,Africa,2018,40.1
+Libya,Africa,2019,41.5
+Libya,Africa,2020,43.5
+Madagascar,Africa,2016,44.4
+Madagascar,Africa,2017,43.4
+Madagascar,Africa,2018,42.4
+Madagascar,Africa,2019,41.3
+Madagascar,Africa,2020,40.2
+Malawi,Africa,2016,39.5
+Malawi,Africa,2017,39.1
+Malawi,Africa,2018,38.5
+Malawi,Africa,2019,37.8
+Malawi,Africa,2020,37
+Malaysia,Asia,2016,19.5
+Malaysia,Asia,2017,19.9
+Malaysia,Asia,2018,20.3
+Malaysia,Asia,2019,20.6
+Malaysia,Asia,2020,20.9
+Maldives,Asia,2016,15.8
+Maldives,Asia,2017,15.5
+Maldives,Asia,2018,15.1
+Maldives,Asia,2019,14.6
+Maldives,Asia,2020,14.2
+Mali,Africa,2016,28.4
+Mali,Africa,2017,27.7
+Mali,Africa,2018,27
+Mali,Africa,2019,26.3
+Mali,Africa,2020,25.7
+Marshall Islands,Oceania,2016,34.8
+Marshall Islands,Oceania,2017,34.3
+Marshall Islands,Oceania,2018,33.5
+Marshall Islands,Oceania,2019,32.8
+Marshall Islands,Oceania,2020,32.2
+Mauritania,Africa,2016,25.7
+Mauritania,Africa,2017,25.5
+Mauritania,Africa,2018,25.1
+Mauritania,Africa,2019,24.7
+Mauritania,Africa,2020,24.2
+Mauritius,Africa,2016,8.9
+Mauritius,Africa,2017,8.9
+Mauritius,Africa,2018,8.8
+Mauritius,Africa,2019,8.8
+Mauritius,Africa,2020,8.7
+Mexico,North America,2016,12.4
+Mexico,North America,2017,12.5
+Mexico,North America,2018,12.4
+Mexico,North America,2019,12.2
+Mexico,North America,2020,12.1
+Mongolia,Asia,2016,9.4
+Mongolia,Asia,2017,8.7
+Mongolia,Asia,2018,8.1
+Mongolia,Asia,2019,7.6
+Mongolia,Asia,2020,7.1
+Montenegro,Europe,2016,8
+Montenegro,Europe,2017,8
+Montenegro,Europe,2018,8.1
+Montenegro,Europe,2019,8.1
+Montenegro,Europe,2020,8.1
+Morocco,Africa,2016,14.7
+Morocco,Africa,2017,14.2
+Morocco,Africa,2018,13.8
+Morocco,Africa,2019,13.4
+Morocco,Africa,2020,12.9
+Mozambique,Africa,2016,40.8
+Mozambique,Africa,2017,40
+Mozambique,Africa,2018,39.2
+Mozambique,Africa,2019,38.4
+Mozambique,Africa,2020,37.8
+Myanmar,Asia,2016,28.6
+Myanmar,Asia,2017,27.8
+Myanmar,Asia,2018,26.9
+Myanmar,Asia,2019,26.1
+Myanmar,Asia,2020,25.2
+Namibia,Africa,2016,20.8
+Namibia,Africa,2017,20.1
+Namibia,Africa,2018,19.5
+Namibia,Africa,2019,18.9
+Namibia,Africa,2020,18.4
+Nauru,Oceania,2016,17.5
+Nauru,Oceania,2017,16.9
+Nauru,Oceania,2018,16.3
+Nauru,Oceania,2019,15.5
+Nauru,Oceania,2020,15
+Nepal,Asia,2016,35
+Nepal,Asia,2017,33.8
+Nepal,Asia,2018,32.5
+Nepal,Asia,2019,31.4
+Nepal,Asia,2020,30.4
+Netherlands,Europe,2016,1.5
+Netherlands,Europe,2017,1.5
+Netherlands,Europe,2018,1.6
+Netherlands,Europe,2019,1.6
+Netherlands,Europe,2020,1.6
+Nicaragua,North America,2016,15.5
+Nicaragua,North America,2017,15.1
+Nicaragua,North America,2018,14.7
+Nicaragua,North America,2019,14.4
+Nicaragua,North America,2020,14.1
+Niger,Africa,2016,47.1
+Niger,Africa,2017,47
+Niger,Africa,2018,46.9
+Niger,Africa,2019,46.8
+Niger,Africa,2020,46.7
+Nigeria,Africa,2016,36.7
+Nigeria,Africa,2017,36.5
+Nigeria,Africa,2018,36.1
+Nigeria,Africa,2019,35.7
+Nigeria,Africa,2020,35.3
+North Macedonia,Europe,2016,4.8
+North Macedonia,Europe,2017,4.6
+North Macedonia,Europe,2018,4.4
+North Macedonia,Europe,2019,4.2
+North Macedonia,Europe,2020,4.1
+Oman,Asia,2016,11.8
+Oman,Asia,2017,11.9
+Oman,Asia,2018,12
+Oman,Asia,2019,12.1
+Oman,Asia,2020,12.2
+Pakistan,Asia,2016,40.4
+Pakistan,Asia,2017,39.4
+Pakistan,Asia,2018,38.5
+Pakistan,Asia,2019,37.5
+Pakistan,Asia,2020,36.7
+Palestine,Asia,2016,8.6
+Palestine,Asia,2017,8.3
+Palestine,Asia,2018,8.1
+Palestine,Asia,2019,7.9
+Palestine,Asia,2020,7.8
+Panama,North America,2016,17.3
+Panama,North America,2017,16.7
+Panama,North America,2018,16
+Panama,North America,2019,15.4
+Panama,North America,2020,14.7
+Papua New Guinea,Oceania,2016,47.6
+Papua New Guinea,Oceania,2017,47.9
+Papua New Guinea,Oceania,2018,48.1
+Papua New Guinea,Oceania,2019,48.3
+Papua New Guinea,Oceania,2020,48.4
+Paraguay,South America,2016,6.6
+Paraguay,South America,2017,6
+Paraguay,South America,2018,5.5
+Paraguay,South America,2019,5
+Paraguay,South America,2020,4.6
+Peru,South America,2016,13.9
+Peru,South America,2017,13
+Peru,South America,2018,12.1
+Peru,South America,2019,11.4
+Peru,South America,2020,10.8
+Philippines,Asia,2016,30.5
+Philippines,Asia,2017,29.9
+Philippines,Asia,2018,29.9
+Philippines,Asia,2019,29.4
+Philippines,Asia,2020,28.7
+Poland,Europe,2016,2.3
+Poland,Europe,2017,2.3
+Poland,Europe,2018,2.3
+Poland,Europe,2019,2.3
+Poland,Europe,2020,2.3
+Portugal,Europe,2016,3.5
+Portugal,Europe,2017,3.4
+Portugal,Europe,2018,3.4
+Portugal,Europe,2019,3.3
+Portugal,Europe,2020,3.3
+Qatar,Asia,2016,5.4
+Qatar,Asia,2017,5.1
+Qatar,Asia,2018,4.9
+Qatar,Asia,2019,4.7
+Qatar,Asia,2020,4.6
+Republic of Korea,Asia,2016,2.2
+Republic of Korea,Asia,2017,2.2
+Republic of Korea,Asia,2018,2.2
+Republic of Korea,Asia,2019,2.2
+Republic of Korea,Asia,2020,2.2
+Republic of Moldova,Europe,2016,5.9
+Republic of Moldova,Europe,2017,5.6
+Republic of Moldova,Europe,2018,5.4
+Republic of Moldova,Europe,2019,5.1
+Republic of Moldova,Europe,2020,4.9
+Romania,Europe,2016,10.1
+Romania,Europe,2017,10.1
+Romania,Europe,2018,10
+Romania,Europe,2019,9.9
+Romania,Europe,2020,9.7
+Rwanda,Africa,2016,35.9
+Rwanda,Africa,2017,35.1
+Rwanda,Africa,2018,34.3
+Rwanda,Africa,2019,33.4
+Rwanda,Africa,2020,32.6
+Saint Lucia,North America,2016,2.6
+Saint Lucia,North America,2017,2.7
+Saint Lucia,North America,2018,2.7
+Saint Lucia,North America,2019,2.7
+Saint Lucia,North America,2020,2.8
+Samoa,Oceania,2016,5.9
+Samoa,Oceania,2017,6.1
+Samoa,Oceania,2018,6.4
+Samoa,Oceania,2019,6.6
+Samoa,Oceania,2020,6.8
+Sao Tome and Principe,Africa,2016,14.7
+Sao Tome and Principe,Africa,2017,13.8
+Sao Tome and Principe,Africa,2018,13.1
+Sao Tome and Principe,Africa,2019,12.4
+Sao Tome and Principe,Africa,2020,11.8
+Saudi Arabia,Asia,2016,4.5
+Saudi Arabia,Asia,2017,4.4
+Saudi Arabia,Asia,2018,4.2
+Saudi Arabia,Asia,2019,4.1
+Saudi Arabia,Asia,2020,3.9
+Senegal,Africa,2016,19.2
+Senegal,Africa,2017,18.7
+Senegal,Africa,2018,18.3
+Senegal,Africa,2019,17.8
+Senegal,Africa,2020,17.2
+Serbia,Europe,2016,5.9
+Serbia,Europe,2017,5.8
+Serbia,Europe,2018,5.7
+Serbia,Europe,2019,5.5
+Serbia,Europe,2020,5.3
+Seychelles,Africa,2016,7.8
+Seychelles,Africa,2017,7.8
+Seychelles,Africa,2018,7.6
+Seychelles,Africa,2019,7.5
+Seychelles,Africa,2020,7.4
+Sierra Leone,Africa,2016,31.7
+Sierra Leone,Africa,2017,30.6
+Sierra Leone,Africa,2018,28.8
+Sierra Leone,Africa,2019,27.7
+Sierra Leone,Africa,2020,26.8
+Singapore,Asia,2016,3
+Singapore,Asia,2017,2.9
+Singapore,Asia,2018,2.9
+Singapore,Asia,2019,2.9
+Singapore,Asia,2020,2.8
+Solomon Islands,Oceania,2016,30.2
+Solomon Islands,Oceania,2017,30
+Solomon Islands,Oceania,2018,29.7
+Solomon Islands,Oceania,2019,29.5
+Solomon Islands,Oceania,2020,29.3
+Somalia,Africa,2016,29.3
+Somalia,Africa,2017,28.8
+Somalia,Africa,2018,28.3
+Somalia,Africa,2019,27.9
+Somalia,Africa,2020,27.4
+South Africa,Africa,2016,23
+South Africa,Africa,2017,22.9
+South Africa,Africa,2018,23
+South Africa,Africa,2019,23.1
+South Africa,Africa,2020,23.2
+South Sudan,Africa,2016,31.3
+South Sudan,Africa,2017,31.2
+South Sudan,Africa,2018,31
+South Sudan,Africa,2019,30.8
+South Sudan,Africa,2020,30.6
+Sri Lanka,Asia,2016,16.3
+Sri Lanka,Asia,2017,16.2
+Sri Lanka,Asia,2018,16.2
+Sri Lanka,Asia,2019,16.1
+Sri Lanka,Asia,2020,16
+Sudan,Africa,2016,35
+Sudan,Africa,2017,34.7
+Sudan,Africa,2018,34.4
+Sudan,Africa,2019,34.1
+Sudan,Africa,2020,33.7
+Suriname,South America,2016,8.5
+Suriname,South America,2017,8.4
+Suriname,South America,2018,8.3
+Suriname,South America,2019,8.2
+Suriname,South America,2020,8
+Syrian Arab Republic,Asia,2016,31.2
+Syrian Arab Republic,Asia,2017,31.1
+Syrian Arab Republic,Asia,2018,30.9
+Syrian Arab Republic,Asia,2019,30.3
+Syrian Arab Republic,Asia,2020,29.6
+Tajikistan,Asia,2016,19.6
+Tajikistan,Asia,2017,18.2
+Tajikistan,Asia,2018,17
+Tajikistan,Asia,2019,16
+Tajikistan,Asia,2020,15.3
+Thailand,Asia,2016,12.8
+Thailand,Asia,2017,12.7
+Thailand,Asia,2018,12.6
+Thailand,Asia,2019,12.4
+Thailand,Asia,2020,12.3
+Togo,Africa,2016,25.6
+Togo,Africa,2017,25.2
+Togo,Africa,2018,24.8
+Togo,Africa,2019,24.3
+Togo,Africa,2020,23.8
+Tonga,Oceania,2016,4.3
+Tonga,Oceania,2017,3.8
+Tonga,Oceania,2018,3.3
+Tonga,Oceania,2019,3
+Tonga,Oceania,2020,2.6
+Trinidad and Tobago,North America,2016,8.7
+Trinidad and Tobago,North America,2017,8.7
+Trinidad and Tobago,North America,2018,8.7
+Trinidad and Tobago,North America,2019,8.7
+Trinidad and Tobago,North America,2020,8.7
+Tunisia,Africa,2016,8.8
+Tunisia,Africa,2017,8.7
+Tunisia,Africa,2018,8.7
+Tunisia,Africa,2019,8.6
+Tunisia,Africa,2020,8.6
+Turkmenistan,Asia,2016,9.7
+Turkmenistan,Asia,2017,9.1
+Turkmenistan,Asia,2018,8.5
+Turkmenistan,Asia,2019,8
+Turkmenistan,Asia,2020,7.6
+Tuvalu,Oceania,2016,9.9
+Tuvalu,Oceania,2017,9.9
+Tuvalu,Oceania,2018,9.8
+Tuvalu,Oceania,2019,9.8
+Tuvalu,Oceania,2020,9.7
+Uganda,Africa,2016,29.9
+Uganda,Africa,2017,29.3
+Uganda,Africa,2018,28.8
+Uganda,Africa,2019,28.4
+Uganda,Africa,2020,27.9
+Ukraine,Europe,2016,19.1
+Ukraine,Europe,2017,18.9
+Ukraine,Europe,2018,18.3
+Ukraine,Europe,2019,17.5
+Ukraine,Europe,2020,15.9
+United Republic of Tanzania,Africa,2016,34.8
+United Republic of Tanzania,Africa,2017,34.2
+United Republic of Tanzania,Africa,2018,33.6
+United Republic of Tanzania,Africa,2019,32.8
+United Republic of Tanzania,Africa,2020,32
+United States of America,North America,2016,2.9
+United States of America,North America,2017,3
+United States of America,North America,2018,3.1
+United States of America,North America,2019,3.1
+United States of America,North America,2020,3.2
+Uruguay,South America,2016,7.5
+Uruguay,South America,2017,7.2
+Uruguay,South America,2018,6.9
+Uruguay,South America,2019,6.7
+Uruguay,South America,2020,6.5
+Uzbekistan,Asia,2016,11.5
+Uzbekistan,Asia,2017,11.1
+Uzbekistan,Asia,2018,10.7
+Uzbekistan,Asia,2019,10.3
+Uzbekistan,Asia,2020,9.9
+Vanuatu,Oceania,2016,28.2
+Vanuatu,Oceania,2017,28.4
+Vanuatu,Oceania,2018,28.5
+Vanuatu,Oceania,2019,28.6
+Vanuatu,Oceania,2020,28.7
+Venezuela (Bolivarian Republic of),South America,2016,10.9
+Venezuela (Bolivarian Republic of),South America,2017,10.8
+Venezuela (Bolivarian Republic of),South America,2018,10.7
+Venezuela (Bolivarian Republic of),South America,2019,10.6
+Venezuela (Bolivarian Republic of),South America,2020,10.6
+Viet Nam,Asia,2016,23.9
+Viet Nam,Asia,2017,23.6
+Viet Nam,Asia,2018,23
+Viet Nam,Asia,2019,22.7
+Viet Nam,Asia,2020,22.3
+Yemen,Asia,2016,41.7
+Yemen,Asia,2017,40.5
+Yemen,Asia,2018,39.3
+Yemen,Asia,2019,38.2
+Yemen,Asia,2020,37.2
+Zambia,Africa,2016,36.2
+Zambia,Africa,2017,35
+Zambia,Africa,2018,33.8
+Zambia,Africa,2019,32.9
+Zambia,Africa,2020,32.3
+Zimbabwe,Africa,2016,25.8
+Zimbabwe,Africa,2017,24.9
+Zimbabwe,Africa,2018,24.2
+Zimbabwe,Africa,2019,23.5
+Zimbabwe,Africa,2020,23
