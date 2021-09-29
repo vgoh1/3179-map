@@ -1,5 +1,5 @@
 .page {
-  background-color: white;
+  background-color: grey;
   margin: auto;
   padding: 50px;
   padding-top: 25px;
@@ -15,7 +15,7 @@ h1 {
 h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-
+	font-size: 20px;
 }
 
 p {

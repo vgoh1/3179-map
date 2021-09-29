@@ -59,7 +59,29 @@
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
         "y": { "field": "Continent", "type": "nominal"},
-        "color": { "field": "Continent", "type": "nominal", "legend": null },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "legend": null,
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#acd8db",
+              "#1b9646",
+              "#7fa52b",
+              "#d045a7",
+              "#e5440e",
+              "#c2ad92"
+            ]
+          }
+        },
         "x": {
           "field": "OverweightValue",
           "type": "quantitative",

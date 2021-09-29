@@ -52,7 +52,17 @@
             "35 - 45",
             "45 - 59.5"
           ],
-          "scale": { "scheme": "reds" }
+          "scale": {
+            "range": [
+              "#fdf1ba",
+              "#f8da84",
+              "#ee934f",
+              "#e95c3b",
+              "#d0352b",
+              "#911c2a",
+              "#6b1225"
+            ]
+          }
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
@@ -78,14 +88,24 @@
         { "filter": "datum.Country != null" },
         { "filter": "datum.Year == Year_selection" }
       ],
-      "mark": { "type": "square" },
+      "mark": { "type": "circle" },
       "encoding": {
         "latitude": { "field": "latitude" },
         "longitude": { "field": "longitude" },
-        "size": { "value": 150 },
+        "size": { "field": "Value", "legend": null},
         "color": {
           "field": "BinValue",
-          "scale": { "scheme": "greys" },
+          "scale": {
+            "range": [
+              "#ddf0fc",
+              "#a0bad5",
+              "#6ca7d2",
+              "#4e93bd",
+              "#436fa1",
+              "#3d466e",
+              "#152d72"
+            ]
+          },
           "sort": [
             "<0.5",
             "0.5 - 10",
