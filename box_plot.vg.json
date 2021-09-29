@@ -1,20 +1,75 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Percentage of children under 5 years who are overweight (%)",
+  "title": "Percentage of children under 5 years affected by",
   "description": "A vertical box plot showing median, min, and max body mass of penguins.",
   "data": {
-    "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
+    "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
   },
-  "mark": { "type": "boxplot" },
-  "transform": [{ "filter": "datum.Year == '2016'" }],
-  "encoding": {
-    "y": { "field": "Continent", "type": "nominal" },
-    "color": { "field": "Continent", "type": "nominal", "legend": null },
-    "x": {
-      "field": "OverweightValue",
-      "type": "quantitative",
-      "scale": { "zero": false },
-      "title": "Overweight (%)"
+  "transform": [
+    { "filter": "datum.Year == '2019'" },
+    {
+      "lookup": "Area",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
+        },
+        "key": "Area",
+        "fields": ["Continent", "OverweightValue"]
+      }
+    },
+    {
+      "lookup": "Area",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/stunting_new.csv"
+        },
+        "key": "Area",
+        "fields": ["Continent", "StuntingValue"]
+      }
+    },
+    { "filter": { "field": "WastingValue", "valid": true } },
+    { "filter": { "field": "OverweightValue", "valid": true } },
+    { "filter": { "field": "StuntingValue", "valid": true } }
+  ],
+  "vconcat": [
+    {
+      "mark": { "type": "boxplot" },
+      "encoding": {
+        "y": { "field": "Continent", "type": "nominal" },
+        "color": { "field": "Continent", "type": "nominal", "legend": null },
+        "x": {
+          "field": "WastingValue",
+          "type": "quantitative",
+          "scale": { "zero": false },
+          "title": "Wasting (%)"
+        }
+      }
+    },
+    {
+      "mark": { "type": "boxplot" },
+      "encoding": {
+        "y": { "field": "Continent", "type": "nominal" },
+        "color": { "field": "Continent", "type": "nominal", "legend": null },
+        "x": {
+          "field": "OverweightValue",
+          "type": "quantitative",
+          "scale": { "zero": false },
+          "title": "Overweight (%)"
+        }
+      }
+    },
+    {
+      "mark": { "type": "boxplot" },
+      "encoding": {
+        "y": { "field": "Continent", "type": "nominal" },
+        "color": { "field": "Continent", "type": "nominal", "legend": null },
+        "x": {
+          "field": "StuntingValue",
+          "type": "quantitative",
+          "scale": { "zero": false },
+          "title": "Stunting (%)"
+        }
+      }
     }
-  }
+  ]
 }
