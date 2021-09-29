@@ -1,70 +1,55 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Percentage of children under 5 years old affected by wasting",
-  "hconcat": [
+  "title": {
+    "text": "Percentage of children under 5 years old affected by wasting",
+    "dx": 50,
+    "fontSize": 20,
+    "subtitle": "This is a subtitle",
+    "subtitleColor": "red"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
+  },
+  "transform": [
+    { "filter": "datum.Year == '2019'" },
     {
-      "layer": [
-        {
-          "data": {
-            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
-          },
-          "transform": [
-            { "filter": "datum.Continent == 'North America'" },
-            { "filter": "datum.Year == '2016'" }
-          ],
-          "mark": { "type": "bar", "color": "red", "opacity": 1 },
-          "encoding": {
-            "x": { "bin": true, "field": "Value" },
-            "y": { "aggregate": "count", "title": "Count" }
-          }
+      "lookup": "Area",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
         },
-        {
-          "data": {
-            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
-          },
-          "transform": [
-            { "filter": "datum.Continent == 'North America'" },
-            { "filter": "datum.Year == '2016'" }
-          ],
-          "mark": { "type": "bar", "color": "black", "opacity": 1 },
-          "encoding": {
-            "x": { "bin": true, "field": "Value", "title": "Percentage" },
-            "y": { "aggregate": "count", "title": "Count" }
-          }
-        }
-      ]
-    },
-    {
-      "layer": [
-        {
-          "data": {
-            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
-          },
-          "transform": [
-            { "filter": "datum.Continent == 'Asia'" },
-            { "filter": "datum.Year == '2016'" }
-          ],
-          "mark": { "type": "bar", "color": "red", "opacity": 1 },
-          "encoding": {
-            "x": { "bin": true, "field": "Value" },
-            "y": { "aggregate": "count", "title": "Count" }
-          }
-        },
-        {
-          "data": {
-            "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
-          },
-          "transform": [
-            { "filter": "datum.Continent == 'Asia'" },
-            { "filter": "datum.Year == '2016'" }
-          ],
-          "mark": { "type": "bar", "color": "black", "opacity": 1 },
-          "encoding": {
-            "x": { "bin": true, "field": "Value", "title": "Percentage" },
-            "y": { "aggregate": "count", "title": "Count" }
-          }
-        }
-      ]
+        "key": "Area",
+        "fields": ["Continent", "OverweightValue"]
+      }
     }
-  ]
+  ],
+  "facet": {
+    "column": {
+      "field": "Continent",
+      "type": "nominal",
+      "header": { "titleFontSize": 15, "labelFontSize": 12.5 }
+    }
+  },
+  "spec": {
+    "layer": [
+      {
+        "mark": { "type": "bar", "color": "red", "opacity": 1 },
+        "encoding": {
+          "x": { "bin": true, "field": "WastingValue", "title": "Percentage" },
+          "y": { "aggregate": "count", "title": "Count" }
+        }
+      },
+      {
+        "mark": { "type": "bar", "color": "black", "opacity": 0.6 },
+        "encoding": {
+          "x": {
+            "bin": true,
+            "field": "OverweightValue",
+            "title": "Percentage"
+          },
+          "y": { "aggregate": "count", "title": "Count" }
+        }
+      }
+    ]
+  }
 }
