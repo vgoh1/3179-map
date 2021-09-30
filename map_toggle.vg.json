@@ -65,7 +65,10 @@
             "fill": {
               "field": "BinValue",
               "type": "ordinal",
-              "legend": { "title": "Undernourishment (%)" },
+              "legend": {
+                "title": "Undernourishment (%)",
+                "titleOpacity": { "expr": "Variable_selection == null ? 1 : 0" }
+              },
               "sort": [
                 "<2.5",
                 "2.5 - 5",
@@ -127,7 +130,14 @@
                 "40 - 50",
                 "50 - 65.4"
               ],
-              "legend": { "title": "Food Insecurity (%)" }
+              "legend": {
+                "title": "Food Insecurity (%)",
+                "titleOpacity": {
+                  "expr": "Variable_selection == 'insecurity' ? 1 : 0"
+                },
+                "orient": "none",
+                "legendX": 519
+              }
             },
             "tooltip": [
               { "field": "Country", "type": "nominal" },
