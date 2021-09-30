@@ -55,6 +55,11 @@
       ],
       "layer": [
         {
+          "title": {
+            "text": {
+              "expr": "Variable_selection == 'insecurity' ? 'Prevalence of food insecurity' : 'Prevalence of undernourishment'"
+            }
+          },
           "transform": [
             {
               "filter": "Variable_selection == null && datum.Item == 'undernourishment' && datum.Item != 'insecurity'"

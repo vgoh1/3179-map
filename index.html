@@ -44,7 +44,7 @@
             <div class="pure-u-1 pure-u-md-1-2">
                 <h3 style="padding-left: 4px">Prevalence of undernourishment</h3>
                 <div id="map" class="symbol_map"></div>
-                <div id="map1" class="symbol_map"></div>
+                <!-- <div id="map1" class="symbol_map"></div> -->
             </div>
             <div class="pure-u-1 pure-u-md-1-1">
                 <p>
@@ -126,7 +126,7 @@
     </div>
 
     <script type="text/javascript">
-        var map_spec = "map_geoshape.vg.json";
+        var map_spec = "map_toggle.vg.json";
         vegaEmbed("#map", map_spec)
             .then(function (result) {
                 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
