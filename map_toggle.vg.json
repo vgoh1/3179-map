@@ -72,7 +72,12 @@
               "type": "ordinal",
               "legend": {
                 "title": "Undernourishment (%)",
-                "titleOpacity": { "expr": "Variable_selection == null ? 1 : 0" }
+                "titleOpacity": {
+                  "expr": "Variable_selection == null ? 1 : 0"
+                },
+                "orient": "none",
+                "legendX": 10,
+                "legendY": 10
               },
               "sort": [
                 "<2.5",
@@ -141,7 +146,8 @@
                   "expr": "Variable_selection == 'insecurity' ? 1 : 0"
                 },
                 "orient": "none",
-                "legendX": 519
+                "legendX": 10,
+                "legendY": 10
               }
             },
             "tooltip": [
