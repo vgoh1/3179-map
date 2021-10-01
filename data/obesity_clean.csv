@@ -354,8 +354,8 @@ Ukraine,Europe,GDP,11534.6
 Ukraine,Europe,Obesity,24.1
 United Arab Emirates,Asia,GDP,66510.9
 United Arab Emirates,Asia,Obesity,31.7
-United Kingdom of Great Britain and Northern Ireland,Europe,GDP,45268.7
-United Kingdom of Great Britain and Northern Ireland,Europe,Obesity,27.8
+United Kingdom,Europe,GDP,45268.7
+United Kingdom,Europe,Obesity,27.8
 United Republic of Tanzania,Africa,GDP,2441.6
 United Republic of Tanzania,Africa,Obesity,8.4
 United States of America,North America,GDP,59112.2
@@ -367,8 +367,8 @@ Uzbekistan,Asia,Obesity,16.6
 Vanuatu,Oceania,GDP,2973.5
 Vanuatu,Oceania,Obesity,25.2
 Venezuela (Bolivarian Republic of),South America,Obesity,25.6
-Viet Nam,Asia,GDP,6767.8
-Viet Nam,Asia,Obesity,2.1
+Vietnam,Asia,GDP,6767.8
+Vietnam,Asia,Obesity,2.1
 Yemen,Asia,Obesity,17.1
 Zambia,Africa,GDP,3467.9
 Zambia,Africa,Obesity,8.1

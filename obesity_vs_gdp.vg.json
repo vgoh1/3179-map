@@ -92,7 +92,7 @@
         "x": { "field": "GDP", "type": "quantitative" },
         "opacity": {
           "condition": {
-            "test": "datum['Area'] == 'Lesotho' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Ecuador' || datum['Area'] == 'Lebanon' || datum['Area'] == 'Saint Kitts and Nevis' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Ireland'",
+            "test": "datum['Area'] == 'Nauru' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Ecuador' || datum['Area'] == 'Lebanon' || datum['Area'] == 'Saint Kitts and Nevis' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Ireland'",
             "value": 1
           },
           "value": 0

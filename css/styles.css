@@ -36,11 +36,7 @@ p {
   padding-left: 90px;
   padding-right: 90px;
 }
-.symbol_map {
-  /* top: 100px;
-  bottom: 100px;
-  left: 100px;
-  right: 100px; */
-  /*height: 1000px;
-	width: 800px;*/
+
+.scatterplot {
+  padding-left: 52px;
 }
