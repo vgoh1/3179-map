@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Prevalence of obesity vs GDP per capita, 2016",
   "width": 500,
   "height": 250,
   "data": {
@@ -92,7 +93,7 @@
         "x": { "field": "GDP", "type": "quantitative" },
         "opacity": {
           "condition": {
-            "test": "datum['Area'] == 'Nauru' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Ecuador' || datum['Area'] == 'Lebanon' || datum['Area'] == 'Saint Kitts and Nevis' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Ireland'",
+            "test": "datum['Area'] == 'Nauru' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Haiti' || datum['Area'] == 'Equatorial Guinea' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Vietnam'",
             "value": 1
           },
           "value": 0

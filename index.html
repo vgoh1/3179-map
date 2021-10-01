@@ -9,7 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&Roboto:wght@100;500;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&Roboto:wght@100;500;400;700&display=swap"
+        rel="stylesheet">
 
     <!-- CSS file -->
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
@@ -26,7 +27,6 @@
             <div class="pure-u-1 pure-u-md-1-2">
                 <div class="text-half">
                     <h3>This is the first section.</h3>
-
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut pellentesque arcu. Mauris
                         dapibus neque ac vehicula consectetur. Mauris semper odio eu scelerisque lobortis. In vel
                         eleifend
@@ -42,7 +42,6 @@
                 </div>
             </div>
             <div class="pure-u-1 pure-u-md-1-2">
-                <h3 style="padding-left: 4px">Prevalence of undernourishment</h3>
                 <div id="map"></div>
             </div>
             <div class="pure-u-1 pure-u-md-1-1">
@@ -75,7 +74,8 @@
                     <h3>This is the second section.</h3>
                     <p>A child under 5 years is considered overweight if their weight-for-height greater than 2 standard
                         deviations above WHO Child Growth Standards median. The fundamental cause of obesity and
-                        overweight is an energy imbalance between hello calories consumed and calories expended. Changes in
+                        overweight is an energy imbalance between hello calories consumed and calories expended. Changes
+                        in
                         dietary and physical activity patterns are often the result of environmental and societal
                         changes associated
                         with development .</p>
@@ -97,7 +97,6 @@
             <div class="pure-u-1 pure-u-md-1-2">
                 <p>
                 <div class="text-thirds">
-                    <h3>Prevalence of obesity vs GDP per capita, 2016</h3>
                 </div>
                 <div id="scatterplot2" class="scatterplot"></div>
                 </p>
@@ -133,11 +132,11 @@
             .catch(console.error);
 
         var map1_spec = "map_vg.json";
-            vegaEmbed("#map1", map1_spec)
-                .then(function (result) {
-                    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-                })
-                .catch(console.error);
+        vegaEmbed("#map1", map1_spec)
+            .then(function (result) {
+                // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            })
+            .catch(console.error);
 
         var box_plot_spec = "box_plot_h.vg.json";
         vegaEmbed("#scatterplot1", box_plot_spec)
