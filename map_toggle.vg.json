@@ -1,7 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple bar chart with embedded data.",
-  "projection": { "type": "equalEarth" },
+  "projection": {
+    "type": "equalEarth",
+    "center": { "expr": "center_to" },
+    "scale": { "expr": "zoom_level" }
+  },
   "width": 500,
   "height": 250,
   "params": [
@@ -17,12 +21,47 @@
       }
     },
     {
+      "name": "zoom_level",
+      "value": 150,
+      "bind": {
+        "input": "range",
+        "min": 100,
+        "max": 500,
+        "step": 100,
+        "name": "Zoom: "
+      }
+    },
+    {
       "name": "Variable_selection",
       "bind": {
         "input": "select",
         "options": [null, "insecurity"],
         "labels": ["Undernourishment", "Food Insecurity"],
-        "name": "Attribute Selection: "
+        "name": "Attribute: "
+      }
+    },
+    {
+      "name": "center_to",
+      "value": [33.46, 0],
+      "bind": {
+        "input": "select",
+        "options": [
+          [33.46, 0],
+          [92.89, 20.14],
+          [15.25, 54.52],
+          [-89.5, 44.5],
+          [150.77, -25.08],
+          [-48, -10]
+        ],
+        "labels": [
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "name": "Continent: "
       }
     }
   ],
@@ -32,7 +71,7 @@
         "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
         "format": { "type": "topojson", "feature": "world.geo" }
       },
-      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "white" }
+      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "black" }
     },
     {
       "data": {
