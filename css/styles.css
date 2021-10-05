@@ -1,5 +1,8 @@
+body {
+  background-color: lightgray;
+}
 .page {
-  background-color: #fefcf8;
+  background-color: white;
   margin: auto;
   padding: 50px;
   padding-top: 25px;
