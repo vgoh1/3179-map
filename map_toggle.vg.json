@@ -25,7 +25,7 @@
       "value": 150,
       "bind": {
         "input": "range",
-        "min": 100,
+        "min": 50,
         "max": 500,
         "step": 100,
         "name": "Zoom: "
@@ -50,8 +50,8 @@
           [92.89, 20.14],
           [15.25, 54.52],
           [-89.5, 44.5],
-          [150.77, -25.08],
-          [-48, -10]
+          [150.77, -31.08],
+          [55, 10]
         ],
         "labels": [
           "Africa",
@@ -71,7 +71,7 @@
         "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
         "format": { "type": "topojson", "feature": "world.geo" }
       },
-      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "black" }
+      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "#b3b2af" }
     },
     {
       "data": {
@@ -89,10 +89,24 @@
             "fields": ["type", "properties", "geometry"]
           }
         },
-        { "filter": "datum.Country != null" },
         { "filter": "datum.Year == Year_selection" }
       ],
       "layer": [
+        {
+          "transform": [
+            {
+              "calculate": "'Data is not availabe for ' + datum.Country",
+              "as": "note"
+            }
+          ],
+          "mark": {
+            "type": "geoshape",
+            "fill": "#e8e8e8",
+            "stroke": "#b3b2af",
+            "strokeWidth": 1
+          },
+          "encoding": { "tooltip": { "field": "note" } }
+        },
         {
           "title": {
             "text": {
@@ -102,7 +116,8 @@
           "transform": [
             {
               "filter": "Variable_selection == null && datum.Item == 'undernourishment' && datum.Item != 'insecurity'"
-            }
+            },
+            { "filter": "datum.Country != null" }
           ],
           "mark": { "type": "geoshape" },
           "encoding": {
@@ -111,12 +126,7 @@
               "type": "ordinal",
               "legend": {
                 "title": "Undernourishment (%)",
-                "titleOpacity": {
-                  "expr": "Variable_selection == null ? 1 : 0"
-                },
-                "orient": "none",
-                "legendX": 10,
-                "legendY": 10
+                "titleOpacity": { "expr": "Variable_selection == null ? 1 : 0" }
               },
               "sort": [
                 "<2.5",
@@ -153,7 +163,8 @@
           "transform": [
             {
               "filter": "Variable_selection == 'insecurity' && datum.Item == 'insecurity' && datum.Item != 'undernourishment'"
-            }
+            },
+            { "filter": "datum.Country != null" }
           ],
           "mark": { "type": "geoshape" },
           "encoding": {
@@ -185,8 +196,8 @@
                   "expr": "Variable_selection == 'insecurity' ? 1 : 0"
                 },
                 "orient": "none",
-                "legendX": 10,
-                "legendY": 10
+                "legendX": 518,
+                "legendY": 0
               }
             },
             "tooltip": [
