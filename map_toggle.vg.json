@@ -25,9 +25,9 @@
       "value": 150,
       "bind": {
         "input": "range",
-        "min": 50,
-        "max": 500,
-        "step": 100,
+        "min": 100,
+        "max": 250,
+        "step": 50,
         "name": "Zoom: "
       }
     },
@@ -110,7 +110,10 @@
         {
           "title": {
             "text": {
-              "expr": "Variable_selection == 'insecurity' ? 'Prevalence of food insecurity' : 'Prevalence of undernourishment'"
+              "expr": "Variable_selection == 'insecurity' ? 'Prevalence of severe food insecurity' : 'Prevalence of undernourishment'"
+            },
+            "subtitle": {
+              "expr": "Variable_selection == 'insecurity' ? 'Share of people who lack secure access to food for a healthy life' : 'Share of people whose dietary energy intake is lower than the minimum requirement'"
             }
           },
           "transform": [
