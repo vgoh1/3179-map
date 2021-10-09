@@ -84,6 +84,15 @@
       ],
       "layer": [
         {
+          "transform": [{ "calculate": "'No data'", "as": "text_annotation" }],
+          "mark": { "type": "text", "opacity": 0 },
+          "encoding": {
+            "fill": {
+              "field": "text_annotation"
+            }
+          }
+        },
+        {
           "title": {
             "text": {
               "expr": "'Prevalence of severe food insecurity and undernourishment'"
@@ -91,7 +100,8 @@
           },
           "transform": [
             { "filter": "datum.Item == 'undernourishment'" },
-            { "filter": "datum.Country != null" }
+            { "filter": "datum.Country != null" },
+            { "calculate": "'No data'", "as": "text_annotation" }
           ],
           "mark": { "type": "geoshape" },
           "encoding": {
@@ -107,27 +117,20 @@
                   "15 - 25",
                   "25 - 35",
                   "35 - 45",
-                  "45 - 59.5"
+                  "45 - 59.5",
+                  "No data"
                 ]
               },
-              "sort": [
-                "<2.5",
-                "2.5 - 5",
-                "5 - 15",
-                "15 - 25",
-                "25 - 35",
-                "35 - 45",
-                "45 - 59.5"
-              ],
               "scale": {
                 "range": [
-                  "#fdf1ba",
-                  "#f8da84",
-                  "#ee934f",
                   "#e95c3b",
+                  "#f8da84",
                   "#d0352b",
                   "#911c2a",
-                  "#6b1225"
+                  "#6b1225",
+                  "#ee934f",
+                  "#fdf1ba",
+                  "#e8e8e8"
                 ]
               }
             },
