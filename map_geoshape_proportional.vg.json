@@ -142,20 +142,18 @@
           }
         },
         {
-          "data": {
-            "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
-          },
           "transform": [
             {
-              "lookup": "country",
+              "lookup": "Country",
               "from": {
                 "data": {
-                  "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/insecurity_new.csv"
+                  "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv"
                 },
-                "key": "Country",
-                "fields": ["Value", "Country", "Year", "BinValue"]
+                "key": "country",
+                "fields": ["country", "latitude", "longitude"]
               }
             },
+            { "filter": "datum.Item == 'insecurity'" },
             { "filter": "datum.Country != null" }
           ],
           "mark": { "type": "circle", "opacity": 0.7 },
