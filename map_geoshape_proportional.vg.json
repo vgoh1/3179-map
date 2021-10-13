@@ -6,8 +6,8 @@
     "center": { "expr": "center_to" },
     "scale": { "expr": "zoom_level" }
   },
-  "width": 670,
-  "height": 300,
+  "width": 752,
+  "height": 250,
   "params": [
     {
       "name": "Year_selection",
@@ -123,7 +123,7 @@
                 "orient": "none",
                 "direction": "horizontal",
                 "fillColor": "white",
-                "legendY": 305
+                "legendY": 255
               },
               "scale": {
                 "range": [
@@ -185,7 +185,7 @@
                 "orient": "none",
                 "direction": "horizontal",
                 "fillColor": "white",
-                "legendY": 340
+                "legendY": 290
               }
             },
             "tooltip": [
