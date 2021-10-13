@@ -170,7 +170,7 @@
             "size": { "value": 60 },
             "color": {
               "field": "BinValue",
-              "scale": { "range": ["#abebfb", "#00bcd7", "#0c4180"] },
+              "scale": { "range": ["#abebfb", "#6dabb6", "#0c4180"] },
               "sort": [
                 "<0.5",
                 "0.5 - 10",

@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&Roboto:wght@100;500;400;700&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&Roboto:wght@100;500;600;400;700&display=swap"
         rel="stylesheet">
 
     <!-- CSS file -->
@@ -30,18 +30,25 @@
 
             </div>
             <div class="pure-u-1 pure-u-md-1-2">
-                <div style="padding-left: 225px; padding-right: 30px;">
+
+                <div style="padding-top: 25px; padding-left: 225px; padding-right: 30px;">
+                    <div class="divider"></div>
+
                     <h3>What is food security?</h3>
                     <p><b>Food insecurity</b> is defined by the <a href="http://www.fao.org/3/I7695e/I7695e.pdf">UN
                             FAO</a> as the <i>“situation when people lack secure access to sufficient amounts of safe
                             and nutritious food for normal growth and development and an active and healthy life.”</i>
-                        <b>Severe food insecurity</b> results in undernourishment and hunger. Causes of severe food
+                    </p>
+                    <p><b>Severe food insecurity</b> results in undernourishment and hunger. Causes of severe food
                         insecurity
                         include food being
                         unavailable or unaffordable, and unbalanced distribution of food among households.
                     </p>
-
-                    <img src="Food-Insecurity-Scale.png" width="450">
+                    <p><b>Severe food insecurity</b> results in undernourishment and hunger. Causes of severe food
+                        insecurity
+                        include food being
+                        unavailable or unaffordable, and unbalanced distribution of food among households.
+                    </p>
                 </div>
             </div>
 
@@ -49,25 +56,28 @@
                 <div class="pure-u-1 pure-u-md-1-2">
                     <div class="floating-text">
                         <p>The Pacific Islands, such as Nauru, have the highest rates of obesity in the world. This can
-                        be attributed to the
-                        reliance on imported western food, which are high in calories and sodium, and cultural
-                        factors, such as poor public
-                        education on health. Obesity is seen as a sign of wealth, and higher social status is given
-                        to imported foods rather
-                        than local, healthier foods.</p>
+                            be attributed to the
+                            reliance on imported western food, which are high in calories and sodium, and cultural
+                            factors, such as poor public
+                            education on health. Obesity is seen as a sign of wealth, and higher social status is given
+                            to imported foods rather
+                            than local, healthier foods.</p>
                     </div>
                     <p>
                     <div id="scatterplot2" class="scatterplot"></div>
                     </p>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2">
-                    <div style="padding-left: 225px; padding-right: 30px;">
+                    <div style="padding-top: 43px; padding-left: 225px; padding-right: 30px;">
+                        <div class="divider"></div>
+
                         <h3>The other side of hunger: Obesity</h3>
                         <p>While lack of food causes undernourishment, unhealthy diets can lead to <b>obesity</b> and
                             diet-related chronic diseases, such as cardiovascular disease, diabetes and cancer. The
                             causes of obesity go beyond poor eating
                             habits, and factors such as overconsumption and limited access to quality food play a part.
-                            Nutritional intake in the first
+                        </p>
+                        <p>Nutritional intake in the first
                             1000 days of a child’s life is also a risk factor.
                             With rapid urbanization,
                             people are increasingly consuming packaged and fast foods and living a sedentary lifestyle.
@@ -134,28 +144,28 @@
 
     <script type="text/javascript">
         var map_spec = "map_toggle.vg.json";
-        vegaEmbed("#map", map_spec)
+        vegaEmbed("#map", map_spec, { "actions": false })
             .then(function (result) {
                 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
             })
             .catch(console.error);
 
         var map1_spec = "map_geoshape_proportional.vg.json";
-        vegaEmbed("#map1", map1_spec)
+        vegaEmbed("#map1", map1_spec, { "actions": false })
             .then(function (result) {
                 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
             })
             .catch(console.error);
 
         var box_plot_spec = "box_plot_h.vg.json";
-        vegaEmbed("#scatterplot1", box_plot_spec)
+        vegaEmbed("#scatterplot1", box_plot_spec, { "actions": false })
             .then(function (result) {
                 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
             })
             .catch(console.error);
 
         var scatterplot2_spec = "obesity_vs_gdp.vg.json";
-        vegaEmbed("#scatterplot2", scatterplot2_spec)
+        vegaEmbed("#scatterplot2", scatterplot2_spec, { "actions": false })
             .then(function (result) {
                 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
             })

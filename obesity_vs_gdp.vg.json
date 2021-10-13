@@ -33,12 +33,12 @@
         { "calculate": "2000", "as": "x_position" },
         { "calculate": "43", "as": "y_position" }
       ],
-      "mark": { "type": "rect", "fill": "aliceblue", "fillOpacity": 0.05 },
+      "mark": { "type": "rect", "fill": "#f3f3e9", "fillOpacity": 0.1, "cornerRadius": 10 },
       "encoding": {
         "x": { "field": "x_position", "type": "quantitative" },
         "y": { "field": "y_position", "type": "quantitative" },
-        "x2": { "value": 450 },
-        "y2": { "value": 0 }
+        "x2": { "value": 445 },
+        "y2": { "value": 15 }
       }
     },
     {
@@ -81,12 +81,12 @@
               "South America"
             ],
             "range": [
-              "#f1a2a7",
-              "#e68b39",
-              "#d4605b",
-              "#82b5b2",
-              "#68a055",
-              "#aa7ba0"
+              "#e29249",
+              "#8b75ab",
+              "#a93d31",
+              "#5f7e5c",
+              "#a36f00",
+              "#001e35"
             ]
           },
           "legend": { "fillColor": "white", "orient": "top-right" }
@@ -138,8 +138,8 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": -120,
-        "dy": -110,
+        "dx": -125,
+        "dy": -98,
         "fontSize": 11.5
       },
       "encoding": {
