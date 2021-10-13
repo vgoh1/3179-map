@@ -46,8 +46,17 @@ p {
 
 .vega-bindings {
   position: absolute;
-  left: 875px;
-  top: 215px;
-  height: 500px;
+  left: 635px;
+  top: 280px;
+  height: 200px;
   width: 500px;
+}
+
+.floating-text {
+  position: absolute;
+  left: 100px;
+  top: 700px;
+  height: 200px;
+  width: 500px;
+  z-index: 1;
 }

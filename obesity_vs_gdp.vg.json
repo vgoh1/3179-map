@@ -17,14 +17,14 @@
   "layer": [
     {
       "transform": [
-        { "calculate": "1250", "as": "x_position" },
+        { "calculate": "2000", "as": "x_position" },
         { "calculate": "43", "as": "y_position" }
       ],
       "mark": { "type": "rect", "fill": "aliceblue", "fillOpacity": 0.05 },
       "encoding": {
         "x": { "field": "x_position", "type": "quantitative" },
         "y": { "field": "y_position", "type": "quantitative" },
-        "x2": { "value": 310 },
+        "x2": { "value": 450 },
         "y2": { "value": 0 }
       }
     },
@@ -125,10 +125,11 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": -107,
+        "dx": -120,
         "dy": -110,
         "fontSize": 11.5,
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "font": "Open Sans"
       },
       "encoding": {
         "text": { "field": "text_annotation", "type": "nominal" },
@@ -143,9 +144,10 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": -107,
+        "dx": -120,
         "dy": -97,
-        "fontSize": 11.5
+        "fontSize": 11.5,
+        "font": "Open Sans"
       },
       "encoding": {
         "text": { "field": "text_annotation", "type": "nominal" },
@@ -160,9 +162,10 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": -107,
+        "dx": -120,
         "dy": -84,
-        "fontSize": 11.5
+        "fontSize": 11.5,
+        "font": "Open Sans"
       },
       "encoding": {
         "text": { "field": "text_annotation", "type": "nominal" },
