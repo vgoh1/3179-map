@@ -17,6 +17,19 @@
   "layer": [
     {
       "transform": [
+        { "calculate": "110", "as": "x_position" },
+        { "calculate": "0", "as": "y_position" }
+      ],
+      "mark": { "type": "rect", "fill": "white", "fillOpacity": 1 },
+      "encoding": {
+        "x": { "field": "x_position", "type": "quantitative" },
+        "y": { "field": "y_position", "type": "quantitative" },
+        "x2": { "value": 155 },
+        "y2": { "value": 3 }
+      }
+    },
+    {
+      "transform": [
         { "calculate": "2000", "as": "x_position" },
         { "calculate": "43", "as": "y_position" }
       ],
@@ -127,45 +140,7 @@
         "baseline": "middle",
         "dx": -120,
         "dy": -110,
-        "fontSize": 11.5,
-        "fontStyle": "bold",
-        "font": "Open Sans"
-      },
-      "encoding": {
-        "text": { "field": "text_annotation", "type": "nominal" },
-        "color": { "value": "black" }
-      }
-    },
-    {
-      "transform": [
-        { "calculate": "'have the highest rates'", "as": "text_annotation" }
-      ],
-      "mark": {
-        "type": "text",
-        "align": "left",
-        "baseline": "middle",
-        "dx": -120,
-        "dy": -97,
-        "fontSize": 11.5,
-        "font": "Open Sans"
-      },
-      "encoding": {
-        "text": { "field": "text_annotation", "type": "nominal" },
-        "color": { "value": "black" }
-      }
-    },
-    {
-      "transform": [
-        { "calculate": "'of obesity in the world'", "as": "text_annotation" }
-      ],
-      "mark": {
-        "type": "text",
-        "align": "left",
-        "baseline": "middle",
-        "dx": -120,
-        "dy": -84,
-        "fontSize": 11.5,
-        "font": "Open Sans"
+        "fontSize": 11.5
       },
       "encoding": {
         "text": { "field": "text_annotation", "type": "nominal" },

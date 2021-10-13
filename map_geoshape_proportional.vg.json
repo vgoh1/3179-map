@@ -167,25 +167,22 @@
           "encoding": {
             "latitude": { "field": "latitude" },
             "longitude": { "field": "longitude" },
-            "size": { "value": 150 },
+            "size": { "value": 60 },
             "color": {
               "field": "BinValue",
-              "scale": { "scheme": "tealblues" },
+              "scale": { "range": ["#abebfb", "#00bcd7", "#0c4180"] },
               "sort": [
                 "<0.5",
                 "0.5 - 10",
-                "10 - 20",
-                "20 - 30",
-                "30 - 40",
-                "40 - 50",
-                "50 - 65.4"
+                "10 - 20"
               ],
               "legend": {
                 "title": "Food Insecurity (%)",
                 "orient": "none",
                 "direction": "horizontal",
                 "fillColor": "white",
-                "legendY": 290
+                "legendY": 290,
+                "values": ["<0.5", "0.5 - 10", "10 - 20"]
               }
             },
             "tooltip": [
