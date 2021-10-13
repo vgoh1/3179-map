@@ -54,13 +54,12 @@ p {
 
 .floating-text {
   position: absolute;
-  left: 170px;
-  top: 490px;
+  margin-left: 100px;
+  margin-top: 40px;
   height: 200px;
-  width: 150px;
+  width: 225px;
   z-index: 1;
   font-size: 12.5px;
-  background-color: white;
 }
 
 .divider {
