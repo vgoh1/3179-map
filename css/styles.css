@@ -41,5 +41,14 @@ p {
 }
 
 .scatterplot {
-  padding-left: 52px;
+  padding-left: 60px;
+}
+
+.vega-bindings {
+  position: absolute;
+  left: 800px;
+  top: 230px;
+  height: 500px;
+  width: 500px;
+  border: black;
 }

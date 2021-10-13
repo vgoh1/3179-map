@@ -6,8 +6,8 @@
     "center": { "expr": "center_to" },
     "scale": { "expr": "zoom_level" }
   },
-  "width": 500,
-  "height": 250,
+  "width": 670,
+  "height": 300,
   "params": [
     {
       "name": "Year_selection",
@@ -62,7 +62,7 @@
         "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
         "format": { "type": "topojson", "feature": "world.geo" }
       },
-      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "#b3b2af" }
+      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "#666562" }
     },
     {
       "data": {
@@ -119,7 +119,11 @@
                   "35 - 45",
                   "45 - 59.5",
                   "No data"
-                ]
+                ],
+                "orient": "none",
+                "direction": "horizontal",
+                "fillColor": "white",
+                "legendY": 305
               },
               "scale": {
                 "range": [
@@ -176,7 +180,13 @@
                 "40 - 50",
                 "50 - 65.4"
               ],
-              "legend": { "title": "Food Insecurity (%)" }
+              "legend": {
+                "title": "Food Insecurity (%)",
+                "orient": "none",
+                "direction": "horizontal",
+                "fillColor": "white",
+                "legendY": 340
+              }
             },
             "tooltip": [
               { "field": "Country", "type": "nominal" },

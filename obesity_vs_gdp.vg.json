@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Prevalence of obesity vs GDP per capita, 2016",
-  "width": 500,
+  "width": 670,
   "height": 250,
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/obesity_clean.csv"
@@ -16,6 +16,19 @@
   ],
   "layer": [
     {
+      "transform": [
+        { "calculate": "1250", "as": "x_position" },
+        { "calculate": "43", "as": "y_position" }
+      ],
+      "mark": { "type": "rect", "fill": "aliceblue", "fillOpacity": 0.05 },
+      "encoding": {
+        "x": { "field": "x_position", "type": "quantitative" },
+        "y": { "field": "y_position", "type": "quantitative" },
+        "x2": { "value": 310 },
+        "y2": { "value": 0 }
+      }
+    },
+    {
       "selection": {
         "continent_highlight": {
           "type": "multi",
@@ -28,13 +41,19 @@
         "y": {
           "field": "Obesity",
           "type": "quantitative",
-          "title": "Prevalence of obesity in the adult population (%)"
+          "title": "Prevalence of obesity in the adult population (%)",
+          "scale": {
+            "domain": [0, 70]
+          }
         },
         "x": {
           "field": "GDP",
           "type": "quantitative",
           "title": "GDP per capita (int.-$)",
-          "scale": { "type": "log" }
+          "scale": { "type": "log" },
+          "axis": {
+            "gridOpacity": 0.5
+          }
         },
         "color": {
           "field": "Continent",
@@ -57,10 +76,7 @@
               "#aa7ba0"
             ]
           },
-          "legend": {
-            "fillColor": "white",
-            "orient": "top-right"
-          }
+          "legend": { "fillColor": "white", "orient": "top-right" }
         },
         "opacity": {
           "condition": { "selection": "continent_highlight", "value": 0.8 },
@@ -90,10 +106,7 @@
       "encoding": {
         "text": { "field": "Area", "type": "nominal" },
         "color": { "value": "black" },
-        "y": {
-          "field": "Obesity",
-          "type": "quantitative"
-        },
+        "y": { "field": "Obesity", "type": "quantitative" },
         "x": { "field": "GDP", "type": "quantitative" },
         "opacity": {
           "condition": {
@@ -102,6 +115,58 @@
           },
           "value": 0
         }
+      }
+    },
+    {
+      "transform": [
+        { "calculate": "'Pacific Islands'", "as": "text_annotation" }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -107,
+        "dy": -110,
+        "fontSize": 11.5,
+        "fontStyle": "bold"
+      },
+      "encoding": {
+        "text": { "field": "text_annotation", "type": "nominal" },
+        "color": { "value": "black" }
+      }
+    },
+    {
+      "transform": [
+        { "calculate": "'have the highest rates'", "as": "text_annotation" }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -107,
+        "dy": -97,
+        "fontSize": 11.5
+      },
+      "encoding": {
+        "text": { "field": "text_annotation", "type": "nominal" },
+        "color": { "value": "black" }
+      }
+    },
+    {
+      "transform": [
+        { "calculate": "'of obesity in the world'", "as": "text_annotation" }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -107,
+        "dy": -84,
+        "fontSize": 11.5
+      },
+      "encoding": {
+        "text": { "field": "text_annotation", "type": "nominal" },
+        "color": { "value": "black" }
       }
     }
   ]
