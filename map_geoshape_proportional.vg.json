@@ -66,7 +66,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data.csv"
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/map_data2.csv"
       },
       "transform": [
         {
@@ -167,14 +167,14 @@
           "encoding": {
             "latitude": { "field": "latitude" },
             "longitude": { "field": "longitude" },
-            "size": { "value": 60 },
+            "size": { "value": 70 },
             "color": {
               "field": "BinValue",
               "scale": { "range": ["#abebfb", "#6dabb6", "#0c4180"] },
               "sort": [
-                "<0.5",
-                "0.5 - 10",
-                "10 - 20"
+                "<0.5 - 25",
+                "25 - 45",
+                "45 - 65.4"
               ],
               "legend": {
                 "title": "Food Insecurity (%)",
@@ -182,13 +182,13 @@
                 "direction": "horizontal",
                 "fillColor": "white",
                 "legendY": 290,
-                "values": ["<0.5", "0.5 - 10", "10 - 20"]
+                "values": ["<0.5 - 25", "25 - 45", "45 - 65.4"]
               }
             },
             "tooltip": [
               { "field": "Country", "type": "nominal" },
               {
-                "field": "BinValue",
+                "field": "Value",
                 "type": "ordinal",
                 "title": "Food Insecurity"
               }
