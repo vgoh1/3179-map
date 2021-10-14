@@ -86,7 +86,10 @@
           "field": "OverweightValue",
           "type": "quantitative",
           "scale": { "zero": false },
-          "title": "Overweight (%)"
+          "title": "Overweight (%)",
+          "axis": {
+            "gridOpacity": 0.5
+          }
         }
       }
     },

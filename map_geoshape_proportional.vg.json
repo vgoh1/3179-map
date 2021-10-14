@@ -62,7 +62,7 @@
         "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
         "format": { "type": "topojson", "feature": "world.geo" }
       },
-      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "#666562" }
+      "mark": { "type": "geoshape", "fill": "#e8e8e8", "stroke": "#888782" }
     },
     {
       "data": {
