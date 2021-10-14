@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Prevalence of obesity vs GDP per capita, 2016",
+  "title": "Prevalence of obesity in adults vs GDP per capita, 2016",
   "width": 752,
   "height": 250,
   "data": {
