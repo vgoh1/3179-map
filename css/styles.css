@@ -52,7 +52,7 @@ p {
   width: 500px;
 }
 
-.floating-text {
+.scatterplot-text {
   position: absolute;
   margin-left: 100px;
   margin-top: 40px;
@@ -70,4 +70,103 @@ p {
   height: 0.5px;
   border-radius: 1px;
   padding-bottom: 5px;
+}
+
+.wasting-outlier {
+  position: absolute;
+  margin-left: 207px;
+  margin-top: 75px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.afr-overweight-outlier3 {
+  position: absolute;
+  margin-left: 812px;
+  margin-top: 40px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.afr-overweight-outlier2 {
+  position: absolute;
+  margin-left: 745px;
+  margin-top: 40px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.afr-overweight-outlier1 {
+  position: absolute;
+  margin-left: 683px;
+  margin-top: 40px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.asia-overweight-outlier1 {
+  position: absolute;
+  margin-left: 771px;
+  margin-top: 73px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.asia-overweight-outlier2 {
+  position: absolute;
+  margin-left: 721px;
+  margin-top: 73px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.oce-overweight-outlier {
+  position: absolute;
+  margin-left: 753px;
+  margin-top: 174px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.afr-stunting-outlier {
+  position: absolute;
+  margin-left: 1222px;
+  margin-top: 40px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.eur-stunting-outlier {
+  position: absolute;
+  margin-left: 1055px;
+  margin-top: 108px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.na-stunting-outlier {
+  position: absolute;
+  margin-left: 1194px;
+  margin-top: 142px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.sa-stunting-outlier {
+  position: absolute;
+  margin-left: 1087px;
+  margin-top: 209px;
+  z-index: 1;
+  font-size: 11px;
+  font-style: italic;
 }

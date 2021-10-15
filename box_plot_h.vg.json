@@ -1,55 +1,42 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
-  },
-  "transform": [
-    { "filter": "datum.Year == '2019'" },
-    {
-      "lookup": "Area",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
-        },
-        "key": "Area",
-        "fields": ["Continent", "OverweightValue"]
-      }
-    },
-    {
-      "lookup": "Area",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/stunting_new.csv"
-        },
-        "key": "Area",
-        "fields": ["Continent", "StuntingValue"]
-      }
-    },
-    { "filter": { "field": "WastingValue", "valid": true } },
-    { "filter": { "field": "OverweightValue", "valid": true } },
-    { "filter": { "field": "StuntingValue", "valid": true } }
-  ],
   "hconcat": [
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/wasting_clean.csv"
+      },
+      "transform": [{ "filter": "datum.Year == '2019'" }],
       "title": {
         "text": "Wasting",
         "subtitle": ["Being dangerously thin for one's height"]
       },
       "width": 320,
       "height": 200,
-      "mark": { "type": "boxplot", "size": 25 },
-      "encoding": {
-        "y": { "field": "Continent", "type": "nominal" },
-        "color": { "field": "Continent", "type": "nominal", "legend": null },
-        "x": {
-          "field": "WastingValue",
-          "type": "quantitative",
-          "scale": { "zero": false },
-          "title": "Wasting (%)"
+      "layer": [
+        {
+          "mark": { "type": "boxplot", "size": 25 },
+          "encoding": {
+            "y": { "field": "Continent", "type": "nominal" },
+            "color": {
+              "field": "Continent",
+              "type": "nominal",
+              "legend": null
+            },
+            "x": {
+              "field": "WastingValue",
+              "type": "quantitative",
+              "scale": { "zero": false },
+              "title": "Wasting (%)"
+            }
+          }
         }
-      }
+      ]
     },
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/overweight_clean.csv"
+      },
+      "transform": [{ "filter": "datum.Year == '2019'" }],
       "title": {
         "text": "Overweight",
         "subtitle": ["Weighing more than what's recommended for one's age"]
@@ -58,7 +45,7 @@
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
-        "y": { "field": "Continent", "type": "nominal"},
+        "y": { "field": "Continent", "type": "nominal" },
         "color": {
           "field": "Continent",
           "type": "nominal",
@@ -94,6 +81,10 @@
       }
     },
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/vgoh1/3179-map/main/data/stunting_new.csv"
+      },
+      "transform": [{ "filter": "datum.Year == '2019'" }],
       "title": {
         "text": "Stunting",
         "subtitle": ["Being too short for one's age"]
@@ -102,7 +93,7 @@
       "height": 200,
       "mark": { "type": "boxplot", "size": 25 },
       "encoding": {
-        "y": { "field": "Continent", "type": "nominal"},
+        "y": { "field": "Continent", "type": "nominal" },
         "color": { "field": "Continent", "type": "nominal", "legend": null },
         "x": {
           "field": "StuntingValue",
