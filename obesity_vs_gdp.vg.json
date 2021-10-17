@@ -33,7 +33,7 @@
         { "calculate": "2000", "as": "x_position" },
         { "calculate": "43", "as": "y_position" }
       ],
-      "mark": { "type": "rect", "fill": "#f3f3e9", "fillOpacity": 0.1, "cornerRadius": 10 },
+      "mark": { "type": "rect", "fill": "#faf4f1", "fillOpacity": 0.1, "cornerRadius": 10 },
       "encoding": {
         "x": { "field": "x_position", "type": "quantitative" },
         "y": { "field": "y_position", "type": "quantitative" },
@@ -85,7 +85,7 @@
               "#8b75ab",
               "#a93d31",
               "#5f7e5c",
-              "#a36f00",
+              "#b76f97",
               "#001e35"
             ]
           },
