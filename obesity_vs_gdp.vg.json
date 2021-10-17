@@ -17,14 +17,14 @@
   "layer": [
     {
       "transform": [
-        { "calculate": "105", "as": "x_position" },
-        { "calculate": "25", "as": "y_position" }
+        { "calculate": "110", "as": "x_position" },
+        { "calculate": "35", "as": "y_position" }
       ],
       "mark": { "type": "rect", "fill": "white", "fillOpacity": 1 },
       "encoding": {
         "x": { "field": "x_position", "type": "quantitative" },
         "y": { "field": "y_position", "type": "quantitative" },
-        "x2": { "value": 225 },
+        "x2": { "value": 240 },
         "y2": { "value": 3 }
       }
     },

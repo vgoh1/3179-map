@@ -54,12 +54,12 @@ p {
 
 .scatterplot-text {
   position: absolute;
-  margin-left: 100px;
+  margin-left: 105px;
   margin-top: 40px;
   height: 200px;
   width: 225px;
   z-index: 1;
-  font-size: 12.5px;
+  font-size: 11px;
 }
 
 .divider {
