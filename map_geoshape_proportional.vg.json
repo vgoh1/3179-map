@@ -163,14 +163,14 @@
             { "filter": "datum.Item == 'insecurity'" },
             { "filter": "datum.Country != null" }
           ],
-          "mark": { "type": "circle", "opacity": 0.7 },
+          "mark": { "type": "circle", "opacity": 0.8 },
           "encoding": {
             "latitude": { "field": "latitude" },
             "longitude": { "field": "longitude" },
             "size": { "value": 70 },
             "color": {
               "field": "BinValue",
-              "scale": { "range": ["#8ed7ac", "#5bc1a9", "#3d9f88"] },
+              "scale": { "range": ["#CBF3D8", "#7FD4C1", "#4E9683"] },
               "sort": [
                 "<0.5 - 25",
                 "25 - 45",
