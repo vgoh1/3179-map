@@ -100,7 +100,7 @@
           {
             "field": "Obesity",
             "type": "quantitative",
-            "title": "Prevalence of obesity in adult population"
+            "title": "Prevalence of obesity"
           },
           { "field": "GDP", "type": "quantitative", "title": "GDP per capita" }
         ]
@@ -123,7 +123,7 @@
         "x": { "field": "GDP", "type": "quantitative" },
         "opacity": {
           "condition": {
-            "test": "datum['Area'] == 'Nauru' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Haiti' || datum['Area'] == 'Equatorial Guinea' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Vietnam'",
+            "test": "datum['Area'] == 'Nauru' || datum['Area'] == 'Luxembourg' || datum['Area'] == 'Haiti' || datum['Area'] == 'Equatorial Guinea' || datum['Area'] == 'Kuwait' || datum['Area'] == 'Singapore'",
             "value": 1
           },
           "value": 0
