@@ -123,7 +123,7 @@
                 "orient": "none",
                 "direction": "horizontal",
                 "fillColor": "white",
-                "legendY": 255
+                "legendY": 259
               },
               "scale": {
                 "range": [
@@ -181,7 +181,7 @@
                 "orient": "none",
                 "direction": "horizontal",
                 "fillColor": "white",
-                "legendY": 290,
+                "legendY": 295,
                 "values": ["<0.5 - 25", "25 - 45", "45 - 65.4"]
               }
             },
